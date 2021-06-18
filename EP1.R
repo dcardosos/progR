@@ -120,28 +120,41 @@ plot(meupi,
 ## Exercício 8 
 ### Se usar a mediana, evita a influência da variância nos dados
 ### Primeiro foi utilizado um algortimo de ordenação dos vetores para poder
-### calcular a mediana a partir dos dados ordenados em ordem crescente
-meupi_ordenado <- c()
+### calcular a mediana a partir dos dados ordenados em ordem crescentes
+meupi_ordenado <- meupi[]   # copia de meupi
 
-for (j in 2:len_observacoes) {     # começa do segundo elemento
-  proximo = meupi[j]                     
-  m = j - 1                        # define m sendo o elemento anterior ao j
+for ( j in 2:len_observacoes ) {                    # começa do segundo elemento
+  chave <- meupi_ordenado[j]                     
+  i <- j - 1                                        # define i sendo o elemento anterior ao j
   
-  while (m > 0 && A[m] > proximo) {    # enquanto o elemento anterior for maior que zero
-                                   # e maior que o elemento posterior    
-    
-    meupi_ordenado[(m + 1)] = A[m] # insere no vetor meupi_ordenado esse elemento
-                                   # na posição posterior a dele (m + 1)
-    m = m - 1 
+  while ( i > 0 && meupi_ordenado[i] > chave ) {    # enquanto o elemento anterior for maior que zero
+                                                    # e maior que o elemento posterior    
+    meupi_ordenado[(i + 1)] <- meupi_ordenado[i]    # insere no vetor meupi_ordenado esse elemento
+                                                    # na posição posterior a dele (i + 1)
+    i <- i - 1 
   }
-  meupi_ordenado[(m + 1)] = proximo # se o elemento for menor que zero ou maior
-                                    # que o elemento anterior, ele está no lugar certo
+  
+  meupi_ordenado[(i + 1)] <- chave                  # se o elemento for menor que zero ou maior
+                                                    # que o elemento anterior, ele está no lugar certo
 }
 
-### Como o tamanho das observações é par, pega-se os dois elmentos medianos
-### na posição 300 e 301, soma e divide por 2 (faz a média deles)
-medianaUm <- meupi_ordenado[len_observacoes / 2]
-medianaDois <- meupi_ordenado[len_observacoes / 2 + 1]
-piMediano <- (medianaUm + medianaDois) / 2
 
-cat('Valor do piMediano:', piMediano)
+### Caso o tamanho do vetor seja par, é necessário pegar os dois elementos medianos
+### nesse caso, é o elemento 300 e o 301, caso seja ímpar, pega apenas o elemento do meio
+tamanho = length( meupi_ordenado)
+if ( tamanho %% 2 == 0 ) { 
+  
+  medianaUm   <- meupi_ordenado[ tamanho / 2]
+  medianaDois <- meupi_ordenado[ tamanho / 2 + 1]
+  
+  piMediano <- ( medianaUm + medianaDois ) / 2
+  cat( 'Valor do piMediano:', piMediano )
+  
+} else {
+    
+  piMediano <- meupi_ordenado[ tamanho / 2]
+  cat( 'Valor do piMediano:', piMediano )
+  
+  }
+
+
