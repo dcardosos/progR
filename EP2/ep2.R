@@ -5,8 +5,27 @@ df <- read_delim('ml-100k/u.data', delim = '\t',
                                'rating', 
                                'timestamp'))
 
+dados <- read.csv('ml-100k/u.data', 
+                  sep = '\t', 
+                  header = FALSE,
+                  col.names =  c('user_id', 
+                                 'item_id', 
+                                 'rating', 
+                                 'timestamp'))
 
-matrix_na <- matrix(nrow = 943, ncol = 1682)
+userid <- dados$user_id
+itemid <- dados$item_id
+rating <- dados$rating
+
+matriz_with_na <- matrix(nrow = max(userid), ncol = max(itemid))
+
+k <- 1
+while(k <= nrow(dados)){
+  matriz_with_na[dados[k, 1], dados[k, 2]] <- dados[k, 3]
+  
+  k <- k + 1
+}
+
 
 for (i in 1:943){
   for (j in 1:1682){
@@ -28,10 +47,11 @@ contaLinha <- function(m){
   num_avaliacoes
 }
 
-contaLinha(matrix_na)
+contaLinha(matriz_with_na)
 
 
-## ex 4
+
+##  4
 contaColuna <- function(m){
   num_avaliacoes <- c()
   for (i in 1:ncol(m)){
@@ -40,20 +60,46 @@ contaColuna <- function(m){
   num_avaliacoes
 }
 
-contaColuna(matrix_na)
+contaColuna(matriz_with_na)
 
 
 ## ex 5
+# mediaColuna <- function(m){
+#   media <- c()
+#   for (i in 1:ncol(m)){
+#     media <- c(media, mean(m[, i], na.rm = TRUE))
+#   }
+#   media
+# }
+
+fazMedia <- function(vetor){
+  
+  soma <- 0   
+  tamanho <- 0
+  
+  for (i in vetor){
+    if(!is.na(i)){
+      soma <- soma + i
+      tamanho <- tamanho + 1
+    }
+  }
+  
+  (1 / tamanho) * soma
+  
+}
+
+
 mediaColuna <- function(m){
   media <- c()
   for (i in 1:ncol(m)){
-    media <- c(media, mean(m[, i], na.rm = TRUE))
+    media <- c(media, fazMedia(m[, i]))
   }
   media
 }
 
+
 ## ex6
-mediaFilmes <- mediaColuna(matrix_na)
+mediaFilmes <- mediaColuna(matriz_with_na)
 
 
 ##ex 7 
@@ -78,7 +124,6 @@ u_item <- read_delim('ml-100k/u.item', '|',
                        'thriller',
                        'war',
                        'western'))
-
 
 data <- u_item[, c('movie_id', 'movie_title')]
 
