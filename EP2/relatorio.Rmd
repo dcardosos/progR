@@ -1,3 +1,15 @@
+---
+title: "EP2"
+author: "Lucas da Silva Kairoff"
+date: "7/11/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
 #################################################################
 ## AO PREENCHER ESSE CABEÇALHO COM O MEU NOME E O MEU NÚMERO USP,
 ## DECLARO QUE SOU O ÚNICO AUTOR E RESPONSÁVEL POR ESSE PROGRAMA.
@@ -21,15 +33,24 @@
 ## Referências: 
 ### Slides do professor
 #############################################################
+``` 
 
-# EX 1
+# Exercício 1
+
+Leitura do arquivo utilizando a função read.table e especificando o nome de cada coluna.
+```{r}
 df <- read.table('ml-100k/u.data', 
                  col.names = c('user_id', 
                                'item_id', 
                                'rating', 
                                'timestamp'))
+```
 
-# EX 2
+# Exercício 2
+Criação e preenchimento da matriz de acordo com as colunas `user_id` e `item_id` dos dados. O preenchimento foi feito utilizando o conceito de índices de dataframes e de matrizes.
+
+```{r}
+
 userid <- df$user_id
 itemid <- df$item_id
 rating <- df$rating
@@ -39,17 +60,26 @@ matriz <- matrix(nrow = max(userid), ncol = max(itemid))
 for(index in 1:nrow(df)){                 
   matriz[df[index,1], df[index,2]] <- df[index,3]
 }
+```
 
-# EX 3
+# Exercício 3
+
+Função `contaLinha` utilizando da função `which`. Essa função retorna índices vetorizados seguindo uma certa condição. No caso desse exercício, retorna os índices de cada linha da matriz em que os valores não são NA, ou seja, que foram avaliados.
+
+```{r}
 contaLinha <- function(m){
   q_rating_user <- c()
   for (i in 1:nrow(m)){
-    q_rating_user <- c(q_rating_user, length(which(!is.na(m[i, ])))) # onde o valor na linha da matriz for NA, retorna o índice e depois calcula o tamanho de todos esses índices, que saem em de which vetorizado
+    q_rating_user <- c(q_rating_user, length(which(!is.na(m[i, ]))))
   }
   q_rating_user
 }
+```
 
-# EX 4
+# Exercício 4
+Segue a mesma lógica da função anterior, mas com as colunas.
+
+```{r}
 contaColuna <- function(m){
   q_rating_movie <- c()
   for (i in 1:ncol(m)){
@@ -57,9 +87,13 @@ contaColuna <- function(m){
   }
   q_rating_movie
 }
+```
 
-# EX 5
-## Criação de uma função que calcula a média sem NA
+# Exercício 5
+Nesse exercício, para não utilizar de funções estatística prontas, como a função `mean`, foi feita uma função que calcula a média já desconsiderando os valores NA e depois foi aplicada na função `mediaColuna`. Ambas foram feitas com conceitos vistos no EP1 e nos itens anteriores.
+
+```{r}
+# Criação de uma função que calcula a média sem NA
 mean_without_na <- function(vector){
   sum_elements <- 0
   len_new_vector <- 0
@@ -82,11 +116,18 @@ mediaColuna <- function(m){
   }
   mean_m
 }
+```
 
-# EX 6
+# Exercício 6
+Aplicação da função `mediaColuna`.
+```{r}
 mediaFilmes <- mediaColuna(matriz)
+```
 
-# EX 7 
+# Exercício 7
+Leitura do arquivo com o nome dos filmes e os *id's*. Foi feita uma máscara com valores booleanos da condição de que os filmes tenham uma média maior que 4.3 e aplicada ao vetor com o nome dos filmes. Isso é possível visto que os índices são iguais.
+
+```{r}
 u_item <- read.csv('ml-100k/u.item', sep = '|', header = FALSE,
                    col.names = c('movie_id', 'movie_title', 3:24))
 
@@ -95,14 +136,22 @@ data <- u_item[, c('movie_id', 'movie_title')]
 mascara <- mediaFilmes >= 4.3
 all_movies <- data$movie_title
 nomeFilmes <- all_movies[mascara]
+```
 
-# EX 8
+# Exercício 8
+```{r}
 contaUsers <- contaLinha(matriz)
+```
 
-# EX 9
+# Exercício 9
+```{r}
 contaFilmes <- contaColuna(matriz)
+```
 
-# EX 10
+# Exercício 10
+Visualização gráfica.
+
+```{r}
 hist(contaUsers, 
      main = 'Histograma da quantidade de avaliações que cada usuário deu',
      xlab = 'Usuário',
@@ -133,3 +182,4 @@ hist(contaFilmes, breaks = 100,
      main = 'Histograma da quantidade de avaliações que cada cada filme recebeu (breaks = 100)',
      xlab = 'Filme',
      ylab = 'Quantidade de avaliações')
+```
