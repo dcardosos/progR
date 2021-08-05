@@ -56,6 +56,7 @@ url <- 'https://www.nrscotland.gov.uk/files//statistics/babies-names/20/babies-f
 
 babynames <- readr::read_csv(url)
 
+# most common in year
 babynames %>%
   select(!c(rank, position, sex)) %>%
   rename(
@@ -71,18 +72,42 @@ babynames %>%
   arrange(desc(year))
 
 
+## fracao maxima dos nomes em determinado ano - popularidade
 babynames %>%
   select(!c(rank, position, sex)) %>%
   rename(
     year = yr,
     name = FirstForename) %>%
-  group_by(year) %>%
-  mutate(year_total = sum(number)) %>%
-  ungroup() %>% 
+  group_by(name) %>% 
   mutate(
-    fraction = number / year_total) %>%
-  filter(name == 'David')
-  
+    max_n = max(number),
+    sum_N = sum(number)) %>% 
+  ungroup() %>% 
+  mutate(fraction_max = number / max_n) %>% 
+  filter(name %in% c('David', 'John', 'Mark')) %>% 
+  ggplot(aes(year, fraction_max, color = name)) + 
+  geom_line()
 
+popularidade <- function(name) {
+    
+  babynames %>%
+    group_by(yr) %>%
+    mutate(year_total = sum(number)) %>%
+    ungroup() %>% 
+    mutate(fraction = number / year_total) %>%
+    filter(FirstForename %in% name, number > 2) %>% 
+    ggplot(aes(yr, fraction, color = FirstForename)) +
+    geom_line() +
+    theme_minimal() +
+    labs(
+      x = 'Ano',
+      y = 'Quantidade pelo Total',
+      title = glue::glue(
+        'Evolução da popularidade do nome na Escócia'))
+}
 
-  
+popularidade('Douglas')
+popularidade(c('Douglas', 'Alice', 'Olivia', 'David'))
+
+# lag function
+dplyr::lag(c(1,2,3))
