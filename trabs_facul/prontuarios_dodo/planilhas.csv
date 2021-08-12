@@ -1,0 +1,1012 @@
+DATA,NOME,IDADE,GÊNERO,RAÇA,HIST. MÉDICA,ETIOLOGIA,DISP. SEGURANÇA,UNI,BI,FRATURAS ASSOCIADAS,Lesões,TTO NÃO-CIRÚRGICO,CIRÚRGICO,RESOLUÇÃO,DATA TRAUMA,DATA CIRURGIA,DATA ALTA
+2019,Adelaide Pereira Mariano,63,F,Pardo,/,Queda de nível,não,,X,Fratura de OPN sem deslocamento,FCC em dorso nasal,X,,Tratamento conservador + prescrição,26/5/2019,26/5/2019,26/5/2019
+2019,Adriana Cristina Alves da Cruz,41,F,Branca,/,Acidente motociclístico,não,,X,"FCC em fundo de fornix em região mandibular, FCC em glabela",,,X,Tamponamento anterior + sut. em fundo de vestibulo + internação + exames pré-op,23/8/2019,/,23/8/2019
+2019,Adriana M. de Carvalho,39,F,Branca,/,Acidente doméstico,não,,X,Fratura OPN,,X,,Tratamento conservador + prescrição,7/8/2019,/,12/8/2019
+2019,Alcidia Garcia de Morais,87,F,Branca,/,Queda da própria altura,não,Esquerdo,,Fratura de OPN,FCC em dorso nasal,X,,Tratamento conservador + prescrição,11/9/2019,/,11/9/2019
+2019,Aldenora Gomes dos Santos,79,F,Pardo,"HAS, 4 AVCs (propanolol, losartana, hidroclorotiazida, AAS, sinvastatina, cilostazol), incontinência urinária, osteoporose (alendronato, adera)",Fístula extra-oral há 30 dias,não,,X,Osteonecrose?? displasia óssea??,,,X,internação + exames laboratoriais + aguardando equipe médica,/,/,/
+2019,Alice Barreto,65,F,Branca,"Edentula, maxila atrófica",Maxila atrófica,não,,X,,,,X,Enxerto de calota craniana para reconstrução de maxila,,9/8/2019,/
+2019,Alice Sonego,62,F,Branca,"Imunossupressão, leucopenia, plaquetopenia",Dor em dente 48,não,Direito,,,"Úlcera traumática por 3ºMS, extrusão do 18, limitação da abertura bucal",,X,Aguardando equipe médica,/,/,/
+2019,Alice Sonego,73,F,Branca,/,Queda da própria altura,não,,X,Fratura de OPN sem deslocamento,,X,,Tratamento conservador + prescrição,/,/,/
+2019,Amanda Pereira Batista,27,F,Branca,/,Celulite pós exo 28/38,não,Esquerdo,,/,,,X,internação + prescrição + aguardando equipe médica,14/7/2019,/,/
+2019,Ana Beatriz dos Santos Ferreira,5,F,Negra,Síndrome de West,Queda de nível,sim,,X,TDA no 51 e subluxação no 61,,X,,Prescrição + encaminhamento pediatria,28/5/2019,/,28/5/2019
+2019,Ana Laura da Silva,53,F,Negra,/,Acidente ciclístico,sim,,X,Fratura em região de sutura fronto-zigomática (E) e em parete lateral de órbita (E),,X,,Orientações sobre tratamento conservador + prescrições + encaminhamento á clínica de TDA,24/9/2019,/,24/9/2019
+2019,Ana Luiza Souza Landim,2,F,/,/,Queda da própria altura,sim,Esquerdo,,Fratura de bloco dentoalveolar mandibular,Escoriações,X,,Acompanhamento á odontopediatria + prescrição,20/11/2019,/,20/11/2019
+2019,Ana Paula Riciardi Rodrigues,40,F,Branca,/,Queda da própria altura,não,,X,Fratura de OPN com leve deslocamento,,X,,Tratamento conservador + prescrição,/,/,/
+2019,Angela Candido de Souza,42,F,Branca,Nega,Agressão física,não,,X,Fratura nasal,,,X,Redução + TNA sob AL + prescrição,16/11/2019,18/11/2019,18/11/2019
+2019,Angela Candido de Souza,42,F,Branca,/,Agressão física,não,,X,Fratura nasal,,,X,Redução + TNA sob AL + prescrição,16/11/2019,18/11/2019,18/11/2019
+2019,Angela da Silva,59,F,Branca,/,Acidente automobilístico,não,Direito,,Deslocamento dentoalveolar dos 11 e 12,,X,,Contenção + prescrição,10/11/2019,10/11/2019,/
+2019,Ângela Maria Ramos Ferreira,63,F,Branca,"Aterosclerose, realizou angiolplastia, faz uso de Selozoc, Somalgin, Cresto",Queda da própria altura após perda de consciência,não,Direito,,Fratura CZO,,,X,Internação + cirurgia + prescrição,/,/,/
+2019,Angela Maria Risso dos Santos,52,F,Branca,"Fibromialgia, hipotireoidismo, uso de Bromazepam, Levotiroxina",Queda de nível,não,Esquerdo,,Fratura de OPN com leve deslocamento,FCC em supercílio,X,,Tratamento conservador + prescrição,29/12/2019,/,13/1/2020
+2019,Angelita Aparecida de Oliveira,53,F,Branca,Nega,Queda de nível,não,,X,Fratura de corpo mandibular e CZO (E),Limitação de abertura bucal,,X,Internação + REFI de fratura mandibular + prescrição,21/12/2019,26/12/2019,1/2/2020
+2019,Anna Josephina Salesse Ervolino,66,F,Branca,/,Queda da própria altura pós perda de consciência,sim,,X,Fratura em mento,"FCC em frontal, dorso frontal, em filtro labial e mento",X,,Orientações para casa,4/12/2019,/,16/12/2019
+2019,Antonela Finati Fiuza,1,F,Branca,/,Queda da própria altura,sim,,X,/,FCC superficial em dorso de língua,X,,Sutura + retorno,18/6/2019,/,/
+2019,Augusta Bernardi da Silva,74,F,Branca,/,Queda da própria altura,sim,Esquerdo,,Contusão facial,,X,,Prescrição para casa,27/5/2019,/,27/5/2019
+2019,Aurora Salgado Sabotto,83,F,Branca,DM e hipertensão,Queda da própria altura,sim,Direito,,Fratura de arco zigomático,FCC em região supra orbital,X,,Orientações para casa,/,/,/
+2019,Beatriz Alburquerque Viveiros,3,F,Branca,/,Queda da própria altura,não,,X,,FCC em lábio sup.,X,,Sutura sob AL + orientação,/,/,/
+2019,Beatriz Cardoso Pereira,20,F,Pardo,/,Colisão contra anteparo,não,,X,Fratura de OPN sem deslocamento,,X,,Tratamento conservador + prescrição,/,/,/
+2019,Beatriz de Freitas,78,F,Branca,/,Displasia fibrosa,não,Direito,,/,,,X,Regularização de rebordo + prescrição,/,7/11/2019,/
+2019,Beatriz Gabriela da Cunha Mota,2,F,Branca,/,Mordedura canina,não,,X,/,"FLC em face e vestíbulo mandibular, FCC de lábio inferior, região frontal e mento",,X,Sutura sob AG + prescrições,19/6/2019,/,19/6/2019
+2019,Beatriz Guilhem dos Santos,20,F,Branca,/,Monoplegia em membros inferiores e suspeita de actineomicose/mielorradiculopatia,não,Direito,,,,,X,Necessidade de exo dos 18 e 48 + internação + exames laboratoriais + aguardando equipe médica,28/8/2019,/,
+2019,Bianca Cristina Ferreira,21,F,Branca,/,Acidente motociclístico,sim,,X,Limitação de abertura bucal,,X,,Orientações para casa,24/8/2019,/,24/8/2019
+2019,Carisa Pelozato,36,F,Branca,/,Acidente automobilístico,sim,,X,,Trauma facial,X,,Orientações para casa,/,/,/
+2019,Carolina Roves Patim,21,F,Branca,/,Acidente automobilístico,não,,X,Fratura de OPN sem deslocamento,"FDA em frontal, FCC em glabela, em dorso nasal e em lábio inf.",X,,Tratamento conservador + prescrição,3/11/2019,/,11/11/2019
+2019,Caroline Sartori David,24,F,Branca,/,Acidente motociclístico,sim,,X,Limitação de abertura bucal,,X,,Orientações para casa,25/8/2019,/,25/8/2019
+2019,Cely Gomes Marinho,92,F,Branca,"Câncer de mama, Alzheimer e hematurina. Apresentando trismo e fraturas coronárias",Fraturas coronárias,não,,X,"Fraturas coronárias dos 11, 21, 31 e 41",,,X,"Exo dos 11, 21, 31 e 41",19/9/2019,26/9/2019,26/9/2019
+2019,Clara Cristina,18,F,Negra,/,Queda da própria altura,sim,Esquerdo,,,Trauma facial,X,,Orientações para casa,/,/,/
+2019,Claudineia Xavier,51,F,Pardo,/,Nevralgia após instalação de implante em mandíbula,não,,X,,Nevralgia do alveolar inferior,,X,Seccionamento do nervo alveolar inferior (lateralizado em procedimento anterior) + prescrição,29/10/2019,30/10/2019,/
+2019,Dagmar Fortunato de Souza,50,F,Negra,/,Agressão física,não,,X,FCC + contusão,,X,,Sutura do FCC + prescrição,27/10/2019,/,27/10/2019
+2019,Damara de Araujo Arantes,27,F,Branca,/,Acidente ciclístico,não,Direito,,Fratura CZM e de região fronto-zigomática,FDA em terço médio da face,,X,Osteossíntese de fraturas + prescrição,29/10/2019,1/11/2019,4/11/2019
+2019,Debora Gentil da Silva,15,F,Branca,/,Queda de nível,sim,,X,Fratura nasal,,X,,Prescrição para casa,29/1/2019,/,3/2/2019
+2019,Denise Oliveira Pires,39,F,Branca,/,Queda da própria altura após perda de consciência e epistaxe,não,Esquerdo,,Fratura de OPN com deslocamento,,,X,Redução ambulatorial + prescrição,21/5/2019,/,21/5/2019
+2019,Edna Alves de Souza Ferreira,24,F,Pardo,Nega,Queda da própria altura,não,,X,Fratura de OPN com deslocamento,,,X,Redução sob AG,31/7/2019,2/8/2019,/
+2019,Edna aparecida dona cavalari,48,F,Branca,"Colesterol alto, hipertireoidismo",Acidente com animal (coice de mula),não,Esquerdo,,Fratura de parede anterior e posterior de seio frontal,FCC em região frontal,,X,REFI + prescrição,1/5/2019,4/5/2019,5/5/2019
+2019,Edna Squizatti,54,F,Pardo,/,Nevralgia após instalação de placa de osteossíntese há 1 ano e meio,não,Esquerdo,,,Nevralgia  ,,X,Remoção de placas de osteossíntese em CZM lado esquerdo + prescrição,30/10/2019,1/11/2019,11/11/2019
+2019,Emanuela Almeida Rocha Souza,3,F,Branca,/,Acidente doméstico,não,,X,,FCC em palato mole + possível corpo estranho,,X,Cirurgia sob AG,/,/,/
+2019,Etsuco Tesima,78,F,Amarela,Edentula,Queda da própria altura,não,Esquerdo,,Fratura de côndilo  ,,X,,Tratamento conservador + prescrição,23/8/2019,/,23/8/2019
+2019,Eunice Combonatti,88,F,Branca,Hipotireoidismo,Queda da própria altura,não,Direito,,Fratura em assoalho de órbita blowout + parede anterior de seio maxilar,,X,,Tratamento conservador + prescrição,12/9/2019,/,12/9/2019
+2019,Eunice Rosa Mantovani,63,F,Branca,/,Acidente automobilístico,não,,X,"Fratura de corpo mandibular E, de côndilos mandibulares e de fossa temporal E",,,X,Aguardando equipe médica,25/5/2019,/,/
+2019,Fabiano Junior dos Santos,31,F,Negra,/,Acidente motociclístico,não,Direito,,Mordida aberta anterior,,X,,Tratamento conservador + prescrição,/,,4/4/2019
+2019,Fraila de Carvalho Rezende,15,F,Pardo,/,Acidente ciclístico,sim,Esquerdo,,,Contusão facial,X,,Prescrição para casa,24/5/2019,/,24/5/2019
+2019,Gabriela Conde Viana,17,F,Branca,/,Agressão física,não,,X,Fratura de OPN com deslocamento,"FCC em dorso nasal, rinoescoliose (E)",,X,Sutura em dorso nasal + redução de OPN ambulatorial + prescrições,4/9/2019,,9/9/2019
+2019,Genir Macedo Correa,59,F,Branca,/,Queda da própria altura,sim,Esquerdo,,,Possível tumor em região posterior mandibular,X,,Prescrição para casa,27/9/2019,/,/
+2019,Genir Maria de Jesus Vilela,88,F,Pardo,/,Queda da própria altura,não,,X,Fratura de OPN com leve deslocamento,"FCC superficial em dorso nasal, rinoescoliose",X,,Tratamento conservador + prescrição,5/9/2019,/,9/9/2019
+2019,Giovana Aparecida Matias de Sá,15,F,Branca,/,Infecção de origem odontogênica,não,Direito,,,,X,,Remoção do dreno + irrigação com SFO ao longo da semana + prescrições,19/09/2019 -- 27/09/2019,19/09/2019 -- 27/09/2019,30/9/2019
+2019,Glauciane A. Gonçalves Prado,34,F,Branca,Extrações dentárias que levaram a edema,"Edema em região submandibular, submentoniana, sublingual e cervical",não,,X,,"Angina de Ludwig, limitação de abertura bucal",,X,internação + prescrição + aguardando equipe médica,26/5/2019,27/5/2019,/
+2019,Hayssa Oliveira,16,F,Pardo,/,Acidente ciclístico,sim,Direito,,Fratura intra capsular de côndilo,FCC em mento ,X,,Orientações para casa,/,/,/
+2019,Helena Faleiros,80,F,Pardo,"HAS, hérnia de disco, uso de Losartana, Atenolol, Hidroclorotiazida",Queda da própria altura,não,Direito,,"Fratura CZO, parede lateral de seio maxilar",,X,,Tratamento conservador + prescrição,12/9/2019,/,12/9/2019
+2019,Hiroko Kamagae,75,F,Amarela,HAS e Diabetes (losartana e metformina),Queda da própria altura,não,Direito,,,Contusão facial,X,,Tratamento conservador + prescrição,/,/,/
+2019,Iracema Fernandes da Rocha,57,F,/,/,Queda da própria altura,sim,,X,/,,X,,Orientações para casa,27/5/2019,/,27/5/2019
+2019,Isaura Crepaldi,72,F,Branca,Desdentada total com uso de PT,Queda da própria altura,sim,,X,,FDA em região de rebordo supraorbitário,X,,Prescrição para casa,28/10/2019,/,28/10/2019
+2019,Ivani Alves Pinheiro,50,F,Negra,"Hipotireoidismo (Euthyrox), anemia",Atropelamento,não,,X,"Fratura CZM e arco zigomático Bi, fratura de coronóide D, fratura de assoalho de órbita D",,,X,internação + exames laboratoriais + aguardando equipe médica,17/11/2019,3/12/2019,/
+2019,Ivani Alves Pinheiro,50,F,Pardo,"Hipotireoidismo, anemia",Atropelamento,não,,X,"Fratura de arco zigomático (D) e (E), fratura coronóide (D), CZM (D) e (E), assoalho orbital (D) e (E)",FCC em região frontal/temporal,,X,Internação + manutenção de prescrição + aguardando equipe médica,12/11/2019,/,/
+2019,Ivanir Albino Fernander,65,F,Branca,/,Queda da própria altura,não,,X,Fratura OPN,,Conservador,,Prescrição para casa,9/8/2019,/,12/8/2019
+2019,Ivoneide Roldão,54,F,Branca,Trombose em MMI há 11 anos (HAS),Aumento volumétrico em face há 5 dias,não,,X,/,,,X,"Exo dos 12, 13 e 26 sob AG + biópsia ",31/10/2019,/,10/11/2019
+2019,Izaura Ribeiro de Moraes,80,F,Branca,/,Acidente automobilístico,não,Esquerdo,,Fratura de maxilar sem deslocamento,,X,,Tratamento conservador + orientações,23/9/2019,/,23/9/2019
+2019,Jaqueline Silva dos Santos,22,F,Negra,/,Agressão física,sim,Direito,,,Contusão facial,X,,Prescrição para casa,2/11/2019,/,2/11/2019
+2019,Jessica Ferreira de Oliveira,28,F,Branca,/,Acidente motociclístico,não,Direito,,Fratura de parede anterior e posterior de seio maxilar e de parede lateral e posterior de órbita,"FCC em região frontal, limitação da abertura bucal",X,,Tratamento conservador + prescrição,8/9/2019,/,16/9/2019
+2019,Jéssica Renata da S. Ferreira Lima,28,F,Branca,/,Acidente motociclístico,não,Direito,,Fratura de parede lateral de seio maxilar e osso etmoidal,"FDA em lábio inf., contusão facial",X,,Tratamento conservador + prescrição,21/6/2019,/,21/6/2019
+2019,Joice Aparecida Joaquim,36,F,Branca,Hist. de fratura prévia de OPN,Acidente automobilístico,não,,X,Rinoescoliose E,,X,,Tratamento conservador + prescrição,4/11/2019,,4/11/2019
+2019,Joseana de Lourdes dos Santos,38,F,Negra,/,"Dor em dente 38 há 5 dias, evoluindo com aumento de volume, faz uso de clavulim",não,,X,,Angina de ludwig,,X,"Internação + remoção do dreno + limpeza com SF 0,9%",/,/,/
+2019,Josiane Correia Dias,35,F,Branca,/,Acidente automobilístico,sim,Direito,,Fratura de OPN,,X,,Tratamento conservador + prescrição,20/8/2019,20/8/2019,20/8/2019
+2019,Josiane Cristina de Jesus Barbosa,9,F,Negra,/,Atropelamento,não,Direito,,Fratura CZO e TCE,,,X,Aguardando equipe médica,1/6/2019,/,/
+2019,Josiane de Lourdes dos Santos,38,F,Negra,/,Angina de Ludwig envolvendo espaços cervicais,sim,,X,,,X,,Prescrição para casa,20/7/2019,20/7/2019,/
+2019,Josiane de Lourdes dos Santos,38,F,Branca,"Internada há dias, submetida a drenaagem em sublingual, submandibular e submentoniano",Infecção odontogênica evoluindo pra Angina de Ludwig,sim,,X,,Abcesso de origem odontogênica,X,,Prescrição + exames laboratoriais,/,/,/
+2019,Josiane G. Pereira da Silva,45,F,Branca,/,Acidente automobilístico,não,,,Fratura do complexo zigomático orbitário (CZO) E,,,X,Aguardando equipe médica,10/8/2019,/,/
+2019,Juliana Tavares da Silva,41,F,/,/,Queda da própria altura,sim,Esquerdo,,Contusão facial,,X,,Prescrição para casa,27/5/2019,/,27/5/2019
+2019,Karolayne Aparecida da Silva Soares,9,F,Negra,/,Queda da própria altura,sim,Direito,,TDA  ,,X,,Prescrição + encaminhamento CD,29/5/2019,/,29/5/2019
+2019,Keila Mitiko Ataide,32,F,Branca,/,Acidente motociclístico,não,Esquerdo,,Fratura de arco zigomático,"FDA em mento, limitação da abertura bucal",,X,internação + exames laboratoriais + aguardando equipe médica,8/12/2019,/,/
+2019,Laiane do Carmos,25,F,Pardo,Nega,Acidente automobilístico,não,,X,Fratura Le Fort I,,,X,REFI maxila + redução OPN + TNA sob AG + prescrição,18/12/2019,23/12/2019,24/12/2019
+2019,Liliane Cristina,34,F,Branca,/,Acidente ciclístico,não,,X,Luxação de ATM,Limitação da abertura bucal,,X,Redução + prescrição,/,/,/
+2019,Luana Gabriela da Silva,20,F,Branca,/,Luxação de ATM (5º ep. em 3 meses),não,,X,Luxação de ATM,/,,X,Redução ambulatorial e curativo compressivo + prescrições,2/9/2019,/,9/9/2019
+2019,Lucilene Cardoso de Oliveira,0,F,Branca,/,Presença de dentes ao nascimento da criança,sim,,X,,Dentes neonatos,X,,Orientações para casa,21/5/2019,/,21/5/2019
+2019,Mafalda Magri de Oliveira,94,F,Branca,"HAS, hipotireoidismo, diabética, AVC (06 meses), problema renão não especificado, uso de Aspirina, Puran, Caverdilol, Azulcon",Encaminhada para exo hospitalar,não,,X,,"Múltiplos elementos dentais com ampla destruição e lesão periapical, foco de infecção intraoral",,X,Exo em ambiente hispitalar sob AG,22/7/2019,27/7/2019,27/7/2019
+2019,Maiara Soares Porto,41,F,Pardo,/,Acidente motociclístico,não,,X,"Fratura de mandíbula, avulsão do 11 e 21, limitação da abertura bucal",,,X,internação + prescrição + aguardando equipe médica,1/6/2019,/,/
+2019,Maisa Ribeiro Vieira,14,F,Branca,Nega,Agressão física,não,Direito,,Fratura de OPN com leve deslocamento,,X,,Tratamento conservador + prescrição,/,/,/
+2019,Manoela Mantovanelli,21,F,Branca,/,Retratamento endodôntico,não,Esquerdo,,Destruição coronária do 26 e abertura do 25,,,X,Penrose + exo do 26 + prescrição,2/11/2019,5/11/2019,5/11/2019
+2019,Manuela Rodrigues Viana,3,F,/,/,Queda de nível,sim,,X,,TDA,X,,Prescrição + encaminhamento pediatria,1/11/2019,/,1/11/2019
+2019,Maracy Garcia Cottas,45,F,Branca,/,Acidente ciclístico,sim,Esquerdo,,"Fratura de CME, de arco zigomático",,X,,Orientações para casa,/,/,/
+2019,Marcela Perez,19,F,Branca,/,Má formação congênita,não,Direito,,,Ausência de parte do osso zigomático e ramo de maníbula ,,X,Instalação de prótese de ATM,30/10/2019,31/10/2019,/
+2019,Marcionilia Barbosa,94,F,Branca,/,Hemorragia pós exo,não,Esquerdo,,/,,X,,Sutura compressiva + compressão com gaze + prescrição,27/10/2019,/,27/10/2019
+2019,Marenis dos Santos Silva,83,F,Negra,/,Dificuldade em fechar a boca,não,,X,Luxação de ATM,,,X,Redução + bandagem + prescrição,1/6/2019,/,1/6/2019
+2019,Maria Aparecida Zorzeto,67,F,Branca,"Bronquioectasia, deficiência de imunoglobulina humanada, timoma há 15 anos, depressão. Faz uso de Acetilcisteína, taxas 500, Ig, azitromicina, reconter 20, bromazepam",Queda da própria altura,sim,Direito,,FCC + contusão,,X,,Prescrição para casa,11/7/2019,/,11/7/2019
+2019,Maria Helena Rodrigueiro Corijo,72,F,Branca,/,Queda da própria altura,não,Esquerdo,,Fratura de parede lateral e anterior de seio maxilar e arco zigomático sem deslocamento,FCC em lábio sup. e mento,X,,Tratamento conservador + prescrição,29/12/2019,/,13/1/2020
+2019,Maria Inez da Silva Souza,67,F,Branca,/,Queda da própria altura,não,,X,/,,X,,Tratamento conservador + prescrição,23/8/2019,/,23/8/2019
+2019,Maria Jordão Marini,84,F,Branca,/,Queda da própria altura,sim,Esquerdo,,,Contusão facial,X,,Prescrição para casa,23/9/2019,/,23/9/2019
+2019,Maria Soria de Abreu,92,F,Branca,/,Queda da própria altura,não,,X,Fratura de OPN com deslocamento,"FDA em região frontal, contusão facial",X,,Tratamento conservador + prescrição,8/12/2019,/,8/12/2019
+2019,Mariah Batista de Oliveira,1,F,Branca,/,Queda de nível,não,,X,,FCC em lábio inf.,,X,Sutura em lábio inf. sob AG,/,6/8/2019,6/8/2019
+2019,Marlene Rosa da Silva,54,F,/,/,Atresia maxilar,não,,X,Perda de projeção maxilar,,,X,Enxerto  ,,5/11/2019,/
+2019,Mary de Fátima Oliveira,62,F,Branca,/,Queda de nível,sim,Esquerdo,,/,Contusão facial,X,,Prescrição para casa,20/6/2019,/,20/6/2019
+2019,Meire Fátima da Silva Nascimento,48,F,Branca,/,Fratura de agulha gengival,não,Esquerdo,,Fratura de agulha gengival,,,X,Internação + remoção da agulha,23/6/2019,21/5/2019,/
+2019,Melize Marina Pazian,32,F,Branca,/,Acidente motociclístico,não,Direito,,Fratura de arco zigomático e de parede anterior e posterior do seio maxilar,,X,,Tratamento conservador + prescrição,26/10/2019,/,26/10/2019
+2019,Milena Ferreira Gechele,15,F,Branca,/,Acidente automobilístico,não,,X,"Múltiplas fraturas em face (Le Fort I, NOE, traço transverso de fratura em maxila, fratura cominutiva em região anterior de maxila, FCC em fundo de vestíbulo, fratura de parede alveolar, mobilidade e crepitação óssea)",,,X,Aguardando equipe médica,10/8/2019,/,/
+2019,Milva da Penha Mestriner,55,F,Branca,Epilética (tegretol),Colisão contra anteparo,não,,X,,Contusão facial,X,,Tratamento conservador + prescrição,/,/,/
+2019,Mirtes Vessi Franca,75,F,Branca,"Leucemia mielóide aguda, plaquetopenia",Mucosite pós quimioterapia,não,Esquerdo,,/,,X,,Internação + laserterapia,20/8/2019,/,/
+2019,Nair Bartolo,73,F,Branca,"Equizofrênia, estrábica, diminuição visual e respiração predominantemente bucal. Faz uso de glifage, sertralina e propanolol",Queda da própria altura,sim,,X,"Fratura de OPN, traço de descontinuidade em zigoma D",,X,,Prescrição para casa,11/7/2019,/,11/7/2019
+2019,Natalia Mamoni Corte,31,F,Branca,/,Trauma de cabeça em região de nariz,não,Direito,,Fratura de OPN,Desvio de septo nasal,,X,Redução + prescrição,23/5/2019,24/5/2019,24/5/2019
+2019,Nazaré Nunes da Silva,29,F,Branca,/,Acidente ciclístico,sim,,X,Contusão facial,,X,,Prescrição para casa,8/8/2019,/,8/8/2019
+2019,Neide,50,F,Branca,Labirintite,Queda da própria altura,sim,,X,Fratura de OPN com leve deslocamento,,X,,Orientações para casa,/,/,20/5/2019
+2019,Neide Terezinha da Silva,74,F,Negra,/,Queda da própria altura,não,,x,,FCC em língua,X,,Sutura + orientação,/,/,20/5/2019
+2019,Nely Varani Gaglia,89,F,Branca,/,Queda da própria altura,não,,X,Fratura de OPN sem deslocamento,,X,,Tratamento conservador + prescrição,/,/,/
+2019,Neusa Rodrigues Alves da Silva,67,F,Branca,"HAS, hipotireoidismo e epilepsia. Uso de captopril, hidroclotiazida, ac. valproico, clonazepam e ac. fólico",Queda da própria altura,não,Direito,,Fratura em soalho de órbita com leve deslocamento,Oclusão palpebral ipsilateral,X,,Tratamento conservador + prescrição,/,/,/
+2019,Rachel Chiquito Magosteiro,82,F,Branca,/,Queda da própria altura,não,,X,Fratura de OPN sem deslocamento,,X,,Tratamento conservador + prescrição,24/9/2019,/,24/9/2019
+2019,Railda Lopes Mariani,64,F,Branca,/,Queda da própria altura,não,,X,Fratura de OPN sem deslocamento,,X,,Tratamento conservador + orientações,29/10/2019,/,29/10/2019
+2019,Rosemari Bersani,77,F,Branca,Uso de Alprazolan,Queda da própria altura,sim,,X,,Contusão facial,X,,Orientações para casa,21/11/2019,/,21/11/2019
+2019,Rosimara Marylim Borges,34,F,Branca,"Transtorno bipolar afetivo, depressão, atraso mental, uso de Sertralina, Depakene (ác. valproico), Carbonato de Lítio, Carbamazepina e Diazepan",Agressão física,não,,X,Fratura de assoalho orbital (D)- blowout,Contusão facial,,X,REFI de assoalho orbital + prescrição,21/12/2019,26/12/2019,27/12/2019
+2019,Santa Brigida,68,F,Branca,/,Queda da própria altura,sim,Esquerdo,,,Trauma facial,X,,Orientações para casa,/,/,/
+2019,Selma Regina Cavalcante,63,F,Branca,Edentula,Mandíbula e maxila atrófica com necessidade de reab. oral,não,,X,/,,,Bilateral,"Remoção de placa de osteossíntese mandibular, instalação de 5 implantes",,8/8/2019,/
+2019,Silvia Bertolucio Stabile,91,F,Branca,/,Queda de nível,não,Direito,,Fratura em parede posterior de seio maxilar e OPN sem deslocamento,,X,,Tratamento conservador + orientações,2/9/2019,/,2/9/2019
+2019,Sonia Maria da Silva Duarte,51,F,Pardo,"Hipercolesterolemia, arritimia cardíaca, HAS, uso de Sinvastatina, Sertralina, Metoprolol, Amildorona",Agressão física doméstica,não,,X,Fratura de parede anterior de maxila (D),,X,,Tratamento conservador + prescrição,14/9/2019,/,14/9/2019
+2019,Stefani Emilia de Paula Lopes,26,F,Negra,Usuário de drogas (cocaína),Agressão física,não,Esquerdo,,,"FCC transfixante em comissura bucal, contusão facial",X,,Sutura dos ferimentos + prescrição,25/11/2019,/,25/11/2019
+2019,Suellen Ribeiro Alves,31,F,Pardo,/,Acidente motociclístico,não,,X,Fratura de parede anterior do osso frontal,,,X,Redução + síntese de fratura,15/5/2019,22/5/2019,22/5/2019
+2019,Tania Clarice da Silva Gomes,56,F,Pardo,/,Acidente motociclístico,sim,Esquerdo,,Fratura de seio maxilar,,X,,Prescrição para casa,30/5/2019,/,30/5/2019
+2019,Tatiana Correia Lima,35,F,Pardo,/,Atropelamento,não,,X,Fratura de OPN,,,X,Redução + TNA + prescrição,/,/,/
+2019,Thaylla Danieli Eleuterio da Silva,4,F,Branca,/,Queda de nível,sim,,X,Fratura coronária e intrusão do 51,Luxação do 61,X,,Prescrição + encaminhamento pediatria,2/9/2019,/,2/9/2019
+2019,Valdelice Aparecida Vieira,54,F,Pardo,"Portadora de distúrbios neurológicos, desdentada parcial",Queda da própria altura,sim,,X,Fratura de OPN + contusão + sangramento em sulco gengival 21,,X,,Orientações para casa,8/7/2019,/,8/7/2019
+2019,Valentina Letícia Lima dos Santos,6,F,Negra,/,Acidente ciclístico,não,,X,"Fratura na região anterior do processo alveolar de maxila, mobilidade e laceração gengival 52 e 62",,,X,Internação + cirurgia sob AG,30/11/2019,1/12/2019,1/12/2019
+2019,Vanderlei de Souza,50,F,Branca,/,Queda de nível,não,,X,"Fratura mandibular, corpo estranho em seio maxilar D e cavidade orbitária D, crepitação óssea",,,X,Cirurgia sob AG,4/11/2019,4/11/2019,/
+2019,Vanessa Francisco de Souza,34,F,Negra,/,Acidente motociclístico,sim,,X,Fratura de bloco dentoalveolar maxilar,"FCC em lábio sup., avulsão dos 11, 21, 22; fratura coronária dos 12, 13 e anteriores inf.",,X,"Debridamento, exo do 12 e regularização óssea sob AL",28/7/2019,/,7/8/2019
+2019,Yasmin Braga Pereira ,21,F,Pardo,/,Dor e aumento de volume em face,não,,X,,Abscesso odontogênico,,X,Encaminhamento para exo com AL,/,/,20/5/2019
+2019,/,16,M,Branca,/,Acidente desportivo,não,,X,/,,X,,Tratamento conservador + prescrição,22/8/2019,/,23/8/2019
+2019,/,42,M,Branca,/,Agressão física,sim,,X,Fratura da parede anterior do seio frontal,,X,,Orientações para casa,20/10/2019,,20/10/2019
+2019,Aaron Machado Squicato,42,M,Branca,/,Acidente desportivo,não,Direito,,Fratura de OPN com deslocamento,,,X,Redução + prescrição,21/10/2019,21/10/2019,21/10/2019
+2019,Ademir Neves,75,M,Branca,/,Queda de nível,sim,,X,Fratura de OPN com leve deslocamento,,X,,Orientações para casa,/,/,/
+2019,Adriano Moraes de Souza Santos,31,M,Branca,/,Acidente ciclístico,não,,X,Fratura mandibular (Bi) (corpo ao lado D e ângulo ao lado E),Limitação da abertura bucal,X,,internação + prescrição + aguardando equipe médica,20/9/2019,/,/
+2019,Allis Brondson Aguilar Farias,26,M,Branca,"Tratamento endodôntico no 46, uso de Clavulin",Abscesso odontogênico,não,Direito,,,Limitação da abertura bucal,,X,Internação + prescrição e drenagem + dreno de penrose,21/11/2019,21/11/2019,21/11/2019
+2019,Amauri Bruno Jardim Siqueira,23,M,Branca,/,Abscesso odontogênico,não,,X,/,Hiperemia em fundo de vestíbulo maxilar,,X,Drenagem de conteúdo purulento,13/5/2019,18/95/2019,/
+2019,Anderson Furtuoso dos Santos,45,M,Pardo,/,Agressão física,sim,Direito,,"Fratura CZM, fratura de OPN",,X,,Prescrição para casa,20/11/2019,/,20/11/2019
+2019,Andre Luiz Pereira Neiva,45,M,Branca,Hipertenso (Captopril),Acidente motociclístico,sim,Esquerdo,,,,X,,Orientações para casa,22/1/2019,/,16/3/2019
+2019,Antonio Carlos de Brito,56,M,Pardo,Etilista,Queda da própria altura após crise convulsiva,não,,X,Fratura de arco zigomático (D),FCC em região frontal,X,,Tratamento conservador + sutura + prescrição,24/11/2019,/,24/11/2019
+2019,Antonio Francisco,82,M,Negra,/,Tumefação em frontal com evolução há 2 meses,não,Direito,,/,"Tumefalçao em região frontal, flutuante à palpação e distopia ocular, imagem sugestuva de ematoma subgaleal",X,,Aguardando equipe médica,22/6/2019,/,/
+2019,Antonio Reis Rodrigues,31,M,Negra,/,Acidente ciclístico,não,,X,"Fratura de côndilo, sínfise mandibular, maxila, CZO (D) e OPN","FCC em mento e região infraorbital (D), limitação de abertura bucal",,X,Internação + REFI CZM + prescrição,8/5/2019,8/5/2019,9/5/2019
+2019,Aparecido Lozano,70,M,Branca,"HAS (atenolol, anlopino, ancorou)",Queda da própria altura,sim,Esquerdo,,Fratura de OPN + FCC em dorso nasal,,X,,Prescrição para casa,11/7/2019,/,11/7/2019
+2019,Aparecido Machado dos Santos,47,M,Negra,/,Queda da própria altura,não,,X,Fratura de OPN sem deslocamento,,X,,Tratamento conservador + prescrição,28/9/2019,/,28/9/2019
+2019,Benedito Belarmino,65,M,Branca,/,Acidente ciclístico,não,,X,"Fratura CZO (D), arco zigomático (D), blowout (D)",Contusão facial,X,,Tratamento conservador + prescrição,/,/,/
+2019,Braz de Souza,40,M,Negra,/,Queda da própria altura,não,,x,Fratura de OPN sem deslocamento,FCC em dorso nasal,X,,Tratamento conservador + sutura + prescrição,/,/,/
+2019,Bruno H. Pereira Santos,13,M,Negra,/,Queda da própria altura,sim,,X,Fratura de côndilo bilateral,,X,,Tratamento conservado + prescrição,6/8/2019,/,12/8/2019
+2019,Bruno Luiz Natividade,19,M,Negra,/,Acidente desportivo,sim,Direito,,Fratura de OPN sem deslocamento,,X,,Orientações quanto ao tratamento conservador + prescrição,1/11/2019,/,1/11/2019
+2019,Bruno Santos da Silva,16,M,Pardo,/,Acidente desportivo,não,Direito,,Fratura de ângulo mandibular,"FCC em terço médio, limitação da abertura bucal",,X,Osteossíntese de fratura mandibular + prescrições,26/9/2019,27/9/2019,30/9/2019
+2019,Caic Cassio,26,M,Branca,/,Acidente com animal,sim,,X,,Trauma facial,X,,Orientações para casa,/,/,/
+2019,Caio Eduardo Ferreira de Arruda,18,M,Branca,Usuário de drogas (maconha),Acidente motociclístico,não,,X,"Fratura Le Fort II, fratura de OPN, fratura de seio frontal (parede anterior e posterior)","FCC em lábio sup. e inf., variz e vestibulo mandibular",X,,"Internação + antissepsia, debridamento, hemostasia e suturas dos FCCs +  aguardando equipe médica",15/6/2019,/,/
+2019,Caio Henrique dos Santos,22,M,Branca,/,Acidente motociclístico,não,Direito,,"Fratura de arco zigomático com leve deslocamento, fratura de região fronto-zigomática",,X,,Tratamento conservador + prescrição,30/10/2019,/,4/11/2019
+2019,Cairo Daniel de Melo Amaro,20,M,Branca,/,Acidente automobilístico,não,,X,,FCC em lábio inf.,X,,Sutura de FCC + prescrições,25/9/2019,/,25/9/2019
+2019,Candido Jose Neto,41,M,Negra,/,Queda da própria altura,não,,X,Fratura de maxila TDA,"FCC em lábio inf. e em região anterior de maxila, fratura coronária do 11",X,,Sutura dos ferimentos + contenção + prescrição,/,/,/
+2019,Carlos Henrique Prazeres,29,M,Branca,/,Agressão física,sim,,X,"Fratura de OPN, seio maxilar D e base de crânio",,X,,Segue em acompanhamento com a neuro,27/10/2019,/,27/10/2019
+2019,Cesar Roberto Dias,50,M,Branca,/,Lesão em região anterior com evolução de 2 meses,não,Esquerdo,,,"Papiloma, ameloblastoma",,X,REFI + prescrição,2/5/2019,4/5/2019,5/5/2019
+2019,Claudinei Domingues Fonseca,30,M,Pardo,"Trauma em face 2006-2009, há 9 meses com infecção pós exo",Infecção pós exo há 9 meses,não,Esquerdo,,,Infecção associada à FIR,,X,internação + exames laboratoriais + aguardando equipe médica,/,/,/
+2019,Claudio Gandolfo,41,M,Branca,/,Acidente motociclístico,sim,Direito,,Fratura de parede posterior de maxila,,X,,Orientações para casa,/,/,/
+2019,Cleber Henrique Rocha de Souza,27,M,Branca,Nega,Acidente em cama elástica,não,Direito,,"Fratura CZOM D, discreta mobilidade em maxila",,,X,Cirurgia sob AG,18/8/2019,21/8/2019,22/8/2019
+2019,Daniel Gilvan da Mata,17,M,Branca,Nega,Agressão física,não,,X,"Fratura de ângulo mandibular, limitação de abertura bucal, mordida aberta anterior",,,X,Cirurgia,/,29/11/2019,29/11/2019
+2019,Davi Manaia Furlan,4,M,Branca,/,Queda da própria altura,não,,X,,FCC em dorso de língua,,X,Sutura em dorso de língua sob AG,24/9/2019,24/9/2019,/
+2019,Delfino Rodrigues dos Santos,75,M,Branca,"HAS, hipotireoidismo e histórico de cirurgia (cateterismo). Uso de inalapril, puran, sinvastatina, duomo, furazemida, AAS e succinato de metapropilol",Queda da própria altura e de anteparo contra a face,não,Esquerdo,,"Fratura de arco zigomático com leve deslocamento, fratura de parede lateral de seio maxilar com leve deslocamento","FCC em região frontal, limitação da abertura bucal",X,,Tratamento conservador + prescrição,/,/,/
+2019,Derci Pinto de Rezende,65,M,Branca,Nega,Queda de nível,não,Direito,,Fratura de OPN sem deslocamento e parede anterior de seio maxilar,,X,,Tratamento conservador + prescrição,/,/,/
+2019,Diego Aparecido Ferreira,28,M,Branca,Nega,Acidente ciclístico,não,Esquerdo,,"Fratura de sínfise mandibular e côndilo (E), mobilidade e crepitação óssea mandibular",,,X,Osteossíntese de fratura de sínfise mandibular + tratamento conservador de côndilo,4/8/2019,6/8/2019,/
+2019,Diego Aparecido Ferreira,28,M,Branca,Passou por cirurgia de septo,Acidente ciclístico,não,Esquerdo,,Fratura de sínfise mandibular e côndilo,"FCC em mento, limitação da abertura bucal",,X,internação + prescrição + aguardando equipe médica,/,/,/
+2019,Diego Otavio dos Santos,15,M,Negra,/,Agressão física,não,Esquerdo,,Fratura OPN com deslocamento ,,,X,Redução + prescrição,29/10/2019,4/11/2019,4/11/2019
+2019,Diego Otavio dos Santos,15,M,Pardo,/,Agressão física,não,,X,Fratura de OPN com leve deslocamento,,X,,Tratamento conservador + prescrição,29/10/2019,/,4/11/2019
+2019,Diniz Bernardo de Proença,57,M,Branca,/,Acidente motociclístico,sim,,X,Fratura de OPN,,X,,Prescrição + encaminhamento FOA,24/10/2019,/,24/10/2019
+2019,Divino Pereira da Silva,59,M,Branca,"HAS, Diabético (hidroclorotiazida, etanolol, glifage e enalapril)",Abscesso odontogênico,não,Direito,,"Aumento vol. submandibular D, limitação de abertura bucal",,,X,Drenagem sob AG (instalação de drenos + exodontia do 48),12/7/2019,13/7/2019,13/7/2019
+2019,Domingues Carlos de Moura,59,M,Negra,/,Agressão física,não,,X,Fratura de OPN,,X,,Tratamento conservador + prescrição,5/11/2019,,5/11/2019
+2019,Douglas Marques da Silva,22,M,Branca,/,Acidente desportivo,sim,Direito,,,,X,,Prescrição para casa,18/11/2019,/,18/11/2019
+2019,Edeilson Silva Souza,29,M,Negra,/,Agressão física,não,Direito,,Fratura de sínfise mandibular ,Crepitação óssea em mento,,X,Internação + prescrições + exames para cirurgia sob AG,23/6/2019,/,/
+2019,Edgar Ferreira dos Santos,88,M,Pardo,DM e hipertensão,Queda da própria altura,sim,Esquerdo,,Fratura de CMZ,,X,,Orientações para casa,/,/,20/5/2019
+2019,Edilson Silva Souza,29,M,Negra,/,Agressão física,não,,X,Fratura de sínfise e corpo mandibular,,,X,Tratamento cirúrgico,/,/,/
+2019,Edivaldo Pacheco dos Santos Junior,22,M,Negra,/,Acidente motociclístico,não,,X,Fratura em sutura palatina,"Avulsão de dorso, ápice e asas nasais",,X,Internação + remoção de dieta por sonda-dieta oral líq. + aguardando equipe médica,2/12/2019,/,/
+2019,Edivaldo Pacheco dos Santos Junior,50,M,Negra,"Politraumatizado (trauma abdominal, amputação de MI (E), hemodiálise, SNE, TQT)",Acidente motociclístico,não,,X,"Laceração em palato duro/mole e lábio sup./vestíbulo maxilar, avulsão dos 21 e 22",,,X,internação + exames laboratoriais + aguardando equipe médica,/,/,/
+2019,Edmilson da Silva,40,M,Negra,"Paciente politraumatizado, com TCE e intubado",Acidente motociclístico,não,,X,/,,,,Reavaliação da CTBMF após estabilização do paciente,/,/,/
+2019,Edmir Alves dos Santos,77,M,Branca,/,Dor em região de ATM,sim,,X,DTM,,X,,Prescrição para casa,2/12/2019,/,2/12/2019
+2019,Eduardo Batista de Faria,4,M,Branca,Nega,Queda da própria altura,sim,Direito,,/,,X,,Prescrição para casa,20/8/2019,/,20/8/2019
+2019,Elias Benedito de Souza,50,M,Branca,/,Agressão física,não,,X,,"Sinusite, cisto de retenção mucoso/pólipo",X,,Prescrição + orientações para casa,28/12/2019,/,30/12/2019
+2019,Enrico Pereira Yacobian Moreira,8,M,Branca,/,Acidente desportivo,não,,X,FCC em língua,,,X,Sutura sob AG + prescrição,14/7/2019,14/7/2019,14/7/2019
+2019,Enzo de Lima,4,M,Branca,/,Atropelamento,sim,Esquerdo,,,Trauma facial,X,,Orientações para casa,/,/,/
+2019,Eudes Fernandes de Souza,42,M,Pardo,/,Agressão física,sim,Esquerdo,,Fratura de OPN sem deslocamento,,X,,Prescrição para casa,26/5/2019,/,26/5/2019
+2019,Eunides José de Souza,87,M,Branca,Revascularização cardíaca. hipertensão e uso de Varfarina,Hemorragia alveolar,não,Esquerdo,,,Hemorragia alveolar do 28,X,,Analgesia + verificação de SSVV + exames + orientação,/,/,/
+2019,Ezequiel Guimaraes Rocha,20,M,Negra,Etilista e usuário de drogas (cocaína),Agressão física,não,,X,"Fratura alveolar do 41, fraturas coronárias dos 11 e 21","Avulsão do 41, laceração em fundo de vestíbulo mandibular anterior",,X,"Antissepsia, debridamento, remoção da tábua óssea alveolar do 41, suturas das lacerações + prescrição",/,/,/
+2019,Fabio Evangelista Rodrigues,42,M,Pardo,Epilético (ac. Valproico),Ferimento por arma de fogo,não,Direito,,Fratura de parede anterior de seio frontal e teto de órbita,"Ferimento perfuro-contundente em fontal, oclusão palpebral diminuída",,X,Internação + cirurgia sob AG para remoção de corpo estranho,11/6/2019,12/6/2019,16/6/2019
+2019,Fábio Evangelista Rodrigues,42,M,Branca,/,Retorno pós cirurgia por ferimento por projétil,sim,,X,/,FCC em dorso nasal,X,,Prescrição para casa,11/6/2019,/,17/6/2019
+2019,Fábio Ildefonso Neves,30,M,Branca,Depressão,Agressão física,não,Direito,,"Fratura de sínfise e côndilo D, limitação da abertura bucal",,,X,internação + exames laboratoriais + aguardando equipe médica,30/11/2019,/,/
+2019,Fabio Menezes,33,M,Branca,/,Agressão física,não,Esquerdo,,Fratura de OPN com deslocamento,FCC em lábio sup. e contusão facial,X,,Tratamento conservador + prescrição,3/11/2019,/,6/11/2019
+2019,Felício Bezerra,70,M,Branca,/,Atropelamento,sim,,X,,FDA em região frontal ,X,,Prescrição para casa,3/12/2019,/,16/12/2019
+2019,Felipe Fernandes Teles,1,M,Branca,Nega,Queda da própria altura,sim,Direito,,,TDA,X,,Orientações para casa,/,/,/
+2019,Felipe Hiodo,17,M,Amalero,/,Acidente desportivo,não,,X,Fratura de OPN sem deslocamento,,X,,Tratamento conservador + prescrição,28/10/2019,/,28/10/2019
+2019,Felisberto Tetsukio Kaneyasu,61,M,Amalero,/,Infecção de origem odontogenica,sim,Esquerdo,,,Limitação da abertura bucal,X,,Prescrição +  retorno para exo do 38,27/9/2019,/,/
+2019,Fernando Alves Antenori,31,M,Branca,/,Celulite,não,,X,Limitação de abertura bucal,,,X,internação + exames laboratoriais + aguardando equipe médica,8/11/2019,/,/
+2019,Fernando Cesar Leite Faga,49,M,Branca,/,Queda de nível,sim,Esquerdo,,"Fratura em arco zigomático, parede posterior de seio maxilar e em região de sutura fronto-zigomática sem deslocamento",,X,,Prescrição para casa,7/9/2019,/,7/9/2019
+2019,Fernando Correia Neves,20,M,Branca,/,Acidente desportivo,não,Esquerdo,,"Fratura de OPN, rinoescoliose a esquerda",,,X,Redução + prescrição,8/7/2019,8/7/2019,8/7/2019
+2019,Fernando Martins Rodrigues,79,M,Branca,"Alzheimer, doença degenerativa ocular",Queda da própria altura,sim,Esquerdo,,,Escoriações,X,,Prescrição para casa,9/9/2019,/,9/9/2019
+2019,Flávio de Castro Freitas,40,M,Pardo,/,Agressão física,sim,,X,Fratura de OPN + contusão,,X,,Prescrição para casa,8/7/2019,,8/7/2019
+2019,Gabriel Richard Bento,18,M,Branca,/,Agressão física,não,Esquerdo,,Fratura de ângulo mandibular,Limitação da abertura bucal,X,,internação + prescrição + aguardando equipe médica,25/9/2019,/,
+2019,Gabriel Rodrigues Mantovani,29,M,Pardo,Alégico Cataflan,Acidente motociclístico,não,Direito,,"Fratura de OPN sem deslocamento, de parede lateral de seio maxilar, sutura FZ",,X,,Tratamento conservador + prescrição,24/12/2019,/,13/1/2020
+2019,Geraldo Batista,52,M,Negra,/,Acidente automobilístico,não,,X,Fratura de parede anterior e posterior de seio frontal sem deslocamento,FCC em região frontal,X,,Aguardando equipe médica,/,/,/
+2019,Gilberto Custódio Monteiro,31,M,Negra,/,Agressão física,não,Esquerdo,,Fratura de assoalho orbital- Blowout,,,X,Internação + REFI de assoalho orbital + prescrição,19/10/2019,19/11/2019,/
+2019,Gilson Ferreira da Silva,43,M,Pardo,/,Trauma contra objeto contundente,não,Esquerdo,,Fratura de parassínfise e TDA,Limitação da abertura bucal  ,,X,Osteossíntese de fratura de parassínfise,14/6/2019,18/6/2019,/
+2019,Gilson Ferreira da Silva,43,M,Negra,Etilista e tabagista,Trauma contra objeto contundente (manivela de barco),não,,X,Fratura de parassínfise e corpo mandibular (E),"FCC em fundo de vestíbulo mandibular com sangramento ativo, avulsão do 41 e mobilidade dos 31 e 32",,X,"Internação + antissepsia, debridamento, hemostasia, exo do 31, sutura do FCC sob AL, a nível ambulatorial + prescrição + exames",/,/,/
+2019,Giovani Cesar Alexandrino,20,M,Branca,/,Acidente motociclístico,não,Esquerdo,,Fratura CZM  ,,,X,Redução e osteossíntese de fraturas + prescrição,24/10/2019,28/10/2019,4/11/2019
+2019,Giovani Cesar Alexandro,20,M,Branca,/,Acidente motociclístico,não,Esquerdo,,Fratura de CZM,,,X,internação + exames laboratoriais + aguardando equipe médica,26/10/2019,/,/
+2019,Giovani Pereira Porto,36,M,Negra,/,Acidente automobilístico,não,Esquerdo,,"Fratura de côndilo, processo coronóide e sínfise mandibular","FCC em mento, limitação da abertura bucal",,X,"REFI para fratura de sínfise, remoção do côndilo e processo coronóide + prescrição",25/6/2019,1/5/2019,4/7/2019
+2019,Guilherme Ivo Pereira,24,M,Pardo,/,Acidente motociclístico,sim,Direito,,Fratura de OPN,"Oclusão palpebral, FDA em lábio inf., FCC em região parietal, contusão facial",,X,Redução ambulatorial + retorno,18/6/2019,/,/
+2019,Guilherme M Marchetti,31,M,Branca,/,Acidente automobilístico,não,,X,Fratura de OPN,,,X,Redução + TNA + prescrição,/,/,/
+2019,Gustavo de Jesus Almeira,21,M,Branca,/,Acidente ciclístico,não,,X,Fratura de OPN,FLC em dorso nasal,,X,Redução ambulatorial + orientações,20/5/2019,/,/
+2019,Gustavo Henrique Ribeiro Galves,26,M,Branca,Nega,Acidente desportivo,não,,X,Fratura de OPN com leve deslocamento,FCC em região de dorso nasal,X,,Sutura em dorso nasal e curativo compressivo + prescrição,/,/,/
+2019,Hajime Nebuya,75,M,Amarela,"Uso de Clonazepan, Cetoprofeno, Furosemida, Norapriptana, Hidroclorotiazida",Atropelamento,sim,Esquerdo,,"Fratura CZM, fratura de côndilo mandibular",,X,,Prescrição para casa,20/11/2019,/,20/11/2019
+2019,Hanry Gabriel Rodriguez,12,M,Branca,/,Acidente desportivo,não,Direito,,Fratura de bloco alveolar dos 11 e 12,FCC em mucosa labial superior,X,,"Contenção semi-rígida dos dentes superiores + sutura em região palatina dos 11, 12 e 13 + prescrição",1/11/2019,/,4/11/2019
+2019,Helio Pizollio,73,M,Branca,Edentulo,Agressão física,não,,X,"Fratura de corpo mandibular (E), ramo mandibular (D), OPN e zigomático bilateral, mobilidade e crepitação óssea mandibular, quimose sublingual",,,X,Redução de fraturas em mandíbula e tratamento conservador de OPN e arco zigomático,5/8/2019,9/8/2019,/
+2019,Higor da Silva,23,M,Negra,/,Agressão física,não,Esquerdo,,Fratura mandibular  ,,,X,internação + exames laboratoriais + aguardando equipe médica,10/11/2019,/,/
+2019,Higor Felipe da Silva Cardoso,21,M,Branca,/,Acidente automobilístico,não,,X,"Fratura de mandíbula (bilateral de ângulo e côndilo E), creptação óssea, mordida aberta anterior, maloclusão, FCC em comissura labial",,,X,internação + prescrição + cirurgia sob AG,25/10/2019,/,25/10/2019
+2019,Iago Ferreira da Cunha,23,M,Branca,/,Acidente desportivo,não,Direito,,Fratura de OPN,,,X,Internação + cirurgia sob AG,31/5/2019,31/5/2019,31/5/2019
+2019,Igor Henrique dos Santos,26,M,Branca,/,Acidente com animal (coice de cavalo),não,Direito,,Fratura de ângulo mandibular,,,X,Osteossíntese de fraturas de mandíbular,6/12/2019,7/12/2019,7/12/2019
+2019,Ilaécio José de Araújo,30,M,Pardo,/,Queda da própria altura,não,Esquerdo,,Fratura de parede anterior e posterior do seio maxilar e arco zigomático E,,Conservador,,Tratamento conservador + prescrição,5/11/2019,/,/
+2019,Israel Soares de Azevedo,75,M,Branca,/,Queda da própria altura,não,Direito,,,FCC periorbitário,X,,Sutura de FCC + prescrições,31/10/2019,/,31/10/2019
+2019,Jairo Celso de Paula,62,M,Branca,Ataxia cerebelar,Queda de nível,sim,Esquerdo,,"Contusão, laceração",,X,,Prescrição para casa,27/5/2019,/,27/5/2019
+2019,Jean Carlos da Silva,25,M,Branca,/,Agressão física,não,,X,Fratura de OPN e assoalho de órbita (D),"Múltiplas FDA em face, FCC em lábio",X,,Tratamento conservador + prescrição,7/12/2019,/,16/12/2019
+2019,João Antonio Souza Silva,21,M,Branca,/,"Tto. endodôntico inacabado, evoluindo para abscesso odontogênico",não,Direito,,,Abcesso de origem odontogênica,,X,Drenagem de abscesso + exo do 47 sob AG + prescrição,9/5/2019,9/5/2019,10/5/2019
+2019,João Antonio Souza Silva,21,M,Pardo,Nega,Tratamento endodôntico inacabado,não,Direito,,,Abscesso odontogênico,X,,internação + antibiótico terapia + reavaliação,/,/,/
+2019,João dos Santos Luiz,42,M,Pardo,/,Agressão física,não,,X,Fratura de complexo zigomático orbitário,,Conservador,,Prescrição para casa,9/8/2019,/,/
+2019,João Felipe Fabris Cespedes,5,M,Branca,/,Queda da própria altura,não,Esquerdo,,,FCC em lábio inf.,X,,Sutura sob AL + prescrição,20/11/2019,/,20/11/2019
+2019,João Ferreira dos Santos,49,M,Branca,Edentulo,Trauma contra cerca,não,Esquerdo,,Fratura de arco zigomático (E),,,X,Redução de fratura de arco zigomático,6/8/2019,8/8/2019,/
+2019,João Loureiro,86,M,Branca,/,Queda da própria altura,sim,Esquerdo,,Fratura de parede posterior de seio maxilar sem deslocamento,,X,,Prescrição para casa,7/9/2019,/,7/9/2019
+2019,João Loureiro,86,M,Branca,"Mal de Parkinson, HAS, uso de losartana",Queda da própria altura,sim,Esquerdo,,,,X,,Orientações para casa,10/9/2019,/,10/9/2019
+2019,João Miguel Borges Santos,2,M,Pardo,/,Acidente doméstico,sim,Direito,,Contusão facial,,X,,Prescrição para casa,25/5/2019,/,25/5/2019
+2019,João Paulo Sartorio Fernandes,35,M,Pardo,Nega,Agressão física e acidente motociclístico,não,,X,,FCC em mucosa labial inferior e laceração em lábio superior,X,,"Antissepsia, debridamento e suturas em lábio inferior sob AL a nível ambulatorial",/,/,/
+2019,João Vaz de Oliveira,69,M,Branca,/,Corpo estranho em dorso de língua por ingestão de pequi,não,,X,/,Perfuração e penetração de corpo estranho em dorso de língua,X,,Remoção de corpo estranho ,21/6/2019,/,21/6/2019
+2019,João Vitor Alves de Jesus,19,M,Negra,/,Acidente motociclístico,não,Esquerdo,,Fratura de borda superior de órbita sem deslocamento,FCC extenso em lado (E) e orelha (E),X,,Tratamento conservador + orientações,23/9/2019,/,23/9/2019
+2019,Jose Afonso dos Samtos,61,M,Pardo,Periodontite generalizada,Agressão física,não,,X,Periodontite generalizada + limitação da abertura bucal,,,X,internação + exames laboratoriais + aguardando equipe médica,10/11/2019,/,/
+2019,Jose Alexandro Ribeiro,32,M,Pardo,/,Acidente desportivo,não,Direito,,Fratura de ângulo mandibular,Mordida aberta anterior e mordida cruzada posterior,,X,Osteossíntese de fratura mandibular,22/9/2019,25/9/2019,30/9/2019
+2019,José Barbosa de Oliveira,66,M,Branca,/,Agressão física,não,Direito,,"Fratura CZM, fratura de arco e processo coronóide",,,X,internação + prescrição + aguardando equipe médica,1/6/2019,/,/
+2019,José Carlos Grigoleto,50,M,Branca,/,Encaminhada para exo hospitalar,não,,X,,,X,,Prescrição + encaminhamento clínica de origem,22/5/2019,/,22/5/2019
+2019,Jose Ermelindo Sonega,40,M,Branca,Internado há 30 dias (investigação de febre),Endocardite bacteriana,não,Esquerdo,,,,,X,Exodontia sob AL + cultura e antibiograma,/,13/7/2019,11/9/2019
+2019,Jose Felipe Sousa Gomes,24,M,Branca,/,Queda de nível ,sim,Direito,,,Contusão facial,X,,Prescrição para casa,7/9/2019,/,16/9/2019
+2019,José Gonçalves,56,M,Branca,Nega,Exo do 31 há 5 dias evoluindo com edema,sim,,X,/,,X,,Prescrição para casa,13/8/2019,/,18/8/2019
+2019,Jose João da Silva,67,M,Branca,/,Agressão física,não,,X,Fratura de OPN + fratura de seio maxilar,,X,,Tratamento conservador + orientações,24/10/2019,24/10/2019,24/10/2019
+2019,José Mendes da Silva,69,M,Branca,Edentulo,Queda da própria altura,não,,X,"Fratura OPN com deslocamento, FCC em glabela, equimose periorbitário bilateral, rinoescoliose, oclusão palpebral D",,,,Aguardando equipe médica,7/8/2019,/,/
+2019,José Roberto Sanches,70,M,Branca,/,Queda da própria altura,sim,Esquerdo,,Fratura de CZM,,X,,Orientações para casa,/,/,20/5/2019
+2019,José Wilson Costa,49,M,Branca,"Diabético, fumante, etilista (Glifage, Diazepam)",Acidente motociclístico,não,,X,"Fratura de côndilo (E), e de cortical lingual em região de corpo mandibular (D)","FCC em mento, mordida aberta anterior e posterior D, limitação abertura bucal",X,,Elasticoterapia + interconsulta otorrino/neuro + prescrição,7/7/2019,/,7/7/2019
+2019,Josue Matias F dos Santos,2,M,Branca,/,Queda da própria altura,sim,Direito,,Fratura dentoalveolar do 51,,X,,Prescrição para casa,24/11/2019,/,24/11/2019
+2019,Juliano Celestino de Oliveira,38,M,Negra,Usuário de drogas (crack),Agressão física,não,Direito,,Fratura de seio maxilar,,X,,Tratamento conservador + prescrição,20/8/2019,20/8/2019,20/8/2019
+2019,Julio Cesar Alves Serra,33,M,Branca,"HAS, uso losartana",Acidente ciclístico,não,Esquerdo,,Fratura CZM,,X,,Tratamento conservador + prescrição,/,/,/
+2019,Julio Luis Correia de Araujo,51,M,Pardo,/,Acidente ciclístico,não,Direito,,Fratura de ângulo mandibular,,,X,Osteossíntese de fratura mandibular,22/9/2019,24/9/2019,30/9/2019
+2019,Júlio Luis Correia de Araújo,52,M,Negra,Nega,cirurgia em frat. mand. âng. D,não,Direito,,Fratura de ângulo mandibular,,,X,Reoperação de fratura de ângulo mandibular D,/,28/11/2019,28/11/2019
+2019,Kana Kayk Torres,19,M,Branca,/,Acidente motociclístico,sim,,X,"Contusão facial, equimose perriorbitrária e hiposfagma, FDA em região temporal (E)",,X,,Prescrição para casa,8/8/2019,/,8/8/2019
+2019,Kauan Daniel Pereira Fortunato,2,M,Branca,Nega,Queda da própria altura,sim,,X,,Contusão facial,X,,Prescrição para casa,/,/,/
+2019,Kauan Henrique Antonio da Silva,7,M,Branca,/,Queda da própria altura com lápis na boca,sim,Direito,,,Ferimento lacero-contuso ,X,,Prescrição para casa,29/12/2019,/,29/12/2019
+2019,Kleber Lima dos Santos,36,M,Pardo,/,Agressão física,não,Direito,,Fratura alta de côndilo mandibular pouco deslocada,Limitação da abertura bucal  ,X,,Tratamento conservador (elásticos) + prescrições,3/9/2019,/,9/9/2019
+2019,Laureano Paulino,69,M,Branca,/,Queda da própria altura,sim,,X,Fratura de OPN  ,FCC em dorso nasal,X,,Prescrição para casa,29/9/2019,/,29/9/2019
+2019,Leonardo da Silva Moreira,27,M,Negra,Nega,Agressão física,não,Esquerdo,,"Fratura de ângulo mandibular E, 38 com destruição coronária",,,X,internação + exames laboratoriais + aguardando equipe médica,17/11/2019,/,/
+2019,Lídio Dias Fernandes,62,M,Negra,"HAS (atenolol, alodipino, losartana)",Queda de nível,não,Esquerdo,,Fratura de corpo mandibular e CZM,"FCC em supercílio, limitação da abertura bucal",,X,Cirurgia sob AG para osteossíntese de corpo mandibular e CZM com placas e parafusos,12/6/2019,14/6/2019,/
+2019,Lucas Pedroso Pavam,14,M,Branca,/,Lesão em maxila descoberta em outra especialidade,não,Esquerdo,,,"Lesão em seio maxilar (cisto, nasoangiofibroma, fribroma ossificante ...)",,X,internação + exames laboratoriais + aguardando equipe médica,27/11/2019,30/12/2019,/
+2019,Luciano Carvalho,45,M,Pardo,"Diabético, hiperson, colesterol alto",Aumento volumétrico em face com evolução de 3 dias,não,Esquerdo,,,Abcesso de origem odontogênica,,X,Exo 36 + drenagem intrabucal + dreno de penrose,/,/,/
+2019,Luis Antonio Arroyo,16,M,Branca,Nega,Acidente ciclístico,não,Esquerdo,,Contusão facial,,X,,Prescrição para casa,20/8/2019,/,20/8/2019
+2019,Luis Cesar Abrego,55,M,Branca,"Epileosia, etilista",Queda da própria altura,não,Esquerdo,,,FCC em lábio inferior e em região supraorbital,X,,Limpeza + debridamento do FCC em lábio inferior + prescrição,20/11/2019,/,20/11/2019
+2019,Luis Henrique da Silva,20,M,Branca,/,Acidente motociclístico,sim,,X,Contusão facial,,X,,Prescrição para casa,8/6/2019,/,8/6/2019
+2019,Luís Marcos Rodrigues ,46,M,Pardo,/,Acidente motociclístico,sim,,X,Fratura de OPN com leve deslocamento,,X,,Orientações para casa,/,/,/
+2019,Luís Matheus Martini Dornellas,9,M,Branca,/,Acidente ciclístico,sim,,X,/,Fratura coronária dos 11 e 21,X,,Reimplanta dentário + orientações,21/6/2019,/,21/6/2019
+2019,Luiz Alfredo Marega Escada,39,M,Branca,/,Queda de nível,não,Esquerdo,,"Fratura de parede lateral de seio maxilar, arco zigomático CZM",,X,,Tratamento conservador + prescrição,/,/,/
+2019,Luiz Fernando Zago Barbosa,21,M,Branca,/,Acidente motociclístico,não,Esquerdo,,Fratura de assoalho orbital,,,X,Redução ambulatorial + orientações,16/5/2019,/,20/5/2019
+2019,Luiz Fernando Zago Barbosa,19,M,Branca,Nega,Acidente motociclístico,não,Esquerdo,,Fratura de assoalho orbital  ,,,X,Internação + cirurgia,/,/,/
+2019,Luiz Marcelo Balloni,50,M,Branca,/,Queda da própria altura,sim,Direito,,,FCC em pálpebra sup.,X,,Prescrição para casa,/,/,/
+2019,Luiz Ricardo Oliveira Santos,23,M,Pardo,/,Agressão física,não,,X,Fratura em corpo mandibular (E),,,X,Cirurgia,24/11/2019,26/11/2019,26/11/2019
+2019,Maicon Santos Lot,33,M,Branca,/,Agressão física,não,,X,"Fratura de OPN, FCC em dorso nasal com perda de cartilagem e em glabela e frontal com perda de substância",,,X,Sutura por planos + redução e tampão nasal anterior + prescrição,27/10/2019,27/10/2019,27/10/2019
+2019,Marcelo Rodrigues da Cruz,45,M,Branca,/,Acidente motociclístico,não,Esquerdo,,Fratura CZM ,,,X,internação + exames laboratoriais + aguardando equipe médica,/,/,/
+2019,Marco Antonio Ribeiro,53,M,Pardo,Trauma em face há 3 anos,Procedimento em CZO (D) para FIR evoluindo com infecção,não,Direito,,,Infecção associada à FIR,,X,Fistulectomia e remoção de FIR + prescrição,6/5/2019,9/5/2019,10/5/2019
+2019,Marcos Antonio Zangarole,26,M,Branca,Surdo- portador de aparelho auditivo,Acidente motociclístico,não,,X,Fratura de sínfise mandibular e côndilo,"FCC em região de mento, limitação da abertura bucal",,X,REFI de sínfise + prescrição,19/12/2019,26/12/2019,26/12/2019
+2019,Marcos Ricardo Fernandes Sampaio,27,M,Branca,/,Acidente motociclístico,não,Direito,,Fratura de OPN,Múltiplas escoriações,X,,Tratamento conservador + prescrição,19/6/2019,/,19/6/2019
+2019,Mario Donizete Cesario,50,M,Branca,/,Acidente automobilístico,não,Direito,,Fratura de OPN com deslocamento,"FDA em região frontal, fratura coronária do 11",X,,Tratamento conservador + orientações,8/12/2019,/,8/12/2019
+2019,Marky Lima de Farias Duque,25,M,Branca,/,Agressão física,sim,,X,Fratura de OPN sem deslocamento,Dorso nasal com crepitação óssea,X,,Prescrição para casa,8/9/2019,/,8/9/2019
+2019,Mateus Bom Fim de Oliveira,20,M,Pardo,Epilepsia (Fenobarbital),Queda da própria altura após crise convulsiva,não,Esquerdo,,Fratura de sínfise mandibular e ângulo mandibular E,FCC em região de mento,,X,Internação + amarria dental + prescrição + aguardando equipe médica,20/11/2019,/,/
+2019,Mateus Bomfim de Oliveira,20,M,Negra,Epilepsia (Fenobarbital),Queda da própria altura,não,Esquerdo,,Fratura de sínfise mandibular e ângulo mandibular E,,,X,Internação + amarria dental + prescrição + cirurgia,20/11/2019,/,/
+2019,Matheus Mendonça Oliveira,11,M,Branca,/,Nega o motivo da lesão,sim,Esquerdo,,/,Contusão facial,X,,Orientações + encaminhamento à oftalmologia,19/6/2019,/,19/6/2019
+2019,Miguel Galvan Mutti,6,M,Branca,/,Acidente desportivo,não,Esquerdo,,Fratura de OPN,,X,,Tratamento conservador + prescrição,25/10/2019,/,25/10/2019
+2019,Monalisa Poliane Rodrigues,13,M,Branca,/,Agressão física,sim,,X,,Contusão facial,X,,Prescrição para casa,23/9/2019,/,23/9/2019
+2019,Naldo Vicente,44,M,Negra,/,Agressão física,não,,X,"Hiposfagma D, FCC em mento",,X,,Tratamento conservador + prescrição,7/11/2019,/,/
+2019,Natan Vitor Dias,13,M,Branca,/,Agressão física,sim,,X,Fratura de OPN com leve deslocamento,,X,,Orientações para casa,/,/,20/5/2019
+2019,Nelson dos Santos,79,M,Branca,"Alzheimer, Mal de Parkinson",Queda da própria altura,sim,Direito,,,Ferimento corto-contuso em região submandibular,X,,Prescrição para casa,9/9/2019,/,9/9/2019
+2019,Nicolas Gois da Silva,5,M,Branca,Nega,Queda da própria altura com escova na boca,sim,,X,,FCC em região de ventre lingual,X,,Prescrição para casa,/,/,/
+2019,Nilton da Silva Gama,42,M,Negra,/,Agressão física,não,Esquerdo,,Fratura de OPN,,X,,Tratamento conservador + prescrição,25/10/2019,/,25/10/2019
+2019,Osmar Luiz de Souza Junior,40,M,Negra,/,Infecção de material de osteossíntese evoluindo há 5 meses,não,Direito,,,Conteúdo purulento em fundo de fornix mandibular,,X,Remoção de parafusos de osteossíntese e debridamento + prescrições,abr/19,6/9/2019,6/9/2019
+2019,Pablo Chaves de Melo,24,M,Negra,/,Acidente motociclístico,não,,X,"Múltiplas fraturas em face (Le Fort II, CZO, Côndilo D, NOE, Sínfise), fratura de bloco alveolar dos dentes 41 e 42",,,X,Cirurgia sob AG,28/7/2019,22/8/2019,25/8/2019
+2019,Paulo Cesar de Oliveira,40,M,Pardo,/,Trauma contra cerca,não,Direito,,Fratura de ângulo mandibular,Mal oclusão,,X,Osteossíntese de fratura mandibular,22/9/2019,25/9/2019,30/9/2019
+2019,Paulo Cesar Lourenço,42,M,Branca,/,Acidente com animal,não,,X,Fratura de OPN sem deslocamento,"FCC em lábio sup., fratura de coroa do 12",X,,Tratamento conservador + prescrição,19/6/2019,/,19/6/2019
+2019,Paulo Henrique da Silva,47,M,Negra,/,Queda de andaime,não,Direito,,"Fratura em rebordo orbitário superior e inferior, parede posterior de órbita, sutura fronto-zigomática, paredes anterior e posterior de seio maxilar, arco zigomático e de parietal",,,X,Aguardando equipe médica,20/5/2019,/,/
+2019,Paulo José da Silva,60,M,Pardo,"Imunodepressão, uso de AAS, Rosuvastatina, Ezetimibe, Ciprofibrato, Naproxeno, Vastarel, Espironolactona, Procolaran, Bisoprolol, Bupirona, Omeprazol e Ác. Nicotínico",Encaminhada para exo hospitalar,não,Esquerdo,,Periodontite avançada,,,X,Múltiplas exos + instalação de implantes dentários,20/5/2019,23/5/2019,/
+2019,Paulo José Sebastião,66,M,Branca,/,Queda da própria altura,não,,X,"Fratura OPN com deslocamento, FCC em glabela e lábio superior, FDA em região malar D",,,X,Redução + tamponamento nasal + prescrição,11/8/2019,/,14/8/2019
+2019,Paulo Marcio Rosa da Silva,45,M,/,"HPV positivo, lesão prévia em genitália removida",HPV. Evolução de 11 meses da lesão atual,não,Esquerdo,,,Lesão branca em comissura labial,,X,Biópsia excisional + envio para AP + encaminhamento COB + prescrição,/,10/7/2019,/
+2019,Paulo Marcos Linhares Silva Filho,20,M,Branca,/,Acidente motociclístico,sim,,X,Fratura de CMZ (E),,X,,Orientações para casa,/,/,20/5/2019
+2019,Pedro Henrique Cordeiro da Silva,16,M,Branca,Mal oclusão,Acidente com animal (coice),não,Direito,,Fratura CZM D,Contusão facial,,X,REFI CZM + prescrição,21/11/2019,21/11/2019,/
+2019,Pedro Mateus Rocha dos Santos,21,M,Branca,/,Acidente motociclístico,não,Esquerdo,,"Fratura de osso frontal (região supraorbital), fratura de teto de órbita",Fratura exposta de tornozelo (E),,X,internação + exames laboratoriais + aguardando equipe médica,/,/,/
+2019,Pedro Miranda Almeida,52,M,/,Deformidade dento-facial,Deformidade dento-facial,não,,X,/,,,X,Cirurgia Ortognática,,6/11/2019,/
+2019,Pietro Henrique de Castro,5,M,Branca,/,Atropelamento,não,,X,,Ferimento lacero-contuso em dorso e ápice lingual,X,,Limpeza + sutura sob AG + orientação,28/12/2019,/,6/1/2020
+2019,Raimundo Batista de Lima Filho,47,M,Branca,/,Agressão física,não,Esquerdo,,"Fratura de OPN sem deslocamento, de pilar zigomático-maxilar",,,X,Redução ambulatorial + tratatamento conservador de zigomático + prescrição,26/5/2019,26/5/2019,26/5/2019
+2019,Ricardo Alexandre Vicente,42,M,Pardo,/,Queda da própria altura,não,,X,"Fratura de côndilo, sínfise mandibular, processo alveolar mandibular","FCC em mento, limitação de abertura bucal",,X,REFI + prescrição,5/5/2019,8/5/2019,9/5/2019
+2019,Richary Lucas Ferreira Silva,5,M,Pardo,/,Trauma contra objeto contundente (banco),sim,Esquerdo,,,Contusão facial,X,,Orientações para casa,20/8/2019,/,4/9/2019
+2019,Robson da Silva Lima,36,M,Negra,Fratura fêmur bilateral e bacia,Atropelamento,não,,X,Fraturas múltiplas em face,,,X,internação + exames laboratoriais + aguardando equipe médica,/,/,/
+2019,Rodolfo Rodrigues Furlan,25,M,Branca,/,Acidente motociclístico,sim,Direito,,Fratura incompleta de corpo mandibular,FCC em região de corpo mandibular,X,,Prescrição para casa,8/9/2019,/,8/9/2019
+2019,Rodrigo Alves Viana,32,M,Branca,/,Acidente motociclístico,não,Esquerdo,,"Fratura de complexo zigomático, parede lateral de órbita, efisema em terço médio","FDA em região frontal, contusão facial",X,,Tratamento conservador + prescrição,3/9/2019,/,16/9/2019
+2019,Rodrigo Costa Francisco Pais,29,M,Pardo,Soro positivo e suspeita de tuberculose,Agressão física,não,,X,Fratura CZO,,,X,Aguardando equipe médica,3/8/2019,/,7/8/2019
+2019,Rogerio Arseli Mendes,27,M,Pardo,Nega,Agressão física,não,Esquerdo,,Fratura de ângulo mandibular,Limitação da abertura bucal,,X,REFI de ângulo mandibular + prescrição,22/12/2019,27/12/2019,27/12/2019
+2019,Ronaldo Maximiliano,22,M,Pardo,/,Acidente motociclístico,não,,X,Fratura CZM D,,,,internação + cirurgia suspensa devido a embolismo pulmonar + aguardando equipe médica,12/9/2019,/,/
+2019,Ronilton Rodrigues da Silva,28,M,Negra,/,Trauma contra objeto contundente (madeira),sim,Esquerdo,,Fratura de parede posterior de seio maxilar e parede lateral de órbita,FCC superficial em dorso nasal,X,,Prescrição para casa,29/9/2019,/,14/10/2010
+2019,Rosair da Silva,43,M,Negra,Tratamento endodôntico no 47,Aumento volumétrico em face após tratamento endodôntico no 47,não,Direito,,/,,,Direito,Exo dos 45 e 47 para drenagem via alveolar,3/8/2019,6/8/2019,6/8/2019
+2019,Rosair da Silva Alves,43,M,Negra,Uso de antibióticos por 14 dias,Edema e dor em face após tratamento de canal (47),não,Direito,,,Abcesso de origem odontogênica,,X,internação + exames laboratoriais + aguardando equipe médica,/,/,/
+2019,Rubens Dornellas,86,M,Branca,DM e hipertensão,Queda da própria altura,sim,,X,Fratura de OPN,FCC em região supra orbital,X,,Orientações para casa,/,/,/
+2019,Samuel Pugina R. de Azevedo,6,M,Branca,Nega,Queda de nível,não,,X,Fratura de OPN com deslocamento,,X,,Tratamento conservador + prescrição,/,/,/
+2019,Sérgio Domingues,50,M,Pardo,Periodontite generalizada,Agressão física,não,Direito,,Periodontite generalizada + mobilidade,,,X,internação + exames laboratoriais + aguardando equipe médica,8/11/2019,,
+2019,Sérgio Henrique Esperança de Campos,53,M,Branca,"Alérgico Penicilina / Plasil, diabético, hipercolesterolerria, Stent na artéria ilíaca",Dor em dente posterior após TTO de canal (47),não,Direito,,,"Limitação da abertura bucal, abcesso dento-alveolar nos 47 e 48. 17 e 18 comprometidos periodontalmente",,X,"Extração sob AG dos 47, 48, 17, 18",25/7/2019,30/7/2019,/
+2019,Sidinei Giron,59,M,Branca,/,Agressão física,não,Esquerdo,,Fratura de OPN com deslocamento,,,X,Redução ambulatorial + tamponamento nasal anterior + prescrições,20/6/2019,/,20/6/2019
+2019,Sidnei Ferreira dos Santos,64,M,Branca,/,Queda de nível,sim,,X,"Fratura de parede lateral de órbita (E), edema e euimose periorbitária (D)",,X,,Prescrição para casa,11/8/2019,/,/
+2019,Sinésio José Ferreira,59,M,Branca,HAS (atenolol),Agressão física,não,Direito,,"Fratura de ângulo mandibular, limitação de abertura bucal",,,X,Cirurgia,29/11/2019,29/11/2019,29/11/2019
+2019,Thiago Soares,32,M,Branca,/,Acidente motociclístico,não,,X,/,"Múltiplas avulsões dentárias, FDA em todos os terços da face, FCC em frontal, dorso nasal e lábio sup.",X,,Aguardando equipe médica,21/6/2019,/,/
+2019,Valdir Soares de Souza,47,M,Branca,/,Acidente motociclístico com perda de consciência e pistaxe no momento do trauma,não,,X,Fratura de OPN sem deslocamento,"FCC em dorso nasal, FDA em glabela",X,,Tratamento conservador + prescrição,21/5/2019,/,/
+2019,Valdomiro Silva,/,M,Negra,/,Agressão física,não,Esquerdo,,Fratura de CZM,,,X,Cirurgia sob AG,21/9/2019,/,/
+2019,Valter Cezar Borges,62,M,Branca,Periodontite crônica,Descoberta lesão óssea em achado radiográfico,não,Esquerdo,,/,,,X,Internação + cirurgia sob AG,23/10/2019,/,/
+2019,Vinicius Pereira Cardoso,20,M,Branca,/,Agressão física,sim,,X,Fratura de OPN,,X,,Prescrição para casa,31/5/2019,/,31/5/2019
+2019,Vitor Lemes Minassion,57,M,Branca,Pré-diabético (glicosida),Agressão física,não,,X,Fratura de OPN com deslocamento,FCC em dorso de língua,X,,Tratamento conservador + prescrição,/,/,/
+2019,Wanderson Thiago Carvalho,31,M,Branca,/,Classe II com excesso vertical de maxila,não,,X,,,,X,"Avanço e impacção de maxila, de mandíbula e mento",3/7/2019,3/7/2019,5/7/2019
+2019,Welinton Malta da Silva,34,M,Pardo,/,Acidente motociclístico,não,,X,"Fratura de OPN, de parede lateral de órbita e osso parietal (E)",Fratura coronária dos 11 e 21,X,,Tratamento conservador + orientações,28/9/2019,/,28/9/2019
+2019,Wesley Fernando Costa Ribeiro,30,M,Branca,/,"Fratura mandibular há +/- 60 dias, REFI evoluindo com dor e trismo",não,Esquerdo,,"FIR em corpo mandibular, RR em mandíbula",Foco de infecção intraoral,,X,Exo em ambiente hospitalar + prescrição,23/7/2019,26/7/2019,/
+2019,Wesley Mateus Lopes,23,M,Negra,/,Agressão física,não,Direito,,Fratura de ângulo mandibular,"Foco de infecção intraoral, limitação de abertura bucal",,X,internação + exames laboratoriais + aguardando equipe médica,/,/,/
+2019,William Gomes,32,M,Branca,/,Agressão física,não,Direito,,Fratura de parede anterior e medial de seio maxilar,,,X,Redução + prescrição,4/11/2019,/,/
+2019,,,,,,,,,,,,,,,,,
+2020,Adriana Soares da Silva,37,F,Branca,Exo do 18 há 10 dias,Dor em mandíbula há 24 hoas,sim,,,,,X,,Prescrição para casa,,,11/3/2020
+2020,Adriele,35,F,Negra,"Sífilis, gravidez (29 semanas)",Cárie,não,,X,,"Abscesso de origem odontogênica, cárie no dente 38, restos radiculares do 15, 24, 46, 47, 48",,X,"Exo dos 15, 24, 38, 46, 47, 48",/,/,/
+2020,Adrielli Cristina Souza,32,F,Negra,"29 semanas de gravidez, etilista, tabagista, ex usuária de drogas, sífilis, anorexia, DM tipo I (insulina)","Aumento de volume mandibular, 36 e 38 cariados",não,Esquerdo,,,Trismo,,X,Internação + aguardando exames + prescrição,/,/,/
+2020,Aldenir Bernardino da Silva,37,F,Branca,Nega,Agressão Física,/,,X,Fratura de OPN,,,,/,/,/,/
+2020,Alzira F. Andrade Santana,75,F,Branca,HAS,Queda da própria altura,sim,Direito,,Fratura de arco zigomático,,X,,Prescrição para casa,/,/,/
+2020,Amanda Stefany Militão dos Santos,20,F,Branca,Luxação de ATM,Luxação de ATM,não,Direito,,Côndilo mandibular direito fora da Cavidade Glenóide,,,,Bandagem,,11/3/2020,
+2020,Ana Laura Ferri,30,F,Branca,/,Pedradas,sim,Esquerdo,,,FCC supercílio,X,,Prescrição para casa,16/2/2020,/,16/2/2020
+2020,Andrea Cristina Cordeiro,45,F,Branca,Nega,Infecção odontogênica (Celulite) 36 ou 37,não,Esquerdo,,,,,X,Drenagem,10/3/2020,14/3/2020,1/2/2020
+2020,Beatriz Fernanda Cruz de Souza ,19,F,Branca,Nega,Agressão Física Doméstica,sim,Direito,,Fratura de OPN com desloc.,Contusão facial,X,,Prescrição para casa + retorno,/,,13/4/2020
+2020,Creusa Rodriguiz Ferraz,72,F,Parda,Nega,Acidente automobilístico,/,Direito,,,FCC em região zigomática,,,/,/,/,/
+2020,Edna Neves da Costa,65,F,Parda,HAS,Queda da própria altura,sim,Direito,,Fratura de CZM sem desloc.,,X,,Prescrição para casa,/,/,/
+2020,Esmeralda Maria da Silva,8,F,Negra,/,Acidente ciclístico,não,,X,Fratura CZM (Bi) e de parassínfise mandibular (E),"Fratura coronária dos 11, 12, 21, 22; avulsão do 31; crepitação mandibular à manipulação",,X,Internação + aguardando equipe médica,12/1/2020,/,
+2020,Guilherme da Silva Alves,24,F,Branca,Nega,Acidente motociclístico,/,,X,,Sangramento nasal,,,/,/,/,/
+2020,Isaura Antonia Milloca Val,86,F,Branca,Nega,Queda da própria altura,não,Esquerdo,,Fratura de OPN  sem desloc.,"FCC em mucosa de lábio sup., contusão facial",X,,"Sutura ambulatorial sob AL, com fio reabsorvível + prescrição",/,/,/
+2020,Isis Leal Teles,4,F,Branca,/,Queda de nível,sim,,X,,"Sangramento do sulco gengival 51, 61, 62",X,,Prescrição para casa,16/2/2020,/,16/2/2020
+2020,Jacira Ormundo de Souza,53,F,Negra,Nega,Acidente motociclístico,não,,X,Fratura de arco zigomático (D),"FCC em região supraciliar, afundamento em região malar (Bi), contusão facial",X,,"Necessidade de redução cirúrgica, porém paciente se negou. Orientação para casa",/,/,/
+2020,Lara C. Soler Soares,19,F,Parda,/,Atropelamento  ,sim,Esquerdo,,"Fratura de Arco zigomático, CZM",Limitação de abertura bucal,X,,Prescrição para casa,/,/,/
+2020,Laurinda Medina Pereira,83,F,Branca,"Histórico de quimioterapia, uso de Ezetimiba, hemifumarato de quetiapine, cloridrato de donepezila, amotriptilina, famotidina, alendronate; ","Osteonecrose prévia em mandíbular, atualmente com fístula e secreção",não,,X,Osteonecrose mandibular com possíveis sequestros ósseos sem exposição,,,X,Cirurgia sob AG para curetagem e debridamento da região infectada,27/2/2020,29/2/2020,/
+2020,Lorena Emanuele da Silva Lopes,4,F,Branca,Nega,Atropelamento  ,sim,,X,Fratura OPN,,,X,Acompanhamento + prescrição,/,/,/
+2020,Maria Adelia Pontes,56,F,Branca,/,Queda da própria altura,não,,X,Fratura de OPN,"FCC em região frontal com exposição óssea, FCC em nariz D e em lábio inf., FDA em mento e fratura do dente 35",X,,Sutura + prescrição,6/4/2020,,/
+2020,Maria Setsuko Nakamura,64,F,Amarela,/,Acidente ciclístico,sim,,X,Fratura de OPN,"Avulsão do 11, mobilidade do 12, 21, 22",X,,Tratamento conservador + reimplante do 11 + contenção,13/2/2020,13/2/2020,/
+2020,Nicole Rodrigues Cruz,16,F,Parda,/,Acidente desportivo,sim,,X,Fratura de OPN,,X,,Prescrição para casa,2/3/2020,/,9/3/2020
+2020,Nilza da Silva Ribeiro,54,F,Branca,/,Agressão Física,não,Esquerdo,,,FCC em pálpebra inf. e contusão facial,X,,Sutura + orientação,/,/,/
+2020,Rute Coelho Saraiva,65,F,Branca,/,Início de tto endodôntico evoluindo para abscesso,sim,Direito,,,Abscesso periapical,,X,Encaminhado a TTO endodôntico de urgência,/,/,/
+2020,Sara Dona Fernandes,2,F,Negra,Nega,Acidente ciclístico,não,Direito,,Fratura em bloco dos dentes 51 e 52,,,X,Cirurgia sob AG para reposicionamento do bloco e contenção,27/2/2020,28/2/2020,/
+2020,Silvanete Luiz Joaquim,41,F,Parda,Nega,Acidente motociclístico,não,,X,"Fratura de parede anterior e posterior de seio frontal, teto e parede de órbita (E), OPN, etmoide, CZMO (E), maxila (Le Fort I), parassagital de maxila (E) e parede lateral de seio maxilar (D) e (E)",,,X,Internação + REFI Le Fort I + CZMO sob AG + prescrição,27/1/2020,30/1/2020,1/2/2020
+2020,Talita Fujikura,26,F,Branca,/,Paciente classe II,não,,X,,,,X,Cirurgia ortognática,/,10/1/2020,/
+2020,Thaise Christine da Silva,32,F,Negra,/,Atropelamento  ,não,,X,Fratura de parassínfise mandibular (E) e de côndilo (D),Limitação de abertura bucal,,X,Osteossíntese de parassínfise + prescrição + elasticoterapia,28/2/2020,5/3/2020,/
+2020,Vera Lucia Duarte,57,F,Negra,Nega,Trauma contra objeto (caixa),sim,Esquerdo,,,Contusão facial,,X,Prescrição para casa,/,,/
+2020,Yasmin Reis Alves de Oliveira,8,F,/,/,Queda da própria altura,não,,X,Fratura de OPN com leve desloc.,,X,,Tratamento conservador + prescrição,31/1/2020,/,10/2/2020
+2020,Yasmin Santarelli Saores,8,F,Branca,Nega,Queda de nível,não,Direito,,"Fratura de bloco dentoalveolar mandibular (41 e 42), fratura coronária do 84",,,X,Cirurgia + prescrição ,14/3/2020,14/3/2020,16/3/2020
+2020,Yasuko Gondo Yakomizo,90,F,Amarela,Hipercolesterolemia,Queda da própria altura,sim,,X,,Contusão facial,X,,Prescrição para casa,29/1/2020,/,/
+2020,/,10,M,Branca,Nega,Acidente desportivo,/,,X,,Abrasão em face,,,/,/,/,/
+2020,/,16,M,Parda,"Politraumatizado (TCE, sedação, IOT)",Acidente motociclístico,não,Direito,,"Fratura de arco zigomático, parede lateral e teto de órbita e base do crânio",,,X,/,/,/,/
+2020,Adailton Martins Trugilo,28,M,Negra,/,Acidente ciclístico,não,,X,Fratura CZM  ,Contusão facial,,X,Redução e osteossíntese de fraturas CZM + prescrições,4/1/2020,7/1/2020,13/1/2020
+2020,Ademir Aparecido Marchioli,67,M,/,"AVC há 6 anos, HAS, DM, uso de anticoagulantes",Cárie,não,Esquerdo,,,Cárie no 38 em paciente imunossuprimido,,X,Exo do 38,/,/,/
+2020,Alex de Oliveira Marculino,23,M,Branca,/,Acidente motociclístico,sim,,X,Trauma dentoalveolar (subluxação),,X,,Prescrição para casa + encaminhamento para acomp. do TDA,2/2/2020,/,2/2/2020
+2020,Armando Pereira da Silva,64,M,Branca,ppr sup. e inf.,Queda da própria altura,sim,Direito,,,Contusão facial,X,,Prescrição para casa,11/2/2020,,11/2/2020
+2020,Carlos Fiorilli,56,M,Branca,"Etilista, tabagista",Agressão Física,não,,X,"Fratura de bordo dento-alveolar, creptação em região de sínfise mandibular","mordida aberta anterior, limitação da abertura bucal",,X,Internação + cirurgia sob AG (sínfise e côndilo),6/4/2020,8/4/2020,/
+2020,Carlos Roberto Ribeiro,59,M,Branca,/,Acidente motociclístico,não,Direito,,Fratura de arco zigomático (D),,X,,Tratamento conservador de fratura + prescrição,7/3/2020,/,16/3/2020
+2020,Cesar Serafim,38,M,Negra,"Tabagista, usuário de cocaína",Agressão Física,não,,x,"Limitação da abertura bucal, crepitação óssea mandibular, linha média mandibular desviada",,,X,Internação + osteossíntese de mandíbula sobr AG + prescrição,10/2/2020,10/2/2020,/
+2020,Clenilson dos Santos,36,M,/,Etilista ,Acidente ciclístico,não,Direito,,Fratura de parede anterior e posterior de seio maxilar (D),,X,,Tratamento conservador,14/2/2020,14/2/2020,14/2/2020
+2020,Daniel Bozzi,20,M,Branca,/,Acidente desportivo,não,,X,Fratura de OPN  sem desloc.,,,X,Redução de OPN,10/4/2020,/,/
+2020,Daniel Vieira dos Santos,76,M,Branca,/,Queda de nível,não,Esquerdo,,Fratura incompleta de mandíbular e TDA 22,FCC em lábio inf.,X,,Tratamento conservador de fratura + prescrição,2/3/2020,/,/
+2020,Davi de Melo Rayes,6,M,Branca,Nega,Ferimento por arma de fogo,não,Direito,,Fratura em bloco dos dentes 51 e 52,FCC em região malar (D),,X,Cirurgia sob AG para reposicionamento do bloco e contenção,28/2/2020,29/2/2020,/
+2020,Davi Lucas Pacceli Correa,5,M,Branca,/,Acidente motociclístico,sim,Direito,,,Avulsões dentárias,X,,Prescrição para casa + encaminhamento pediatria,10/1/2020,/,10/1/2020
+2020,David Willian de Oliveira Leite,22,M,Branca,Nega,Acidente automobilístico,sim,Direito,,,Edema e equimose periorbital (D),X,,Prescrição para casa,9/3/2020,,9/3/2020
+2020,Douglas Roberto de Moura,44,M,Branca,Nega,Acidente contra objeto,sim,Esquerdo,,Fratura de OPN,"Via aérea (E) parcialmente obstruída, epistaxe",X,,Prescrição para casa,11/3/2020,,16/3/2020
+2020,Edison Rodrigues Barbosa,46,M,Branca,/,Mordedura em nariz,não,,X,Fratura de OPN com desloc.,FCC em dorso nasal,,X,"Necessidade de redução ambulatorial, porém paciente se negou. Prescrição para casa",9/1/2020,/,9/1/2020
+2020,Edson Loquete,45,M,Branca,Etilista ,Acidente ciclístico,não,Direito,,Fratura de OPN sem desloc.,FCC orelha e lábio sup.,X,,Sutura + prescrição,11/4/2020,/,11/4/2020
+2020,Edvaldo Carvalho Lopes,26,M,Parda,Nega,Atropelamento  ,não,Direito,,Fratura de arco zigomático,Limitação de abertura bucal,,X,Cirurgia sob AG para redução,25/2/2020,27/2/2020,/
+2020,Fabricio da Silva Martins,23,M,Negra,/,Agressão Física,não,,X,"Fratura de OPN, parede anterior e posterior do seio maxilar E",,X,,Prescrição para casa,10/2/2020,/,/
+2020,Fernando Morilla,50,M,Branca,37 com abertura coronária,Aumento de vol. submandibular,não,,X,,Edema em região submandibular,,X,Internação + drenagem extra-oral + instalação de dreno,5/4/2020,8/4/2020,/
+2020,Filipe Henrique Pierro Alves,30,M,Parda,/,Acidente desportivo,sim,,X,Fratura de OPN,,X,,Prescrição para casa,2/3/2020,/,2/3/2020
+2020,Francisco Emanuel Vieira de Souza,19,M,Negra,Usuário de drogas ilícitas,Agressão Física,não,Esquerdo,,Fratura de OPN,,X,,"Redução a nível ambulatorial, sob AL + instalação de tampão nasal anterior + prescrição",/,,23/3/2020
+2020,Frederico T. Fernandes,6,M,Branca,/,Acidente ciclístico,não,,X,Fratura nasal,,X,,Tratamento conservador,/,/,/
+2020,Gilberto da Silva Danta,20,M,Negra,Nega,Acidente motociclístico,sim,,X,Fratura de OPN,FCC em região supraciliar (D),X,,Orientação + retorno,/,/,/
+2020,Gislane Caetano,32,M,Parda,/,Agressão Física,não,,X,Fratura de CZO E,,,X,Internação + acompanhamento,10/4/2020,/,/
+2020,Guilherme Freire Ferreira,/,M,Branca,/,Paciente classe III,não,,X,,,,X,Cirurgia ortognática,/,8/1/2020,/
+2020,Henrique Agostinho da Silva,29,M,Branca,Nega,Agressão física,não,Esquerdo,,Fratura de parede anterior de seio maxilar (E),Edema e equimose periorbital (E),X,,Prescrição para casa,15/3/2020,,15/3/2020
+2020,Jair Defende,53,M,Branca,/,Queda da própria altura,sim,Esquerdo,,Fratura assoalho oral E,,X,,Prescrição para casa,6/4/2020,/,/
+2020,Jaresmar Alves de Souza,63,M,Negra,/,Acidente ciclístico,sim,Esquerdo,,"Fratura de parede anterior e posterior frontal, fratura CZO e de arco zigomático",,X,,Orientações para casa,10/1/2020,/,10/1/2020
+2020,Jean Cecílio de Oliveira,30,M,Branca,Nega,Ferimento por arma de fogo,não,,X,Fratura em mento transversal,,,X,Cirurgia sob AG para osteossíntese de corpo mandibular (E) com placas e parafusos do sistema 2.0,19/2/2020,27/2/2020,/
+2020,Jefferson Antonio Ferreira,24,M,Parda,Histórico de múltiplos baleamentos (1 em face),Ferimento por arma de fogo,não,,X,Fratura CZM (D) e condilo (E),FPC em região pré auricular (E),,X,Internação + tratamento conservador de condilo + aguardando equipe médica,/,/,/
+2020,João Carlos Marques,51,M,Branca,/,Acidente desportivo,não,,X,Fratura de OPN com desloc.,Rinoescoliose (D),X,,Redução de fratura + tamponamento nasal anterior + prescição,8/3/2020,/,10/3/2020
+2020,Joaquim Francelino,90,M,Branca,Hipertenso (Losartana),Queda da própria altura,não,,X,Fratura de OPN,,X,,Prescrição para casa,10/3/2020,,10/3/2020
+2020,Jose Antonio de Araújo,29,M,Negra,/,Ferimento por arma de fogo,não,Direito,,"Fratura de etmoide, projétil de arma de fogo alojado próximo ao processo cornóide, estilhaços no seio maxilar e crânio",,,X,Internação + aguardando equipe médica,31/1/2020,/,/
+2020,Jose Augusto Rodrigues,34,M,Branca,/,Acidente de trabalho,não,,X,Fratura de osso frontal,,,X,Internação + acompanhamento,/,/,/
+2020,José Carlos Alves,49,M,Negra,/,Acidente ciclístico,não,Direito,,Fratura de parede lateral de órbita,,X,,Tratamento conservador + prescrição,13/2/2020,13/2/2020,13/2/2020
+2020,Jose Felix de Souza,68,M,Branca,/,Inchaço em região submandibular com início de fístula,não,Direito,,,"Edema eritematoso em região cervical e toráxica, bordas necróticas",,X,Encaminhado a cabeça e pescoço,5/4/2020,/,/
+2020,José Mathes Teodoro,2,M,Branca,/,Queda da própria altura,sim,,X,,"Avulsão do 61, TDA",X,,Orientações para casa,/,/,/
+2020,Junior Oliveira Nascimento,34,M,Negra,/,Acidente ciclístico,não,Direito,,Fratura de CZO (D),,X,,Tratamento conservador + prescrição,13/2/2020,13/2/2020,/
+2020,Lidio Dias Fernandes,62,M,Negra,/,Acidente com animal,não,Esquerdo,,,Infecção de material de osteossíntese,,X,Internação + remoção de material de osteossíntese infectado + prescrição,/,5/3/2020,/
+2020,Lucas Henrique Dorte de Oliveira,6,M,Branca,"Convulsão, TQT, SNE",Broncoaspiração?,não,Direito,,,Discreta mobilidade no 82,X,,Manutenção do elemento dental,,,14/3/2020
+2020,Marcelo Donizeti da Silva,43,M,Parda,/,Agressão Física,não,Esquerdo,,Fratura de frontal com pouco deslocamento,Fcc em região frontal ,X,,Tratamento conservador + encaminhamento à oftalmologia,/,/,/
+2020,Mateus da Silva Santos,21,M,Negra,Nega,Agressão Física,/,Direito,,Fratura de OPN,,,,/,/,/,/
+2020,Miguel Victor Crisssafolli de Campos,36,M,Branca,Nega,Queda de nível,sim,Direito,,,Contusão facial e FCC em lábio sup.,X,,Prescrição para casa,/,,/
+2020,Misael Junior da Silva,21,M,Branca,Nega,Acidente com animal,sim,Direito,,,,X,,Prescrição para casa,8/3/2020,,16/3/2020
+2020,Nelson Silveira,78,M,Branca,"TTO rematológico, uso de ibandronato de sódio",Queda da própria altura,não,Esquerdo,,Fratura cominutiva de corpo mandibular (E),Contusão facial,,X,Cirurgia sob AG para osteossíntese de corpo mandibular (E) com placas e parafusos do sistema 2.0,19/2/2020,26/2/2020,/
+2020,Nicolas Assis Atilio,8,M,Parda,Alérgico a Loratadine,Abscesso de origem odontogênica,não,Esquerdo,,,"Abscesso de origem odontogênica, limitação de abertura bucal",X,,Internação + acompanhamento,28/1/2020,/,/
+2020,Orlando Jose de Andrade Filho,?,M,Branca,Nega,Atropelamento,sim,Direito,,"Fratura de parede anterior e lateral de seio maxilar(D), contusão facial",,X,,Prescrição para casa,9/3/2020,,9/3/2020
+2020,Pablo Chaves de Melo,24,M,Parda,/,Acidente motociclístico,não,,X,"Fratura de OPN, deformidade dentofacial por sequela",Perda de projeção de zigomático,,X,Cirurgia em mandíbular e maxila + prescrições,28/7/2019,2/3/2020,/
+2020,Paulo Ricardo Grijota,21,M,Branca,/,Acidente motociclístico,não,,X,Fratura de OPN com desloc.,"Múltiplas FDA em face, FCC em dorso nasal e em lábio inf., rinoescoliose (D), fratura coronária do 12",X,,Redução de fratura + tamponamento nasal anterior + prescição,7/3/2020,/,9/3/2020
+2020,Pedro Ferreira Hilario,5,M,Branca,/,Trauma contra objeto pontiagudo,sim,Esquerdo,,,Ferimento lacero-contuso em mucosa jugal,X,,Prescrição para casa,31/1/2020,/,31/1/2020
+2020,Rafael Petrarolli Mariano,28,M,Branca,/,Queda de nível,não,,X,Fratura nasal,,X,,Redução + TNA + prescrição + remoção de TNA,18/1/2020,/,31/1/2020
+2020,Renan Tenorio da Silva,24,M,Branca,/,Agressão Física,não,Direito,,Fratura de arco zigomático (D),,X,,Redução de fratura + prescrição,7/3/2020,/,7/3/2020
+2020,Rerilton Firmino dos Santos,51,M,Negra,Nega,Agressão Física,/,,X,Fratura de OPN,,,,/,/,/,/
+2020,RN de Andressa Almeida Machado,0,M,Branca,/,Encaminhamento devido à lesão em assoalho bucal,sim,Direito,,,Cisto do ducto sublingual,X,,Encaminhado a odontopediatria,30/1/2020,/,30/1/2020
+2020,Rodrigo Soares Mada,42,M,Parda,/,Agressão Física,não,,X,Fratura de OPN,,X,,Redução + prescrição,/,/,/
+2020,Santos Moacyr Braga,72,M,Branca,/,Queda de nível,não,,X,Fratura de OPN,,X,,Tratamento conservador + prescrição,7/3/2020,/,16/3/2020
+2020,Sergio Costa da Silva,25,M,Branca,/,Acidente motociclístico,sim,,X,,FCC em lábio e fundo de formix mandibular,X,,Orientações para casa,12/1/2020,/,12/1/2020
+2020,Thiago Felipe Mesquita Borges,25,M,Branca,/,Acidente motociclístico,não,,X,Fratura de OPN,"Rinoescoliose, crepitação óssea à manipulação",X,,Redução de OPN + prescrição,5/3/2020,/,9/3/2020
+2020,Thiago Henrique da Silva,27,M,Branca,/,Agressão Física,não,,X,Fratura de sínfise mandibular (D),Limitação de abertura bucal,,X,Internação + REFI fratura de sínfise + prescrição,28/1/2020,31/1/2020,1/2/2020
+2020,Vitor Emanuel Alves Gomes,4,M,Branca,Medicação para controle de metástase,Ganglioneuroblastoma,não,,X,,"Dente 36 rachado pelo tumor, com secreção purulenta do sulco vestibular",,X,Internação + aguardando equipe médica,1/12/2019,5/3/2020,/
+2020,Weverton Jr. S. A. Lima,28,M,Branca,/,Acidente ciclístico,não,,X,,FCC em lábio inf.,X,,Tratamento conservador + encaminhamento à CCP,/,/,/
+2021,Abel Aparecido Santos,37,F,PARDA,,AGRESSÃO FÍSICA,,,,Mandibular,,,X,,,7/1/2021,
+2021,Adriele Alves da Silva,26,F,BRANCA,,Paciente não se recorda do que aconteceu pois estava alcoolizada,,,,,Contusão facial,X,,,7/2/2021,,
+2021,Adrielle Larissa Chaves,21,F,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,,,,Contusão facial,X,,,7/2/2021,,
+2021,Alessandra de Paula Castro,23,F,BRANCA,,QPA,,,,Não,,,,,3/5/2020,,
+2021,Alia Mohamed Hussein Kassen,67,F,BRANCA,DM,UTI,,,,Não,,,,,16/6/2020,,
+2021,Alice Moreira Zucon,82,F,BRANCA,HISTÓRIA DE 10 ANOS DE USO DE ALENDRONATO DE SÓDIO (SEMANALMENTE). ESTÁ A 2 ANOS TOMANDO IBANDRONATO DE SÓDIO (1 CP / MÊS). HAS E HIPERCOLESTEROLEMIA,"Dor, edema e infecção em região submandibular esquerda",,,,osteonecrose por bifosfonato,Osteonecrose associada a medicamentos antirreabsorvitivos,X,,,5/11/2020,,
+2021,Aline Aparecida Camara Vieira,32,F,BRANCA,-,AGRESSÃO FÍSICA,,,,OPN,Não,,X,Redução de OPN,29/9/2020,,
+2021,Aline Nogueira Barbosa,31,F,PARDA,,ACIDENTE MOTOCICLÍSTICO,,direito,,parede anterior do seio maxilar (D),,X,,,2/3/2021,,
+2021,ALZENI MARIA DOS SANTOS CONDE,47,F,BRANCA,,Desconforto gástrico e disfagia,,,,,Reação à medicamentos,X,,,21/2/2021,,
+2021,Amanda Caroline Passos de Jesus,18,F,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,,,TRAUMA DENTOALVEOLAR,,,,,9/5/2020,,
+2021,Amanda Pereira Santos,8,F,PARDA,,mordedura canina,,,,FCC em lábio superior,,X,,,5/3/2021,,
+2021,Amanda Tanaka Iasbeck Gonçalves,21,F,,,ACIDENTE CICLÍSTICO,,direito,,CZMO (D) e fratura nasal,,X,,,5/7/2020,,
+2021,America Don Pedro Cunha Silveira,54,F,BRANCA,,Queda de nível,,Direita,,Órbita Direita,olho roxo direito e equimose esquerda,x,,,2/9/2020,,
+2021,Ana Bini Vitor,,F,BRANCA,,QPA,,Esquerda,,Assoalho de órbita Esquerda.,,X,,,14/8/2020,,
+2021,Ana Carolina Ferreira Domiciano,13,F,PARDA,,Aumento de volume em face do lado esquerdo,,,,,Abcesso odontogênico,,X,,7/1/2021,8/1/2021,
+2021,Ana Carolina Souza da Silva,23,F,BRANCA,,acidente motociclistico,,Direita,,Frat. Incompleta de corpo direito,,x,,,22/1/2021,,
+2021,Ana Casimiro Doimo,68,F,BRANCA,,QPA,,,,OPN,,x,,,4/5/2020,,
+2021,ANA LAURA SEVERINO GANECO,8,F,PARDA,SINDROME DE DOWN,ACIDENTE CICLÍSTICO,,,,NÃO,Malar direita,x,,,9/2/2021,,
+2021,Ana Maria de Oliveira Azevedo ,59,F,BRANCA,,"Dente 38 incluso, em região de base de mandíbula, associado a lesão cística e queixas álgicas",,,,,"Dente 38 incluso, em região de base de mandíbula, associado a lesão cística próximo ao nervo alveolar inferior",X,,,8/6/2020,,9/6/2020
+2021,Andrea Lucia Salomao,37,F,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,,,OPN sem deslocamento,,X,,,9/7/2020,,
+2021,Ane Caroline de Oliveira Ribeiro,26,F,NEGRA,,agressão fisica (tio),,,,OPN,,,,,2/5/2020,,
+2021,Anna Julia Souza Parente,5,F,BRANCA,,QPA,,Esq.,,Não,,,,,27/4/2020,,
+2021,Aparecida de Oliveira Alves Vicente,57,F,BRANCA,"hipertensão, DM",QPA,,,,OPN,,X,,,-,,
+2021,Aparecida dos Reis Medeiros,62,F,BRANCA,,QPA,,,,,Contusão facial,X,,,4/2/2021,,
+2021,Aparecida Severino Barros,60,F,BRANCA,,acidente motociclistico,,,,ZGM Esq. E Arco Esq. SM bilat.,,x,,,3/5/2020,,
+2021,Aurea Aparecida Balbino Assunção,48,F,BRANCA,NEGA,ACIDENTE MOTOCICLÍSTICO,,,X,Sínfise e Côndilo Bilateral,,,,,31/1/2021,,
+2021,Aurea Aparecida Balbino Assunção,48,F,BRANCA,Hipotireoidismo. Faz uso de Puran T4. ,ACIDENTE MOTOCICLÍSTICO,,,X,mandibular (condilo bilateral e sinfise mandibular),,,X,,31/1/2021,1/2/2021,
+2021,Beatriz de Godoi Ferreira Siqueira,30,F,BRANCA,nega,acidente automobilistico,,,,Não,,,,,21/6/2020,,
+2021,BENEDITA MASSARO FABRIS,76,F,BRANCA,-,LUXAÇÃO DE ATM,,,,-,-,X,,,20/3/2021,,
+2021,Benedita Rosa Pantaroto,,F,BRANCA,"HAS, pré-diabetes e osteoporose. Faz uso de Losartana e outras medicações (não se recorda dos nomes). ",QPA,,,,"Parede anterior de seio maxilar e rebordo infraorbitário, sem deslocamento",,X,,,9/7/2020,,
+2021,Bianca Aparecida Mazarin,33,F,BRANCA,,acidente ciclistico,,,,OPN,,,x,,26/12/2020,,
+2021,Carmelita Rodrigues Ramos,50,F,BRANCA,,ACIDENTE CICLÍSTICO,,Esquerda,,Supra-orbita,,X,,,4/4/2021,,
+2021,Cintia Gonçalves Marinho,42,F,PARDA,,ACIDENTE MOTOCICLÍSTICO,,,,,Fratura coronária do elemento 21 com exposição pulpar e 22 com exposição dentinária,X,,,21/4/2020,,
+2021,Cleonice Gomes Januário,70,F,NEGRA,alzheimer,acidente ciclistico,,,,Não,,,,,28/8/2020,,
+2021,Cleonice Gonçalves Dias Parra,65,F,BRANCA,,QPA,,,,Não,,,,,7/7/2020,,
+2021,Cristiane Tozati,38,F,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,ESQ,,CZM Esq.,,x,,,10/8/2020,,
+2021,Dalva Terenciano,72,F,BRANCA,Hipertensa e osteoporotica,QPA,,,,OPN,,X,,,22/11/2020,,
+2021,DAYANE RIBEIRO DE ALMEIDA MARINHO,28,F,PARDA,,AGRESSÃO FÍSICA,,,,NASAL,,X,,,15/2/2021,,
+2021,Debora Cristina Bispo Cazerta,52,F,BRANCA,,acidente ciclistico,,,,Opn,,x,,,23/1/2021,,
+2021,Dejanira,76,F,BRANCA,CA de Reto,radioterapia,,,,ulceras,,,,,22/2/2021,,
+2021,Delfina Melhado Pinto,93,F,BRANCA,Alzheimer e Hipotiroidismo,QPA,,Esquerda,,OPN e SM Esquerda,,X,,,1/4/2021,,
+2021,Deli Gonçalves de Queiroz Alves,65,F,BRANCA,"epilepsia, convulsão",QPA,,,,Não,,,,,26/8/2020,,
+2021,Dinazalda Moreno Barbosa,40,F,,,ACIDENTE MOTOCICLÍSTICO,,,,Não,,,,,19/5/2020,,
+2021,Diomar Escardoveli Bougo,75,F,BRANCA,"Medicamentos em uso: Donaren, Puran, Betaistina, Sertralina",QPA,,direito,,CZM (D),,X,,,10/11/2020,,
+2021,Dirce Brandão Figueiredo,77,F,BRANCA,"HAS, Refluxo,hernia de hiato",parotidite,,,,não,,,,,16/6/2020,,
+2021,Edilene Venancio ,46,F,BRANCA,,Cárie,,,,Não,,,x,,13/9/2020,,
+2021,Edna Maria Cessel Mutti,55,F,BRANCA,,QPA,,,,opn,,X,,,22/11/2020,,
+2021,Eduardo Cristina Mateus,28,F,BRANCA,crack e maconha,AGRESSÃO FÍSICA,,,X,Parassínfise D e Côndilo E,,,X,cx,27/1/2021,29/1/2021,30/1/2021
+2021,Edy Maria Barboza,84,F,NEGRA,parkinson e Hipertensão,QPA,,Esquerdo,,CZO Esq.,,X,,,12/3/2021,,
+2021,EMANUELY SILVA CELESTINO,1,F,BRANCA,,Mordedura canina,,direito,,"FCC em região malar, pré e retroauricular e submandibular (D)",,X,,,9/7/2020,,
+2021,Emily Oliveira da Silva,20,F,BRANCA,NEGA,ACIDENTE MOTOCICLÍSTICO,,Esquerdo,,Arco Esq; Parassínfise Esq.,,,x,,4/8/2020,7/8/2020,8/8/2020
+2021,Eunice Ottoni Montanaro,97,F,BRANCA,"Tremor essencial e dislipidemia. Faz uso de Prolopa, Prinidon e Sinvastatina.",QPA,,direito,,CZMO (D) com envolvimento de arco zigomático (D) com leve deslocamento,,X,,,7/7/2020,,
+2021,Firmina Martins Cerqueira Neto,68,F,,,QPA,,Esquerdo,,Parede lat. De órbita,Fronto-zgm esq.,X,,,11/5/2020,,
+2021,Francisca Aparecida de Araujo,57,F,PARDA,,LUXAÇÃO DE ATM,,,,Não,redução,,,,21/12/2020,,
+2021,Gabriela Evangelista Diniz,8,F,BRANCA,,Queda de bicicleta,,,,,Traumatismo dentoalveolar ,X,,,4/7/2020,,
+2021,Gabrielly dias Dos Santos,16,F,BRANCA,NEGA,LUXAÇÃO DE ATM,,,,Não,,X,,,27/6/2020,,
+2021,Gilda Alves,56,F,NEGRA,,Queda de escada,,esquerdo,,Arco zigomático e sem deslocamento significativo,Escoriação peri-orbita,X,,,8/11/2020,,
+2021,Giovana Maria Sales Godoi,23,F,BRANCA,nega,agressão fisica,,,,Não,"Edema e Equimose Bilat; oclusão palpebral,",,,,11/1/2021,,
+2021,Giovanna Rondolfo Correa Lourenço,5,F,BRANCA,nega,mordedura canina,,,,Não,Laceração em lábio inferior,,,Sutura,?,,
+2021,Gislene Caetano Ataide,27,F,BRANCA,,AGRESSÃO FÍSICA (marreta),,esquerdo,,CZO esquerdo pouco deslocada,,X,,,13/4/2020,,
+2021,GIULIA REBECA DE BRITO BIZERRA,4,F,BRANCA,,Dor dentária,,,,,Celulite facial,,X,,,16/2/2021,
+2021,Guiomar Campos de Freitas,56,F,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,,,Mandibular ,,,X,,5/1/2021,6/1/2021,
+2021,Hifumi Shiota,76,F,BRANCA,"alzheimer, depressão, pneumonia",Pneumonia- intubado,,,,Não,,,,,16/6/2020,,
+2021,Hilda Casagrande da Silva,75,F,BRANCA,cancer,QPA,,,,OPN,,x,,,29/8/2020,,
+2021,Hilda Martins ,62,F,BRANCA,,Acidente doméstico  ,,,,,Contusão facial,X,,,5/10/2020,,
+2021,Hissae Yamada Utida,74,F,BRANCA,,Queda da cama,,,,OPN com mínimo deslocamento e fratura de arco zigomático,,X,,,10/10/2020,,
+2021,Irani Luz da Silva,58,F,PARDA,,QPA,,,,Não,equimose peri orbitária,,,,8/3/2021,,
+2021,Irene Jordão Bevilacqua,98,F,BRANCA,,QPA,,Esq,,Arco Esq,,x,,,19/12/2020,,
+2021,Isaltina de Lima Babolin,82,F,PARDA,"Cardiopata, Hipertensa e pré-DM, colesterol",Queda de nível,,,,Não,Hematoma em supra-orbita,X,,,1/4/2021,,
+2021,Ivanier Rosa dos Santos,68,F,BRANCA,Hipotiroidismo. Faz uso de Puran T4,QPA,,,X,Região lingual de corpo mandibular (E) e fratura de côndilo alta (D),,X,,,11/7/2020,,
+2021,Izair do Carmo,66,F,PARDA,,QPA,,direito,,Contusão facial + fratura de parede medial de órbita direita,,X,,,29/5/2020,,
+2021,Jandira Honorio de Souza Silva,60,F,PARDA,NEGA,QPA ,,,,Corpo Bilateral - Atrófica,,,X,,4/8/2020,,
+2021,Jennifer Jaqueline Carla Santos Lemes,23,F,BRANCA,,agressão fisica,,,,OPN,Laceração Nasal,,,,26/7/2020,,
+2021,Josefa pessoa Rodrigues,75,F,BRANCA,"Hipertensão, DM, Alzheimer",QUEDA DE NÍVEL,,,,NÃO,Equimose,,,,9/2/2021,,
+2021,Josefina Martins de Carvalho,62,F,NEGRA,NEGA,QPA (suspeito),,,,CZO Direito; Coronóide Esquerdo.,Terço médio,X,,,23/6/2020,,
+2021,Juliana Correia de Oliveira,40,F,BRANCA,,ACIDENTE MOTOCICLÍSTICO,não,,,OPN,,x,,,4/5/2020,,
+2021,Juliana Daniela Frameschi Martho,37,F,BRANCA,,acidente motociclistico,,,x,"CZO E, Maxila D",,,x,,,,
+2021,Juliana de Oliveira ,25,F,PARDA,GRÁVIDA de 11 semanas,AGRESSÃO FÍSICA,,,,,Escoriações em dorso nasal. Edema em terço inferior da face do lado direito,X,,,4/7/2020,,
+2021,Juraci Maria de Jesus,74,F,PARDA,HAS. Medicamentos em uso: Atenolol,QPA,,esquerdo,,parede medial da órbita do lado esquerdo,,X,,,15/11/2020,,
+2021,Kamily Luane da Silva,7,F,BRANCA,,Atropelamento,,,,Trauma Dentoalveolar,,,,,14/3/2021,,
+2021,Karen Cristina da Silva,29,F,BRANCA,"Diabética (faz uso de insulina) e cocaina
+Usuária de cocaína.",Cárie,,,,Abcesso,Abscesso odontogênico,,X,,3/7/2020,4/7/2020,
+2021,Karen Cristina da Silva,29,F,BRANCA,Diabética (faz uso de insulina). Usuária de cocaína,Abscesso de origem odontogênica,,,,,Abscesso de origem odontogênica,,X,,3/7/2020,4/7/2020,
+2021,Karen Gabriele Rodrigues Silva,24,F,PARDA,etilista e tabagista,agressão fisica,,Esquerda,,CZO Esquerda,"equimose peri-orbitária esq., afundamento ZGM E",,X,,13/1/2021,,
+2021,Karina Toshie Ide Zarronz,43,F,BRANCA,,QPA,,,,Não,,,,,14/2/2021,,
+2021,Lais Emanuela Gaspar da Silva,3,F,BRANCA,-,Queda de nível,,,,Não,,,,,18/11/2020,,
+2021,Livia Luz Braga Ferreira,4,F,BRANCA,,QPA,,,,Não,,,,,18/12/2020,,
+2021,Lorena Vitoria de Castro Novaes,2,F,PARDA,,Queda de nivel,,,,Não,,,,,23/1/2021,,
+2021,Lorraine Fernandes de Matos,4,F,BRANCA,nega,Atropelamento,,,,não,,,,,15/1/2021,,
+2021,Lorrany Mendes de Freitas,2,F,BRANCA,,QPA,,,,trauma dentoalveolar,,,,,24/5/2020,,
+2021,Lourdes Campos de Carvalho,58,F,,UTI GERAL (HOSPITAL DO RIM); EM USO DE ENOXAPARINA. TERMO DE CONSENTIMENTO,COVID – 19 / PNEUMONIA – 18 DIH UTI,,,,Não,"Elementos dentais com mobilidade grau III, pequeno sangramento ativo no 33",X,,Óbito,26/3/2021,,
+2021,Luana Beatriz Rodrigues,16,F,BRANCA,-,ACIDENTE MOTOCICLÍSTICO,,Esquerdo,,Ângulo mandibular,,,X,,17/5/2020,20/5/2020,21/5/2020
+2021,Luana Gabriela da Silva Batista,22,F,,NEGA,LUXAÇÃO DE ATM,,,,,,X,,Redução e Bandagem,9/2/2021,,
+2021,Luciana de Castro Schuindt,46,F,,NEGA,Trauma x anteparo,,,,OPN,,X,,,11/5/2020,,
+2021,Luciana Machado Ramos,38,F,BRANCA,,Trauma x anteparo,,,,OPN,,x,,,8/5/2020,,
+2021,Luduina Boulhossa Lourenço,68,F,BRANCA,,QPA,,,,Não,,,,,12/9/2020,,
+2021,LUIZ GUSTAVO SILVA (TAINÁ),18,F,PARDA,,ACIDENTE MOTOCICLÍSTICO,,,,CMZO com descolamento e OPN sem deslocamento,,,X,,22/5/2020,27/5/2020,
+2021,Luzia Pereira Carvalho,54,F,BRANCA,,Trauma x anteparo,,,,OPN,,,x,,20/1/2021,,
+2021,Maiara Cristina Gonçalves,25,F,BRANCA,,agressão fisica,,,,OPN,,,X,,23/12/2020,,
+2021,Manuela Batista Generoso,6,F,-,-,QPA,,,,TRAUMA DENTOALVEOLAR,,,,,13/4/2020,,
+2021,Marcia Cardoso Celestino,42,F,PARDA,,agressão fisica,,,,Não,Contusão malar direita,,,,18/10/2020,,
+2021,Marcia Helena Vitor,47,F,NEGRA,,LUXAÇÃO DE ATM,,,,Não,,,,,5/6/2020,,
+2021,Maria Alves de Souza,75,F,BRANCA,Hipertensão,QPA,,,,OPN,,x,,,15/2/2021,,
+2021,Maria Anegla Rodrigues da Silva,47,F,,etilismo,QPA,,,,não,,,,,11/5/2020,,
+2021,Maria Aparecida Alves,82,F,BRANCA,,QUEDA DE NÍVEL,,,,OPN,,X,,,17/1/2021,,
+2021,Maria Aparecida Gouveia Piveta,88,F,PARDA,,Queda de nível,,Direita,,Assoalho de órbita Direita,,,,,21/11/2020,,
+2021,Maria Aparecida Leal Vio,53,F,BRANCA,Hipercolesterolemia,,,,,não,,,,,26/11/2020,,
+2021,Maria Auxiliadora Alves,68,F,BRANCA,,QPA,,,,OPN,,,X,,8/9/2020,,
+2021,Maria Clara Grosso Santos,15,F,PARDA,,Abscesso em base de mandíbula ,,,,,Sequestro ósseo e formação de infecção,,X,,14/4/2020,14/4/2020,
+2021,Maria de Lourdes Gonçalves,96,F,NEGRA,DM e Alzheimer,QPA,,,,OPN,,x,,,30/8/2020,,
+2021,Maria de Lourdes Vieira Pocaia,47,F,BRANCA,NEGA,QPA,,,,Não,,,,,?,,
+2021,Maria Helena Paz Viana,58,F,BRANCA,,Atropelamento,,Esquerda,,OPN E parede medial de órbita Esq.,,x,,,20/1/2021,,
+2021,Maria Izabel de Jesus Giroto,83,F,NEGRA,"HAS, Diabetes, Alzheimer. Medicamentos em uso:  Levotiroxina sódica; Diamicron; Espironolactona; Pantoprazol; Propatilnitrato; Brintellix; Vastarel; Atorvastatina; Donepezila; Glifage; Kitapen; Clonazepan; Losartan. Colírios para glaucoma: Maleato de timolol, Alphagan, Cloridrato de dorzolamida, Lumigam. 
+",QPA,,,X,Corpo bilateral,atrófica,,x,,8/10/2020,,
+2021,Maria Rosa de Jesus Souza,94,F,BRANCA,,QPA,,,,Nasal,,X,,,5/7/2020,,
+2021,Maria stella Oliveira Silva,67,F,BRANCA,,LUXAÇÃO DE ATM,,,,Não,redução,,,,24/12/2020,,
+2021,Maria Vieira Soares ,61,F,PARDA,,QPA,,,,OPN,,X,,,12/6/2020,,
+2021,Mariana Michele dos Santos Ferreira,20,F,PARDA,,AGRESSÃO FÍSICA,,ESQUERDA,,Ângulo Esquerdo,Pseudoartrose mandibular,,X,,2/7/2020,7/7/2020,
+2021,Mariana Michele dos Santos Ferreira,20,F,PARDA,,AGRESSÃO FÍSICA,,,X,Mandíbula em região de ângulo (E) e parassinfise (D),,,X,,21/4/2020,22/4/2020,
+2021,Mariana Michele dos Santos Ferreira,20,F,PARDA,,AGRESSÃO FÍSICA,,,,,"Infecção, Osteomielite (?)",X,,,2/7/2020,,
+2021,Marina Teruyo Kamei Kubo,71,F,BRANCA,Lifoma,úlceras bucais,,,,não,Cuidados paliativos,X,,,29/3/2021,,
+2021,Marina Vitória dos Santos Lemos,8,F,BRANCA,,mordedura canina,,,,não,,,,,13/9/2020,13/9/2020,
+2021,Marly Ronsane Ottoboni,58,F,BRANCA,,QPA,,,,Trauma dentoalveolar,,,,,20/7/2020,,
+2021,Martinha Gomes do Prado,80,F,BRANCA,Osteoporose,QPA,,Direita,,órbita direita,,x,,,24/11/2020,,
+2021,Mayana Cinesi Muniz,34,F,BRANCA,,acidente de trabalho,,,,OPN,,,x,,15/12/2020,,
+2021,Michele dos Santos Freitas,28,F,NEGRA,NEGA,AGRESSÃO FÍSICA,,,,"assoalho de órbita, parede medial de órbita Direita","Laceração em órbita Direita, edema e equimose, limitação de motilidade ocular",,x,,2/8/2020,,
+2021,Milena Aparecida de Freitas,41,F,,,AGRESSÃO FÍSICA (doméstica),,,,OPN,,X,,,14/6/2020,,
+2021,MIRIAM TIMACO LEOPOLDO CONTE,74,F,BRANCA,"Hipercolesterolemia, diabetes, labirintite, hipotireoidismo, glaucoma e hipertensão. Travatan, Angiopress, T4 e Clozopor.",QPA,,esquerdo,,CZM (E) + fratura OPN,,X,,,9/7/2020,24/7/2020,25/7/2020
+2021,Nadir Betarchini Gomes,83,F,BRANCA,Hipercolesterolemia,QPA,,Direita,,SM Direito,,X,,,11/1/2021,,
+2021,Nadir Guelfi dos Santos,86,F,BRANCA,HAS (faz uso de medicamento que não se recorda o nome),QPA,,,,FCC em lábio superior,,X,,,6/3/2021,,
+2021,Naiara Karina Vitor de Oliveira,33,F,BRANCA,DM,exodontia do 38,,Direita,,Mandibula,,,X,,15/1/2021,,
+2021,Nair Batista Borges Pablos,80,F,BRANCA,NEGA,Atropelamento,,,X,Côndilo Direito; Arco ZGM E;,,X,,,22/6/2020,,
+2021,Nair Morelli Pinheiro,76,F,BRANCA,,QPA,,,X,Côndilo Bilateral,,X,,,5/11/2020,,
+2021,Nair Sanches Gonçalves,68,F,-,-,QPA,,,,OPN,,X,,,16/5/2020,,
+2021,Natana Juliana de Souza Rodrigues,30,F,PARDA,,ACIDENTE MOTOCICLÍSTICO,,,,Nasal,Contusão facial,X,,,4/12/2020,,
+2021,Neuza Otaviano da Silva,64,F,PARDA,,QPA,,,,,Contusão facial,X,,,13/6/2020,,
+2021,Palmira Mendes da Silva,76,F,NEGRA,DM e Hipertensão,QPA,,,X,corpo bilateral,,,x,,26/11/2020,,
+2021,Patricia Rainer de Souza Soares,25,F,BRANCA,NEGA,AGRESSÃO FÍSICA,,,X,Ângulo Bilateral,Não,,X,,2/8/2020,4/8/2020,5/8/2020
+2021,Paula Carolina Silva,30,F,NEGRA,nega,Agressão física,,,,OPN,"Edema em hemiface direita, trismo",X,,,16/1/2021,,
+2021,Pietra dos Santos Soares,4,F,BRANCA,NEGA,QPA,,,,Não,,,,,25/11/2020,,
+2021,Priscila Sayuri Kusano Yamamoto,37,F,BRANCA,,complicação de bichectomia,,,,Não,Edema em espaço bucal,,x,,15/12/2020,,
+2021,Raissa Angelica Fernandes Mauricio,25,F,BRANCA,,desacordado em via pública,,Direita,,óRbita Direita,,x,,,29/8/2020,,
+2021,Raissa Santan Lucas,17,F,BRANCA,,agressão fisica,,direita,,não,"edema e equimose peri-orbitária a esquerda, escoriações em malar direita",x,,,17/6/2020,,
+2021,Ramona Martinez dos Santos,77,F,BRANCA,,QPA,,,,OPN,,x,,,16/12/2020,,
+2021,REBEKAH RAAB BRAZOLOTO PANASSI,5,F,PARDA,,Colisão de patinete contra objeto (churrasqueira),,,,,Contusão facial,X,,,19/2/2021,,
+2021,Regina Celia Massaroto Aoki,53,F,BRANCA,,AUMENTO DE VOLUME,,Direita,,48,,,X,,1/9/2020,,
+2021,Regina de Jesus Bernardes,32,F,NEGRA,"etilista, drogadita",AGRESSÃO FÍSICA,,,,NÃO,Edema a Direita,,,,9/8/2020,,
+2021,Rhaissa Victoria Silva Santos,10,F,BRANCA,NEGA,Trauma x anteparo,,,,OPN,,x,,,29/11/2020,,
+2021,Rosa Dias Naia,81,F,BRANCA,,QPA,,Esquerdo,,Blow-out E,,X,,,2/9/2020,,
+2021,ROSAINA AIRES DA SILVA,34,F,BRANCA,NEGA,ACIDENTE MOTOCICLÍSTICO,,,X,CORPO MANDIBULAR BILAT.; ARCO E; FRONTO ZGM DIR;,,,X,,20/3/2021,21/3/2021,
+2021,Roseli galego Damico,39,F,BRANCA,,acidente ciclistico,,,,OPN,,,,,15/6/2020,,
+2021,Rute Regis Rodrigues Silva,40,F,PARDA,,Atropelamento,,,,,Contusão facial,X,,,4/3/2021,,
+2021,Sabrina Sechim Barzaghi,36,F,PARDA,,acidente motociclistico,,Esq,,CZO Esq,,,x,,16/12/2020,,
+2021,SANDRA ANDERSON DA SILVA PIRES ,59,F,PARDA,,ACIDENTE MOTOCICLÍSTICO,,,,,Contusão facial,X,,,27/5/2020,,
+2021,Sandra Cristina da Silva Pjote,56,F,BRANCA,nega,Herpes,,,,Não,,,,,24/10/2020,,
+2021,Sandra Espinhara da Silva,52,F,BRANCA,,acidente motociclistico,,direita,,frontal e assoalho de órbita direita,,x,,,21/12/2020,,
+2021,Sara Oliveira Santos,12,F,BRANCA,,acidente automobilistico,,,,OPN,,X,,,-,,
+2021,Sara Regina Radigheri de Carvalho,36,F,BRANCA,,QPA,,,,OPN e trauma dentoalveolar,"equimose peri-orb. Bilat.; edema em dorso nasal, FDA em fronte, frat do 11",x,,,22/12/2020,,
+2021,Sarah de Oliveira Pereira Seraphini ,19,F,BRANCA,,ACIDENTE AUTOMOBILÍSTICO,,esquerda,,Mandibular (parassinfise esquerda),,,X,,2/7/2020,3/7/2020,
+2021,Selma Maria dos Santos,44,F,BRANCA,,agressão fisica,,,,Não,Escoriações em dorso nasal,x,,,4/6/2020,,
+2021,Simone Cristina da Silva Celestino  ,41,F,BRANCA,,AGRESSÃO FÍSICA,,,,Nasal com mínimo deslocamento,Enfisema em região frontal. Edema e equimose periorbital bilateral. Enfisema em terço médio da face,X,,,25/4/2020,,
+2021,Simone de Cassia Rodrigues Valdanha,39,F,BRANCA,,ACIDENTE CICLÍSTICO,,Direita,,Arco D,,X,,,1/9/2020,,
+2021,Sofia Vitoria Toguia da Silva,1,F,BRANCA,,QPA,,,,,Contusão facial,X,,,11/11/2020,,
+2021,Solange Cristina Pereira dos Santos,45,F,BRANCA,,QPA,,direito,,Arco zigomático D,,X,,,8/1/2021,,
+2021,Solange Mileni Paulino Soares,62,F,NEGRA,,acidente ciclistico,,Esquerda,,"Coronoide Esq, órbita esq",Edema em orbita esq. E fcc em fronte esq.,x,,,,,
+2021,Suelen Cristina de Souza Santos Nunes,31,F,PARDA,Gestante,agressão fisica,,,,trauma dento-alveolar,luxação do 11,x,,,1/8/2020,,
+2021,Suzete Donizete Neves Galvão,44,F,NEGRA,,Cárie,,,,Não,Abcesso,,X,,12/4/2020,,
+2021,Talita Christie Pereira Soares,12,F,BRANCA,,acidente ciclistico,,,,Não,,,,,17/12/2020,,
+2021,Thais Kethleen da Silva,20,F,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,,,??,,?,?,,6/9/2020,,
+2021,Theodora Pessin Lima,4,F,BRANCA,,Queda de nivel,,,,Não,,,,,1/6/2020,,
+2021,Tokuyo Higuti,73,F,BRANCA,DM e Hipertensão,QPA,,,X,"OPN, ASSOALHO DE orbita bilat.",,X,,,15/1/2021,,
+2021,Toyoko Doho Martins,78,F,BRANCA,-,QPA,,Esq,,SM esq,,X,,,29/9/2020,,
+2021,Valcir Salomão Paes,35,F,NEGRA,iot,Agressão física,,Direita,,OPN e Côndilo Direito,,x,,IOT,29/7/2020,,
+2021,Valentina de Sousa Gouveia,4,F,BRANCA,,agressão física,,,,Não,,,,,30/9/2020,,
+2021,Valeria Votorino da Silva,32,F,BRANCA,Gestante,Cárie,,Esq,,Infecção,15,x,,,4/6/2020,,
+2021,Vania Cristina Batista de Oliveira,35,F,BRANCA,,acidente motociclistico,,,,Não,,,,,8/11/2020,,
+2021,Vera Lucia Sattin Borges,49,F,BRANCA,,QPA,,,,OPN sem deslocamento,"Edema, equimose, e FDA em região de frontal, glabela e dorso nasal",X,,,25/4/2020,,
+2021,Victoria Sequin Lourenço,9,F,BRANCA,,acidente desportivo,,,,trauma dentoalveolar,,,,,22/5/2020,,
+2021,Vilena de Souza,33,F,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,Direita,,"Sínfise, ângulo e Arco Direito",,,X,,-,,
+2021,Vilma,85,F,BRANCA,,QPA,,esq,,"Le Fort I esq. Opn, czo esq.",,x,,,2/8/2020,,
+2021,Vilma da Silva Ramos,20,F,BRANCA,,FPAF,,Esquerda,,"Frontal, CZO e mandibula esquerda",,,,óbito,22/11/2020,,
+2021,Vilma da Silva Ramos,20,F,PARDA,,"FAF em região craniana, face e membro inferior direito",,direito,,"craniana, frontal, base de crânio, CZMO e Mandíbula (corpo e ângulo) à direita",,X,,óbito,22/11/2020,,
+2021,Vitoria Falconi Miguel Gonçalves,7,F,PARDA,,Cárie,,esquerda,,,38,,x,,3/5/2020,4/5/2020,
+2021,VITÓRIA FALCONI MIGUEL GONÇALVES,7,F,PARDA,,Drenagem de abscesso na região,,,,,Abscesso  ,,X,,28/5/2020,30/5/2020,
+2021,Vitória Falconi Miguel Gonçalves,5,F,PARDA,,Infecção Odontogênica,,,,,Aumento de volume submandibular esquerdo em regressão e sem dor a palpação,X,,,10/6/2020,,
+2021,Waldeth da Silva Ovando,76,F,BRANCA,,QPA,,,,OPN,,X,,,21/7/2020,,
+2021,Wilma Nicoleti Manzatto,67,F,BRANCA,NEGA,QPA,,,,OPN,,x,,,24/11/2020,,
+2021,Yolanda Rodrigues,76,F,BRANCA,,QPA,,direito,,parede lateral de órbita (D),,X,,,6/3/2021,,
+2021,Ysabelly Gabryelly Araujo da Silva,3,F,BRANCA,,mordedura canina (pitbull),,Direita,,Não,,,x,,23/8/2020,,
+2021,Zulmira de Oliveira Rigo,78,F,BRANCA,,QPA,,,,Não,,,,,-,,
+2021,Adão Cesar Moreira dos Santos,37,M,PARDA,,ACIDENTE CICLÍSTICO,,,,TRAUMA DENTOALVEOLAR,,X,,,8/11/2020,,
+2021,Adolfo Ponte Casagrande Patricio,41,M,PARDA,,AGRESSÃO FÍSICA,,,,OPN,,X,,,,,
+2021,Adriano de Assis Vasques,43,M,BRANCA,"Anoxia Cerebral, HAS, DM, TQT,SNE",miíase,,,,,,,,,,,
+2021,Adriano de Sousa Gasperini,25,M,BRANCA,NEGA,ACIDENTE MOTOCICLÍSTICO,,,,"OPN, Maxila Bilat.",Arco Direito e lábio direito,,X,Osteossintese,8/2/2021,9/2/2021,10/2/2021
+2021,Adriano de Souza Gasparini,25,M,PARDA,,ACIDENTE AUTOMOBILÍSTICO,,esquerdo,,parede anterior e posterior do seio maxilar e fratura longitudinal em maxilla próximo ao processo alveolar em lado esquerdo,,X,,,7/2/2021,,
+2021,ADRIANO LUIZ DOS SANTOS,48,M,,ALERGIA A AMOX E DIPIRONA,MATERIAL DE SINTESE,,DIREITO,,,,,X,RMS,10/2/2021,,
+2021,Adriano Ramos,44,M,NEGRA,-,ACIDENTE MOTOCICLÍSTICO,,,,,,,,,17/5/2020,,
+2021,Adriano Rodrigo Olher De Junior,20,M,BRANCA,,acidente motociclistico,,,,Arco Esq. E SM E.,,x,,,22/8/2020,,
+2021,Adriano Xavier da Silva ,37,M,PARDA,Etilista e Tabagista,AGRESSÃO FÍSICA,,,X,Parassínfise direita e côndilo esquerdo. Fratura nasal sem deslocamento,,,X,,9/11/2020,10/11/2020,
+2021,Adryan Halisson Toneli Pinto,14,M,BRANCA,,acidente ciclistico,,,,Não,,,,,,,
+2021,Aduan Hassan K de Oliiveira Freitas,20,M,BRANCA,NEGA,Queda de nível (4m),Não,,X,Côndilo Bilateral e parassínfise E.,,,,,,,
+2021,Agenor Rossigali,86,M,BRANCA,,QPA,,,,OPN,,x,,,21/1/2021,,
+2021,Agnaldo Victor Marciano,20,M,BRANCA,,agressão fisica,,,,OPN,,X,,,6/9/2020,,
+2021,Alcides Pirani,86,M,BRANCA,,QPA,,,,OPN,,x,,,4/5/2020,,
+2021,Aldair Jose Fortunato da Silva,24,M,BRANCA,,Queda de bicicleta,,,,OPN sem deslocamento + contusão facial,,X,,,13/4/2020,,
+2021,Alex Santos da Silva,34,M,PARDA,,ACIDENTE MOTOCICLÍSTICO,,,,Nasal com mínimo deslocamento,Edema e hematoma periorbitário (E). Edema em região de dorso nasal e ferimentos dermo-abrasivos em terço médio,X,,,22/4/2020,,
+2021,Alfredo Monge Silva,24,M,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,Direita,,Parassinfise Direita,,x,,TTO Fechado,27/7/2020,,
+2021,Alvaro Flaviano Pireni,55,M,PARDA,,QPA,,,,Opn,,x,,,22/12/2020,,
+2021,Amir Soares de Melo Pires,79,M,BRANCA,,QPA,,Esq.,,Côndilo Esquerdo,,X,,,29/9/2020,,
+2021,Anderson Cristiano Yudi Homa,,M,,,APNÉIA OBSTRUTIVA DO SONO,,,,,,,X,Cirurgia Ortognática,,2/7/2020,
+2021,Anderson Zoccal Ferreira,20,M,PARDA,,acidente motociclistico,,,,trauma dentoalveolar,,,x,,,,
+2021,Andre Luiz Andreolo,49,M,BRANCA,,acidente automobilístico,,,,Não,,,,,13/3/2021,,
+2021,Andre Manuel da Cruz,40,M,-,-,ACIDENTE CICLÍSTICO,,,,OPN,abrasão em face,X,,,12/4/2020,,
+2021,Antonio Agnaldo da Silva,38,M,branca,,acidente desportivo,,Esquerda,,CZM Esq.,,,x,,,,
+2021,Antonio João de Oliveira Filho,41,M,PARDA,,AGRESSÃO FÍSICA,,,,Não,,X,,,2/11/2020,,
+2021,Antonio Marcos Borges,49,M,NEGRA,,acidente automobilísitico,,,,Sínfise e Corpo Direito,,x,,,23/9/2020,,
+2021,Antônio Marcos Borges,49,M,NEGRA,Etilista e usuário de cocaína,ACIDENTE AUTOMOBILÍSTICO,,,,sínfise e corpo mandibular,,,X,,23/9/2020,8/10/2020,
+2021,Antonio Marcos dos Santos Camara ,24,M,BRANCA,,ACIDENTE CICLÍSTICO,,,,,Contusão facial,X,,,13/6/2020,,
+2021,Antonio Marini ,86,M,BRANCA,,QPA,,,X,Nasal com mínimo deslocamento e fratura de parede anterior de seio maxilar bilateral,,X,,,5/10/2020,,
+2021,Antonio Permagnani,83,M,BRANCA,"AVE, HAS, déficit auditivo e visual",QPA,,,,SM Direito,,x,,,11/3/2021,,
+2021,Antonio Vio,85,M,BRANCA,,Atropelamento,,,,Não,,,,,22/2/2021,,
+2021,Antony Silva Oliveira,2,M,,,Trauma x anteparo,,,,TRAUMA DENTOALVEOLAR,,,,,18/5/2020,,
+2021,Aparecido de Freitas dos Reis,59,M,BRANCA,,Queda de cavalo,,,,Nasal sem deslocamento,,X,,,3/12/2020,,
+2021,Aparecido de Oliveira,75,M,PARDA,cardiopata,QPA,,,,Não,-,,,,22/6/2020,,
+2021,Arauna Martins de Oliveira,52,M,BRANCA,,Trauma x anteparo,,,,"SM Direito, OPN",,X,,,5/10/2020,,
+2021,Arlindo Gonçalves,64,M,NEGRA,nega,acidente automobilistico,,Direita,,Mandíbula Direita,,,X,,8/3/2021,,
+2021,Arthur Fernando Fernandes de Lima,4,M,PARDA,,coice de cavalo,,,,,Contusão facial,X,,,5/12/2020,,
+2021,Arthur Pereira Mahmoud Youssef,5,M,branca,,acidente ciclistico,,,,Não,,x,,,,,
+2021,Benedito Jeso da Silva ,65,M,PARDA,,Síncope seguido de ACIDENTE AUTOMOBILÍSTICO,,,,Espinha nasal anterior,Avulsão dos dentes 32 e 33. Mobilidade dos dentes 21 e 22,X,,,25/4/2020,,
+2021,Benjamin Ribeiro Marinho,68,M,PARDA,"HAS. Medicamentos em uso: Atenolol, lorotodilona, Alodipino ",Infecção de origem odontogênica após exodontia,,,,,Abscesso Odontogênico,,X,,9/11/2020,10/11/2020,
+2021,Brayan Enrique Pereira da Silva,2,M,BRANCA,,Queda de nível,,Esquerda,,"ARCO Esq,",,X,,,-,,
+2021,Bruno Fernando Vanzela,34,M,BRANCA,,QPA,,,X,Parassínfise D e ângulo D,,,X,,,4/9/2021,
+2021,Bruno Garbelini Chiquito ,28,M,BRANCA,,Queda de anteparo + Acidente com animal (Vaca) ,,direito,,mandibular cominutiva em corpo mandibular (D),,,X,,24/4/2020,25/4/2020,
+2021,Bruno Gonçalves de Lima,18,M,PARDA,,ACIDENTE MOTOCICLÍSTICO,,,,NASAL,,X,,,8/11/2020,,
+2021,Bruno Henrique Montefusco dos Santos,29,M,BRANCA,,Queda de nivel,,Esq,,órbita esquerda e temporal esq.,,x,,,14/10/2020,,
+2021,Bruno Santana da Silva,28,M,BRANCA,,Cárie,,,,Não,,,,,19/7/2020,24/7/2020,
+2021,Carlos Alberto Fatin,52,M,PARDA,etilista,QPA,,,,OPN,,X,,,28/6/2020,,
+2021,Carlos Eduardo Niza,36,M,NEGRA,,AGRESSÃO FÍSICA,,,,CZMO; OPN;Parassínfise Direita e Ângulo direito,,,,aguarda melhora,19/4/2020,,
+2021,Carlos Eduardo Niza,,M,PARDA,,AGRESSÃO FÍSICA,,,X,"CZMO com deslocamento medial, OPN sem deslocamento, parassínfise mandibular (E), ângulo mandibular (D)",,X,,,19/4/2020,,
+2021,Carlos Gasparini,79,M,BRANCA,,QPA,,,,Não,,,,,4/9/2020,,
+2021,Carlos Gomes da Silva,67,M,PARDA,,acidente ciclistico,,,,Não,,,,,21/1/2021,,
+2021,Carlos Gomes da Silva,66,M,BRANCA,,QPA,,,,,Contusão facial,X,,,1/3/2021,,
+2021,Carlos Kazuo Minaki,64,M,BRANCA,,agressão fisica,,,x ,SM direito e esq.,,,,,19/8/2020,,
+2021,Carlos Roberto dos Santos,60,M,BRANCA,"SIC prontuário da neuro: Relata episódios anteriores de convulsão, porém não faz uso de medicação.",QPA após convulsão,,,,OPN sem deslocamento + Contusão facial,,X,,,11/7/2020,,
+2021,Carlos Sergio Martinez Tozzi,70,M,BRANCA,,Queda de nivel,,Direita,,"Temporal Direita, CZM Direito",,X,,,1/6/2020,,
+2021,Carlos Vieira Roberto,34,M,NEGRA,,ACIDENTE MOTOCICLÍSTICO,,,,Panfacial,,,X,,9/1/2021,11/1/2021,
+2021,Carlos Wagner Ramos,54,M,BRANCA,"Cardiopatia, HAS e Diabetes. Não se recorda os nomes da medicações.",AGRESSÃO FÍSICA,,esquerdo,,OPN sem deslocamento + Fratura em região anterior de seio maxilar (E),,X,,,12/7/2020,,
+2021,Cesar Alves das Neves,37,M,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,esquerda,,CZO esq e Arco Esq,,x,,,5/9/2020,,
+2021,Cicero Angelo da Silva,66,M,PARDA,hipertenso,ACIDENTE CICLÍSTICO,,esquerda,,OPN; CZM Esq.,,X,,,-,,
+2021,Claudemir Barbosa de Carvalho,58,M,BRANCA,hipertensão e DM,acidente de trabalho,,,,"Frontal, OPN, CZM Bilat. E Arco D",,,X,,1/4/2021,,
+2021,Claudinei Ferreira da Silva,43,M,NEGRA,NEGA,Queda de nível,,,,OPN,,X,,,13/1/2021,,
+2021,Claudio Dias de Ataide ,37,M,PARDA,"Etilista, tabagista, usuário de cocaína",AGRESSÃO FÍSICA,,esquerdo,,Ramo mandibular (E),,X,,,9/10/2020,,
+2021,Cleber Maia Correa,,M,PARDA,,ACIDENTE MOTOCICLÍSTICO,,,,CZO,,X,,,2/3/2021,,
+2021,Cleiton de Jesus do Nascimento,24,M,NEGRA,NEGA,Queda de nível,,,,Não,,,,,26/6/2020,,
+2021,Damião de Lima,69,M,BRANCA,"HAS, DM",Trauma x anteparo,,,,OPN e SM Esquerda,,x,,,26/2/2021,,
+2021,Daniel Domingos Avilar,28,M,BRANCA,,agressão física,,,,Sínfise,,x,X,,26/8/2020,9/9/2020,10/9/2020
+2021,Daniel Haberman do Nascimento,6,M,BRANCA,NEGA,Trauma x anteparo,,,,Não,,,,,25/11/2020,,
+2021,Daniel Ramos de Albuquerque,4,M,PARDA,,QPA,,,,Não,,,,,14/10/2020,,
+2021,danilo simão de souza,25,M,PARDA,,acidente desportivo,,,,Não,,,,,12/12/2020,,
+2021,Davi Dourado Moreno,1,M,BRANCA,,QPA,,,,Não,,,,,15/6/2020,,
+2021,Davi Lucca de Brito Soares,4,M,,NEGA,ACIDENTE CICLÍSTICO,não,,,não,Laceração em lábio inferior,,,Sutura,9/8/2020,,
+2021,Davi Luis dos Santos Caumo,5,M,PARDA,,QPA,,,,,Avulsão do 61 e luxação extrusiva do 51,X,,,6/10/2020,,
+2021,Davi Rodrigues da Silva,1,M,PARDA,NEGA,QPA,,,,Não,,,,,15/1/2021,,
+2021,DENILSON FELICISSIMO DE SOUZA,21,M,PARDA,,ACIDENTE MOTOCICLÍSTICO,,direito,,Ângulo de mandíbula do lado direito,,,x,,12/7/2020,,
+2021,Deosete Fazani,62,M,PARDA,"Transplante de figado, Bifosfonato",QPA,,,,OPN,,x,,,26/8/2020,,
+2021,Desconhecido trazido pelo resgate (Pablo?),aproximadamente 9 anos,M,PARDA,,Atropelamento,,,,Sem sinais de fratura,,X,,,14/11/2020,,
+2021,Diones Evandro Bispo dos Santos,26,M,PARDA,,AGRESSÃO FÍSICA,,,X,Corpo D e ângulo E,,,X,,30/12/2020,4/1/2021,
+2021,Diones Evandro Bispo dos Santos,26,M,PARDA,,AGRESSÃO FÍSICA,,,,Mandíbula,,,X,,30/12/2020,4/1/2021,
+2021,Divino Aparecido de Freitas,62,M,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,Direito,,CZM Direito,,X,,,30/9/2020,,
+2021,Domingos Germiniano,68,M,BRANCA,"Transplante de figado, Bifosfonato",ACIDENTE MOTOCICLÍSTICO,,Esq,,maxila e ZGM E,,x,,,26/8/2020,,
+2021,Donisete Aparecido Chinchia,57,M,PARDA,,,,,,Não,,,,,13/10/2020,,
+2021,Donizeti Jose da Cruz,65,M,BRANCA,-,QPA,,,,Post.de SM Direito,,X,,,,,
+2021,Douglas Almeida Rodrigues,,M,NEGRA,,ACIDENTE MOTOCICLÍSTICO em fuga policial,,,,Região fronto-zigomática e nasal sem deslocamento,Edema e equimose periorbitário bilateral,X,,,26/4/2020,,
+2021,Douglas Dias da Silva,50,M,BRANCA,,acidente de trabalho,,,X,Parassínfise Bilat.,,,X,,5/9/2020,,
+2021,Ed Carlos Martins Munhão Junior,22,M,BRANCA,Etilista e tabagista social,MATERIAL DE SINTESE,,,,mandibula,,,x,"RMS, debridamento e nova síntese",24/11/2020,,
+2021,Ed Carlos Martins Munhao Junior ,22,M,PARDA,Etilista e usuário de cocaína,AGRESSÃO FÍSICA (SIC),,esquerdo,,mandíbula (parassinfise esquerda),,,X,,6/10/2020,7/10/2020,
+2021,Eder Paulo de Souza,47,M,PARDA,,acidente de trabalho,,,,OPN,,x,,,20/8/2020,,
+2021,Edison Costa Silva,35,M,PARDA,NEGA,AGRESSÃO FÍSICA,,,,não,Edema e Equimose Esq.,,,,9/8/2020,,
+2021,Edival Bento de Moraes,65,M,BRANCA,Quimioterapia,Ulceras,,,,Não,,,,,5/6/2020,,
+2021,Edivaldo de Almeida Gandra,26,M,PARDA,PNE,QPA,,,,Não,,,,,22/10/2020,,
+2021,Edmar Bregalanti Júnior,19,M,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,,,Não,,,,,24/7/2020,,
+2021,Edney Bracale Junior,64,M,PARDA,nega,QPA,,,,não,,,,,23/10/2020,,
+2021,Edson Cardoso,53,M,PARDA,,Queda de nível,,,,Não,,,,,10/9/2020,,
+2021,Edson Carlos Ruiz Gonçalves,43,M,BRANCA,,agressão fisica,,,,Não,,,,,23/2/2021,,
+2021,Edson Salvador Vulcano,84,M,BRANCA,,Periodontite,,,,não,,x,,,2/9/2020,,
+2021,Eduardo de Medeiros Prado,22,M,BRANCA,NEGA,ACIDENTE MOTOCICLÍSTICO,,Esquerdo,,CZM Esq.,,,x,,8/8/2020,,
+2021,Eduardo Francisco Lima,38,M,NEGRA,,acidente de trabalho,,,,Não,,,,,12/out,,
+2021,Eduardo Jesus da Silva,33,M,PARDA,,AUMENTO DE VOLUME,,Direita,,Não,,,X,,-,,
+2021,Eduardo Jesus da Silva,33,M,PARDA,,Dor no 48,,,,,Abcesso odontogênico,,X,,30/12/2021,31/12/2021,
+2021,Eduardo Lima da Silva,41,M,BRANCA,,Queda de escada,,,,OPN sem deslocamento + FCC em lábio e mucosa labial superior à direita,,X,,,26/5/2020,,
+2021,Eduardo Lima de Souza,5,M,BRANCA,,QPA,,,,Não,,,,,13/10/2020,,
+2021,Edvan Crepaldi de Castro Meira,31,M,BRANCA,bronquite,ACIDENTE MOTOCICLÍSTICO,,,,parassínfise Esquerda; Condilo Direito,,,,Alta a pedido,21/6/2020,,
+2021,Edvandro Crepaldi de Castro Meira,31,M,BRANCA,bronquite,ACIDENTE MOTOCICLÍSTICO,,,x,parassínfise Esquerda; Condilo Direito,,x,,,21/6/2020,,
+2021,Elcio Braz Pereira de Souza,70,M,PARDA,,Crises convulsivas,,,,,Ulceração pequena em ventre de língua sem sangramento ativo,X,,,3/11/2020,,
+2021,Elcio Braz Pereira de Souza,70,M,BRANCA,"Cardiopata. Epilepsia, sequela de AVC  (7 anos)",Sangramento bucal recorrente após crise convulsiva,,,,Não,Sangramento bucal recorrente,X,,,1/11/2020,,
+2021,Elidio Franzzio,73,M,BRANCA,,agressão fisica,,Direita,,assoalho orbita direita,,x,,,23/12/2020,,
+2021,Eliel Bertoldo da Silva,34,M,PARDA,NEGA,ACIDENTE MOTOCICLÍSTICO,,Esquerdo,,Ângulo Esquerdo,,,X,,4/8/2020,4/8/2020,5/8/2020
+2021,Elizeu Miranda Borges,2,M,BRANCA,anemia,QPA,,,,não,,,,,24/11/2020,,
+2021,Emerson Luiz Ferrari,50,M,BRANCA,Epilepsia,QPA,,x,,OPN e Blow-out a direita,,,,,23/8/2020,,
+2021,Eneias Alves de Freitas,38,M,PARDA,,acidente motociclistico,,Esq,,Corpo Esq. E arco Esq.,,,,,13/10/2020,,
+2021,Ernesto da Silva,84,M,BRANCA,,QPA,,,,OPN sem descolamento ,,X,,,30/5/2020,,
+2021,Evandro Maganin,45,M,BRANCA,,ACIDENTE CICLÍSTICO,,esquerdo,,OPN e fratura intracapsular de côndilo mandibular (E),,X,,,12/6/2020,,
+2021,Evandro Marques da Silva,33,M,BRANCA,Hipertensão,acidente automobilistico,,,X,CZO Bilat.,,,,,28/11/2020,,
+2021,Fabiano Jose da Silveira,31,M,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,,,,Trauma dentoalveolar (Fratura coronária dos elementos 11 e 21. Luxação lateral no 22),X,,,10/10/2020,,
+2021,Fabiano Trindade de Oliveira,38,M,PARDA,,AGRESSÃO FÍSICA,,,,CZ com deslocamento e OPN sem deslocamento,,,X,,,16/4/2020,
+2021,Fabio da Costa Júnior,23,M,PARDA,NEGA,AGRESSÃO FÍSICA,,,x,Ramo Direito e Corpo Esq.,,,X,,9/8/2020,13/8/2020,14/8/2020
+2021,Fabio Henrique Brito Chaves,19,M,PARDA,,ACIDENTE MOTOCICLÍSTICO,,,,,Contusão facial e TDA,X,,,12/6/2020,,
+2021,Fausto Bispo de Souza,47,M,BRANCA,,mordedura canina,,,,não,fcc em mento,x,,,5/5/2020,,
+2021,Felipe de Paiva Silva,20,M,BRANCA,nega,ACIDENTE MOTOCICLÍSTICO,,Direita,,CZO Direito,,x,,,19/10/2020,,
+2021,Felipe dos Santos Nascimento,22,M,BRANCA,,ACIDENTE CICLÍSTICO,,,,"Contusão facial + Fratura coronária nos elementos 11, 12 e 21",,X,,,7/7/2020,,
+2021,Felipe Kaua de oliveira soares,1,M,BRANCA,,QPA,,,,Não,TODA,,,,12/10/2020,,
+2021,Felipe Sallese Vantini,7,M,BRANCA,,acidente ciclistico,,,,TRAUMA DENTOALVEOLAR,,,,,21/5/2020,,
+2021,Felype Matheus Reis da Silva,19,M,PARDA,,ACIDENTE CICLÍSTICO,,,,TRAUMA DENTOALVEOLAR,,X,,,2/11/2020,,
+2021,Fermino Jose da Silva Neto,60,M,BRANCA,Hipertensão,ACIDENTE MOTOCICLÍSTICO,,Esquerda,,CZO esquerdo,,x,,,23/11/2020,,
+2021,Fernando Barbosa Pereira,25,M,BRANCA,NEGA,ACIDENTE MOTOCICLÍSTICO,,Direito,,CZM; Assoalho de órbita e SM Direito,Não,,X,,6/8/2020,9/8/2020,10/8/2020
+2021,Fernando dos Santos Paranhas,43,M,PARDA,,ACIDENTE CICLÍSTICO,,,,OPN sem deslocamento,Contusão facial,X,,,11/10/2020,,
+2021,Fernando Martins de Lima,39,M,BRANCA,,acidente de trabalho,,Direito,,SM Direito,,x,,,16/10/2020,,
+2021,Fernando Roberto Mendes,45,M,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,,,Le Fort III incompleta,,,x,,20/4/2020,,
+2021,Fernando Vieira da Silva,38,M,NEGRA,etilista e maconha,agressão fisica,,,,Frontal,,x,,,19/6/2020,,
+2021,Flavio Melinsck,56,M,BRANCA,,acidente de trabalho,,,,OPN,,,x,,2/10/2020,,
+2021,Francisco do Nascimwento Pereira,57,M,BRANCA,,Acidente com maquita,,,,Nasal,Contusão facial,X,,,2/12/2020,,
+2021,Gabriel Castigliani Bonini,25,M,BRANCA,,acidente automobilistico,,,x,Parassínfise Bilateral,,,x,,,,
+2021,Gabriel da Silva Barsagui,15,M,BRANCA,,ACIDENTE CICLÍSTICO,,,,NASAL,,,X,,6/11/2020,7/11/2020,
+2021,Gabriel de Lima Carvalho,21,M,BRANCA,,Trauma desportivo,,,,OPN com deslocamento,,X,,,31/5/2020,,
+2021,Gabriel Matheus Vieira,22,M,PARDA,,FPAF,,,,,Traumatismo dentoalveolar,X,,,6/1/2021,,
+2021,Gabriel Silva de Souza,3,M,BRANCA,,acidente desportivo,,,,Não,,x,,,19/8/2020,,
+2021,Gabriel Vinicius de Oliveira,20,M,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,,,OPN,,,x,,9/5/2020,,
+2021,Gael de Almeida de La Major,1,M,BRANCA,,QPA,,,,,Incisivos superiores decíduos com grande acúmulo de placa bacteriana e inflamação gengival,X,,,11/11/2020,,
+2021,George Rodrigues Hashiguti,1,M,BRANCA,NEGA,QUEDA DE NÍVEL,,,,não,Equimose labial,X,,,25/1/2021,,
+2021,Gerson da Silva,78,M,BRANCA,,QPA,,esquerdo,,CZMO esquerdo com deslocamento,,X,,,16/4/2020,,
+2021,Gerson da Silva,78,M,BRANCA,,QPA,,esquerdo,,CZMO (E) com deslocamento,,,X,,16/4/2020,20/4/2020,
+2021,Gilson Cordeiro Rocha,30,M,BRANCA,,ACIDENTE CICLÍSTICO,,,,TDA  ,,X,,,15/2/2021,,
+2021,Glauber Rocha dos Santos,35,M,PARDA,,ACIDENTE MOTOCICLÍSTICO,,,,não,,,,,13/9/2020,,
+2021,Guilherme dos Santos de Lima,3,M,PARDA,,Queda de lixeira,,,,,"Contusão facial e Trauma dentoalveolar (51, 52, 61 e 62)",X,,,1/12/2020,,
+2021,Guilherme Gabriel Cardoso,9,M,NEGRA,,acidente ciclistico,,,,OPN,,,,,20/7/2020,,
+2021,Guilherme Junio de Souza,25,M,PARDA,,ACIDENTE MOTOCICLÍSTICO,,,X,"Sínfise, maxila, frontal, opn, CZM esq. ",,x,,UTI,28/3/2021,,
+2021,GUILHERME KAUE LIMA DOS SANTOS,2,M,BRANCA,,Queda de altura,,,,TDA 61 e 51,,X,,,19/2/2021,,
+2021,Gustavo Felipe da Silva,21,M,BRANCA,,acidente automobilistico,,Direita,,CZMO Direita,,,X,,-,,
+2021,Gustavo Henrique do Nascimento Figueiredo,4,M,BRANCA,,Trauma x anteparo,,,,não,,,,,21/1/2021,,
+2021,Haduan Hassan Kassen Oliveira de Freitas,20,M,BRANCA,,Queda de nível,,,X,Parassínfise direita e Côndilo Bilateral,,,X,,8/8/2020,1/9/2020,
+2021,Heitor da Hora Oliveira,6,M,BRANCA,,QPA,,,,OPN,,x,,,18/12/2020,,
+2021,Heitor dos Santos,2,M,BRANCA,,Trauma x anteparo,,,,TRAUMA DENTOALVEOLAR,,,,,2/4/2021,,
+2021,Heitor Miguel Rodrigues,1,M,BRANCA,PCR 5x,Pneumonia- intubado,,,,,ulceras,,,,25/11/2020,,
+2021,Heitor Pereira Alves de Lima,1,M,BRANCA,,QPA,,,,,Contusão facial,X,,,6/12/2020,,
+2021,HENRIQUE VON FRUHAUF GOMES,5,M,BRANCA,,QPA,,,,OPN com discreto descolamento ,,X,,,31/5/2020,,
+2021,Hideko Doy,91,M,BRANCA,,QPA,,Esquerda,,Arco Esq,,x,,,,,
+2021,Hudson Gustavo Mendes da Silva,19,M,NEGRA,,acidente ciclistico,,Esquerda,,Côndilo Esquerdo,,x,,,20/1/2021,,
+2021,Iago Fernando Candido Carlos,20,M,NEGRA,,Atropelamento,,,,,Contusão facial,X,,,11/6/2020,,
+2021,Igor Matheus Dias Correa,8,M,PARDA,,acidente automobilístico,,Esquerda,,Côndilo Esquerdo,,x,,,6/9/2020,,
+2021,Igor Pedro Espadar,20,M,BRANCA,NEGA,ACIDENTE MOTOCICLÍSTICO,,,,SM Direito,,X,,,14/1/2021,,
+2021,Ivan Klein de Oliveira,18,M,BRANCA,,acidente de trabalho,,,,OPN,,,,,1/5/2020,,
+2021,Ivanildo da Silva,36,M,NEGRA,-,ACIDENTE CICLÍSTICO,não,,,TRAUMA DENTOALVEOLAR,malar esquerda,,,,11/5/2020,,
+2021,Jaime Cavalcanti Silva,85,M,BRANCA,"HAS, DM, Cardiopata",QPA,,Esquerda,,"Maxila Esq., CZM esq. E OPN",,X,,,26/2/2021,,
+2021,Jair Arruda,53,M,-,NEGA,AGRESSÃO FÍSICA,,,,OPN,,X,,,08/20/21,,
+2021,Jairo dos Santos,76,M,BRANCA,DM e Hipertensão,QPA,,,,OPN,,X,,,12/3/2021,,
+2021,Janderson Rafael Teixeira Barboza,23,M,PARDA,,QPA,,,,não,,,,,6/5/2020,,
+2021,Jean Carlos Da Silva,24,M,BRANCA,,agressão fisica,,,,Não,,,,,14/12/2020,,
+2021,Jean Cesar Palhota,40,M,BRANCA,,Trauma x anteparo,,,,OPN,,X,,,4/11/2020,,
+2021,Jeferson da Silva,,M,PARDA,,AGRESSÃO FÍSICA,,,X,Corpo Esq. E Ângulo D,,,X,,,,
+2021,Jeferson da Silva Mancao,35,M,PARDA,,AGRESSÃO FÍSICA,,,,Mandíbula,,,X,,30/12/2020,6/1/2021,
+2021,Jeferson Ricardo da Silva,39,M,BRANCA,,AUMENTO DE VOLUME,,,,Não,,,X,,26/10/2020,,
+2021,Jeferson Silva Mancao,25,M,BRANCA,crack,Infecção pós-operatória em fratura de mandíbula,,,,,,,X,,14/1/2021,,
+2021,Jeferson Sousa Chaves,32,M,BRANCA,nega,acidente de trabalho,,Direita,,Arco ZGM,,,x,,20/10/2020,,
+2021,Jefferson de Souza Carrascossa,29,M,BRANCA,,FPAF,,,x,Maxila Bilat. E orbita direita,,x,,,9/7/2020,,
+2021,Jenival Elisbao,54,M,PARDA,,AGRESSÃO FÍSICA,,direito,,"terço médio da face do tipo LE FORT I, LE FORT II, CZO direito e fratura longitudinal em maxila à direita",,X,,,15/11/2020,,
+2021,Jenival Elisbão,54,M,PARDA,,AGRESSÃO FÍSICA,,,X,Le fort II; CZO D e Maxila D;,,,X,,15/11/2020,,
+2021,Jeremias Francisco Bernardes da Silva,46,M,PARDA,,QPA,,,,Nasal e espinha nasal anterior sem deslocamento,Fratura coronária do 11,X,,,23/4/2020,,
+2021,Jeronimo da Silva Costa,27,M,PARDA,-,Queda de nível,,,,não,,,,,14/5/2020,,
+2021,Jhonatan Gabriel Cardoso de Sá,16,M,PARDA,maconha,Cárie,,direita,,,,,X,,12/1/2021,,
+2021,João Batista Carvalho,55,M,NEGRA,NEGA,Queda de nivel,,direito,,assoalho orbitário direito,,X,,,16/1/2021,,
+2021,João Bosco Ribeiro da Silva,33,M,NEGRA,,Queda de nivel,,,,não,,,,,15/8/2020,,
+2021,João Carlos Longui,46,M,BRANCA,,ACIDENTE CICLÍSTICO,,direito,,Arco zigomático (D) ,,X,,,21/2/2021,,
+2021,João dos Santos,80,M,PARDA,,QPA,,,,Não,,,,,24/1/2021,,
+2021,João Gustavo Mendes de souza,18,M,PARDA,,acidente de trabalho,,Esquerda,,órbita Esquerda,,x,,,,,
+2021,João Henrique Teixeira,30,M,PARDA,,acidente motociclistico,,,,Não,,,,,1/6/2020,,
+2021,João Pedro de Lima,73,M,BRANCA,,Queda da cama,,,,,Contusão facial,X,,,20/2/2021,,
+2021,João Pedro Ferreira Cavalcanti,27,M,NEGRA,,ACIDENTE MOTOCICLÍSTICO,,Direita,,CZM; Maxila Direita; ,,X,,,-,,
+2021,João Pires da Silva Filho,58,M,BRANCA,HIV,desacordado em via pública,,,,"OPN e Côndilo, Arco Esq. Prévios",,,,,30/8/2020,,
+2021,Joaquim dos santos dias,38,M,PARDA,NEGA,ACIDENTE MOTOCICLÍSTICO,,Esquerdo,,OPN; órbita E;,,,X,Redução de OPN,9/8/2020,,
+2021,Joel Fernando Coelho,23,M,BRANCA,,acidente automobilistico,,,X,CZO Bilat.,,,X,,28/12/2020,29/12/2020,
+2021,Joemir dos Santos Marafon,24,M,BRANCA,-,ACIDENTE MOTOCICLÍSTICO,,,,Assoalho de órbita Esquerda; OPN,,,x,,4/5/2020,15/5/2020,
+2021,Jorge Luis Teodozio Dias,41,M,BRANCA,,ACIDENTE CICLÍSTICO,,Esquerda,,Sínfise  e Côndilo Esquerdo,,x,,,3/10/2020,,
+2021,Jorge Luis Teodozio Dias,41,M,BRANCA,,ACIDENTE CICLÍSTICO,,esquerdo,,sínfise mandibular e de côndilo alta à esquerda,,,X,,3/10/2020,5/10/2020,
+2021,Jose Adriano dos Santos,32,M,PARDA,NEGA,Cárie,,Esquerda,,Não,Aumento de volume,,,Abcesso odontogênico,25/7/2020,,
+2021,Jose Alberto Bello,48,M,BRANCA,nega,ACIDENTE MOTOCICLÍSTICO,Sim,,,"Frontal, Maxila D",Não,X,,,10/2/2021,,
+2021,Jose Antonio Caldeira Neto,37,M,BRANCA,,acidente automobilistico,,,,OPN,,,x,,19/1/2021,,
+2021,Jose Barbosa da Silva,69,M,BRANCA,,acidente de trabalho,,direito,,Parassínfise Direita,,,X,,27/2/2021,1/3/2021,
+2021,Jose Carlos Batista,,M,PARDA,NEGA,agressão fisica,,,,Não,,,,,25/11/2020,,
+2021,Jose Carlos Braquini,63,M,BRANCA,,ACIDENTE CICLÍSTICO,,,,,Contusão facial,X,,,3/12/2020,,
+2021,Jose Carlos da Silva,60,M,PARDA,,QPA,,,,,Contusão facial,X,,,5/7/2020,,
+2021,Jose Carlos Pereira,54,M,,,QPA,,,,OPN,,,,,19/5/2020,,
+2021,José da Silva Leal,58,M,BRANCA,nega,ACIDENTE MOTOCICLÍSTICO,,,,Não,,,,,11/1/2021,,
+2021,Jose Domingos da Silva,68,M,BRANCA,NEGA,QPA,,,,não,,,,,24/11/2020,,
+2021,Jose Donizeti Avelino,,M,BRANCA,nega,ACIDENTE MOTOCICLÍSTICO,,,,OPN,,,,,22/10/2020,,
+2021,Jose Donizeti Gil,57,M,BRANCA,DM e Hipertensão,acidente de trabalho,,,x,ãngulo esquerdo e corpo direito,,,x,,20/6/2020,,
+2021,José Donizeti Gil,57,M,BRANCA,DM e Hipertensão,acidente de trabalho,,,X,mandíbula,,,X,,20/6/2020,22/6/2020,29/6/2021
+2021,Jose dos Reis Castilho,78,M,BRANCA,,QPA,,,,OPN,,X,,,12/4/2020,,
+2021,José Edison de Freitas Esgalha,72,M,PARDA,,QPA,,,,não,,,,,5/5/2020,,
+2021,José Eduardo Martins de Lima,9,M,BRANCA,,Trauma x anteparo,,,,Não,,X,,,7/11/2020,,
+2021,José Erisvanio Alves dos Santos,25,M,PARDA,,acidente cicli,,,,Não,fcc em lábio e mento,,,,8/3/2021,,
+2021,Jose Fabiano Ferreira dos Passos,21,M,BRANCA,,Queda de cavalo,,,,OPN com deslocamento,,,X,,,19/4/2020,
+2021,Jose Felix de Sousa,68,M,BRANCA,,PO de drenagem,,,,,Alguns elementos dentais com espessamento do ligamento periodontal e lesão de furca,X,,,13/4/2020,,
+2021,Jose Guilherme Santa Terra ,69,M,,,Avaliação da cavidade bucal foi solicitada devido a discite sem foco primário,,,,,Portador de doença periodontal sem débito purulento e sem mobilidade dentária,X,,,30/6/2020,,
+2021,Jose Leonir dos Santos,44,M,NEGRA,nega,ACIDENTE MOTOCICLÍSTICO,,Direita,,CZO direita,,x,,,24/10/2020,,
+2021,Jose Luiz da Rosa,36,M,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,,,,Trauma dentoalveolar envolvendo 21 e 22,X,,,9/11/2020,,
+2021,Jose Luiz dos Santos,70,M,BRANCA,,Atropelamento,,,X,Parassínfise Bilateral; Órbita E; Maxila Direita; CZO Esq.,,,X,,1/11/2020,2/11/2020,
+2021,José Marques Viana,69,M,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,direito,,"frontal, CZMO, arco zigomático e mandíbula na região coronoide (D)",,,X,,23/4/2020,24/4/2020,
+2021,JOSE NASCIMENTO DA SILVA,43,M,NEGRA,HIPERTENSÃO,ACIDENTE MOTOCICLÍSTICO,,,X,"FRONTAL, ARCO D, ZGM BILAT. CORPO MANDIBULAR D; CORPO E;",-,,X,,18/3/2021,,
+2021,Jose Pedro Vignoli Martins,"0,8",M,BRANCA,,Queda de nivel,,,,Não,,,,,2/5/2020,,
+2021,Jose Reche Granado,84,M,BRANCA,,QPA,,,,OPN,,X,,,3/3/2021,,
+2021,Jose Severiano dos Santos,75,M,BRANCA,,QPA,,,,OPN sem deslocamento,,X,,,12/6/2020,,
+2021,Jose Taveira de Souza Sobrinho,59,M,BRANCA,,QPA,,,,OPN,supercilio esq.,X,,,-,,
+2021,Jose Wilson da Costa,48,M,BRANCA,NEGA,QPA,,,,NÃO,,,,,,,
+2021,Josimar Nunes de Oliveira,48,M,PARDA,,QPA,,,,NOE exposta,,,x,,24/4/2020,,
+2021,Julio Cesar Romano,65,M,BRANCA,"AVC. Medicamentos em uso: Cloperidona, Pantoprazol, Oxacarbamazepina, Baclofeno, Lacosamida, Alodipino, Clobazan, Fenobarbital, Sinvastatina, Macrodantina, Clorpromazepina, 
+",Pneumonias recorrentes e possível foco infeccioso em cavidade bucal,,,,,Cáries extensas e periodontite generalizada,,X,,,13/11/2020,
+2021,Julio Cesar Romano ,65,M,,"Hipertensão, DM, Tetraplegia",Sangramento gengival,,,,Não,,,,,26/6/2020,,
+2021,Julio Ramalho,32,M,NEGRA,,ACIDENTE CICLÍSTICO,,Direita,,Frat de ângulo mandibular Direita,,,X,,-,,
+2021,Juraci dos Reis,46,M,BRANCA,,acidente de trabalho,não,,,OPN,,x,,,5/5/2020,,
+2021,Juvenal Cortez,62,M,BRANCA,hipertenso,acidente de trabalho,,,,Não,Laceração em lábio,,,,8/8/2020,,
+2021,Kaique Lima Neves,12,M,PARDA,,Queda de nível,,,x,CZO Bilat.,,x,,,8/5/2020,,
+2021,Kenedy Crismael Augusto Firmino,3,M,PARDA,NEGA,coice de cavalo,,Esquerdo,,CZM Esq.,Laceração nasal,X,,Sutura,6/8/2020,,
+2021,Kevin Alves do Carmo Silva,12,M,PARDA,,Aumento de volume,,,,Não,Biopsiado,,x,,3/9/2020,,
+2021,Kooru Fugiwara,68,M,BRANCA,Artrite,ACIDENTE MOTOCICLÍSTICO,,Esquerda,,Côndilo Esquerdo,,,X,,16/6/2020,,
+2021,Lauder Vinicius dos Santos,5,M,BRANCA,,Acidente doméstico (chute e estava com flauta na boca),,,,,Contusão facial,X,,,3/12/2020,,
+2021,Leandro Barros Gomes,38,M,BRANCA,Etilismo,Agressão física,,Direito,,"OPN, Côndilo Direito, Arco D, e SM Direito.",,X,,,4/4/2021,,
+2021,LENON MOREIRA MURAMATSO,28,M,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,,,Biselada em região de sínfise mandibular,,,x,,12/7/2020,,
+2021,Leonardo soares Machado,25,M,NEGRA,,acidente motociclistico,,Direita,,Arco Direito,,x,,,,,
+2021,Lucas de Medeiros Correita,25,M,BRANCA,NEGA,ACIDENTE CICLÍSTICO,,,,Não,,,,,26/1/2021,,
+2021,Lucas Dias de Franca,34,M,BRANCA,,ACIDENTE CICLÍSTICO,,Direito,,CZMO Direito e Arco D,,,X,,29/8/2020,1/9/2020,
+2021,Lucas Eloy Souza Teixeira,1,M,BRANCA,,QPA,,,,,Contusão facial,X,,,4/2/2021,,
+2021,Lucas Gabriel de Bessa de Deus,19,M,BRANCA,,acidente motociclistico,,,x,"sinfise, ângulo esquerdo e condilo direito",,,x,,18/8/2020,,
+2021,Lucas Pelegrineli,26,M,PARDA,,ACIDENTE MOTOCICLÍSTICO,,esquerdo,,ARCO Esq.; SM Esq.,,X,,,-,,
+2021,Luciano Gallo,43,M,branca,,acidente motociclistico,,Esquerda,,"CZO Esq., orbita esq. E SM esq",,x,,,,,
+2021,Luciano Justino Pereira,,M,,,ACIDENTE MOTOCICLÍSTICO,,,,"OPN, SM Esq.",,X,,,21/7/2020,,
+2021,Luis Gustavo Silva,18,M,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,,,OPN E CZM Esq.,,,,,22/5/2020,,
+2021,Luiz Antonio Nogueira da Silva,10,M,BRANCA,,QPA,,,,,Traumatismo dentoalveolar,X,,,8/1/2021,,
+2021,Luiz Antonio Rodrigues da Silva,7,M,BRANCA,,Queda de nivel,,,,Não,,,,,15/12/2020,,
+2021,Luiz Carlos da Silva,21,M,NEGRA,,agressão fisica,,,x,Côndilo a direita e corpo esq,,,x,,19/12/2020,20/12/2020,22/12/2020
+2021,Luiz Felipe Diniz,27,M,PARDA,,agressão fisica,,,,OPN,,,,,24/8/2020,,
+2021,Luiz Fernando Batista Leal,20,M,PARDA,NEGA,QPA,,x,,Frat incompleta de mandibula,,x,,,15/1/2021,,
+2021,Luiz Henrique Rodrigues,28,M,,,acidente desportivo,,,,OPN,,x,,,16/7/2020,,
+2021,Luiz Marciano Alves,54,M,BRANCA,NEGA,AGRESSÃO FÍSICA,,Direito,,Côndilo Direito,Laceração frontal Esquerda e malar esq.,X,,,7/8/2020,,
+2021,Lusimar Roberto da Silva ,31,M,PARDA,,Remoção de aparelho fixo em arcada superior e inferior solicitado pela Dra Danyelle para possibilitar exame de ressonância magnética,,,,,,X,,,3/12/2020,,
+2021,Maciel Moura Brasil,38,M,PARDA,,AGRESSÃO FÍSICA,,,x,Corpo D e ângulo E,,,X,,1/1/2021,,
+2021,Maciel Moura Brasil,38,M,PARDA,,AGRESSÃO FÍSICA,,,,Mandíbula,,,X,,1/1/2021,5/1/2021,
+2021,Marcelino Brito De Oliveira Neto,26,M,PARDA,,acidente de trabalho,,,x,,corpo mandibular e parassínfise e,,x,,15/10/2020,,
+2021,Marcelo Alves do Amaral,45,M,,,acidente desportivo,-,,,OPN,-,X,,,31/1/2021,,
+2021,Marcelo Alves do Amaral,45,M,BRANCA,,QPA,,Direita,,Corpo Direito,,,x,,24/8/2020,,
+2021,Marcelo Aparecido Silva,34,M,BRANCA,Usuário de cocaína,ACIDENTE MOTOCICLÍSTICO,,esquerdo,,"Nasal, fratura de parede posterior de seio maxilar esquerdo e fratura da parede lateral de órbita esquerda",,X,,,5/12/2020,,
+2021,Marcelo Correa Zanca,47,M,NEGRA,DM,Trauma x anteparo,,,,Não,,,,,23/6/2020,,
+2021,Marcelo Machado Pires,43,M,PARDA,NEGA,AGRESSÃO FÍSICA,,,X,Parassínfise e Ângulo Esq. Côndilo Direito,mento,,X,,2/8/2020,5/8/2020,6/8/2020
+2021,Marcelo Pavão,48,M,BRANCA,Hipertensão. Faz uso de Losartana,"Queda de nível (2,5m)",,,,Septo nasal + OPN sem deslocamento + Fratura radicular dos elementos 11 e 21,,X,,,10/7/2020,,
+2021,Marcio de Sousa Vilsen,15,M,PARDA,NEGA,ACIDENTE MOTOCICLÍSTICO,,,X,Frontal e OPN,,X,,,29/11/2020,,
+2021,Marcio Pereira Gomes,41,M,BRANCA,,AGRESSÃO FÍSICA,,,,Mandíbula,,,X,,,7/1/2021,
+2021,Marco Antonio Dias Carvalho,38,M,BRANCA,,AGRESSÃO FÍSICA (facada),,,,FCCs em face + fratura OPN,,X,,,10/1/2021,,
+2021,Marcos Antonio Sodre dos Santos,21,M,NEGRA,-,acidente automobilistico,,,,NOE,,,,aguarda melhora,6/8/2020,,
+2021,Marcos Barbosa,50,M,PARDA,,ACIDENTE AUTOMOBILÍSTICO,,,,,"FDA em terço superior e médio da face com perda de substância em nariz, região frontal, e região de pálpebra (E)",X,,,21/4/2020,,
+2021,Marcos Cesar Marioto,58,M,BRANCA,,acidente ciclistico,,Direito,,CZO Direito,,x,,,12/9/2020,,
+2021,Marcos de Sousa Mendes Bonifacio,24,M,NEGRA,,acidente de trabalho,,Esq,,"Maxila Esq., CZM esq. ",,x,,,28/3/2021,,
+2021,Marcos Paulo de Assis Andrade,21,M,,NEGA,ACIDENTE MOTOCICLÍSTICO,,,,Corpo mandibular Esquerdo; Côndilo Direito,,,X,,29/6/2020,,
+2021,Marcos Paulo de Assis Andrade,21,M,PARDA,,ACIDENTE MOTOCICLÍSTICO,,,X,complexa de mandíbula (sinfise esquerda e condilo direito),,,X,,28/6/2020,30/6/2020,
+2021,Marcos Rodrigo Rissato,40,M,BRANCA,,Queda de portão,,,,,Contusão facial,X,,,4/2/2021,,
+2021,Marcos Silva Cavalcante ,49,M,PARDA,Usuário de cocaína,AGRESSÃO FÍSICA,,,,CZO sem deslocamento,,X,,,15/11/2020,,
+2021,Marcos Vinicius Ferreira Rossi,25,M,PARDA,,AGRESSÃO FÍSICA,,Esquerda,,CZO Esq.,,X,,,22/11/2020,,
+2021,Mario Eduardo de Sena Pereira ,45,M,BRANCA,,ACIDENTE CICLÍSTICO,,esquerdo,,CZM (E),,,X,,6/10/2020,7/10/2020,
+2021,Mark Corte Fazolin,41,M,BRANCA,,Queda de nível,,,,opn,,x,,,22/11/2020,,
+2021,Mateus Felipe Reolon Godoy,?,M,NEGRA,,Cárie,,,,Não,,,x,,4/5/2020,,
+2021,Matheus Felipe Reolon Godoy,5,M,NEGRA,,Cárie,,,,Não,,,,,2/5/2020,,
+2021,Matheus Henrique Leite de Souza,20,M,,,acidente ciclistico,,,,Não,,,,,22/5/2020,,
+2021,Matheus Nogueira Ferreira,22,M,BRANCA,,agressão fisica,,,,"OPN, Maxila e Arco D",,X,,,12/1/2021,,
+2021,Mauro Rosa de Andrade,68,M,,AVC,QPA,,ESQ,,CZM ESQ E OPN,,X,,,19/5/2020,,
+2021,Maxsuel Azevedo dos Santos,26,M,PARDA,,Queda de escada,,,,Nasal sem deslocamento,,X,,,7/2/2021,,
+2021,Miguel Felipe Carvalho,7,M,BRANCA,amigdalite,Ulceras,,,,,,,,,22/5/2020,,
+2021,Miguel Pereira Domingues,8,M,BRANCA,,mordedura canina,,Direita,,Não,Mento Direito,,x,,2/9/2020,,
+2021,Milton Cesar Teixeira,48,M,NEGRA,Etilista e tabagista,AGRESSÃO FÍSICA,,,X,parede posterior do seio maxilar do lado direito e fratura em região frontozigomática do lado esquerdo,,X,,,2/12/2020,,
+2021,Moises Camilo,14,M,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,,,"OPN, temporal e parietal",,,,óbito,-,,
+2021,MURILO BONFIM SAMPAIO NUNES,18,M,BRANCA,,AGRESSÃO FÍSICA,,Esquerda,,Ângulo Esq.,,,x,,13/2/2021,,
+2021,Naasson Pereira de Alcantara,92,M,BRANCA,,QPA,,esquerdo,,Arco zigomático E (prévia),,X,,,7/1/2021,,
+2021,Natalino Elvadecir Pazeto,75,M,BRANCA,nega,Atropelamento,,,,OPN,,x,,,16/1/2021,,
+2021,Neurles Pereira de Souza,46,M,PARDA,,QPA,,direito,,Nasal e parede anterior do seio maxilar do lado direito,,X,,,5/12/2020,,
+2021,Nicolas Dos Santos Rocha,11,M,NEGRA,,acidente ciclistico,,,,Não,,,,,25/2/2021,,
+2021,Nildo Aparecido de Souza Junior,,M,PARDA,,ACIDENTE MOTOCICLÍSTICO,,,,ângulo e Corpo mandibular,,,,,23/7/2020,,
+2021,Nilton Aparecido de Souza Junior,,M,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,,x,Corpo Direito e ângulo Esquerdo,,,x,,27/7/2020,,
+2021,Nilton Cesar da Silva ,50,M,PARDA,Etilismo crônico,AGRESSÃO FÍSICA,,,,OPN com pouco deslocamento,,X,,,15/11/2020,,
+2021,Olair Roberto de Barros,58,M,BRANCA,nega,ACIDENTE MOTOCICLÍSTICO,,,,CZMO E; e SM D;,Hemiface Esquerda,,X,,24/1/2021,30/1/2021,01/48/21
+2021,Olivio Batista da Silva,53,M,PARDA,Etilista,AGRESSÃO FÍSICA,,,X,"arco zigomático a esquerda sem deslocamento, fratura nasal e fratura de côndilo direito deslocado",,X,,,6/12/2020,,
+2021,Osmir Lucas De Almeida Mendes,23,M,PARDA,,AUMENTO DE VOLUME,,Esquerda,,Não,,,X,Drenagem sob anestesia local,29/10/2020,30/10/2020,
+2021,Osvaldo Henrique de Carvalho,61,M,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,direito,,parede anterior e posterior de seio maxilar (D). Fratura de condilo mandibular (D),,X,,,5/10/2020,,
+2021,Otavio Travessos dos Santos Júnior,31,M,BRANCA,NEGA,AGRESSÃO FÍSICA,,,,Não,,,,,3/8/2020,,
+2021,PACIENTE DESCONHECIDO TRAZIDO PELO SAMU,,M,PARDA,,AGRESSÃO FÍSICA,,,X,CZMO com deslocamento medial + OPN sem deslocamento + parassínfise mandibular esq. + ângulo mandibular dir. ,,X,,,19/4/2020,,
+2021,Patrick Aquino Martins,8,M,BRANCA,,acidente desportivo,,,,Não,,,,,12/9/2020,,
+2021,Paulo Henrique Gomes Cavalheiro,31,M,,,agressão fisica,,,,OPN,,x,,,10/5/2020,,
+2021,Paulo José Pereira Paes,38,M,PARDA,,ACIDENTE MOTOCICLÍSTICO,,,,OPN sem deslocamento,lesão (cisto ?) em pré maxila,X,,,13/11/2020,,
+2021,Paulo Sérgio Simão,51,M,NEGRA,HAS,ACIDENTE MOTOCICLÍSTICO,,,x,Le fort II,,,x,,21/8/2020,,
+2021,Pedro Carlos Franco,40,M,parda,,agressão fisica,,,x,corpo esquerdo e ramo direito,,,x,,,,
+2021,Pedro Gois Fonseca,7,M,BRANCA,,acidente desportivo,,,,OPN,,X,,,12/1/2021,,
+2021,Pedro Henrique Barros Domingues,"0,11",M,BRANCA,,queda de nivel,,,,Não,,,,,27/3/2021,,
+2021,Pedro Henrique de Castro,6,M,BRANCA,,QPA,,,,Trauma Dentoalveolar,,X,,,-,,
+2021,Pedro Mata Fernandez,,M,NEGRA,,acidente de trabalho,,,,Ângulo Direito,Infecção 48,,x,,16/8/2020,,
+2021,Pedro Miguel Alves Escorcia,41,M,BRANCA,-,acidente de trabalho,,,,TRAUMA DENTOALVEOLAR,,,,,4/5/2020,,
+2021,Pedro Quessada Melhado,66,M,BRANCA,,Queda de nivel,,,,OPN,,,,,23/8/2020,,
+2021,PEDRO STEFANO SILVA FERREIRA ,23,M,PARDA,,AGRESSÃO FÍSICA,,direito,,"Côndilo (D), arco zigomático (D), parede lateral e anterior de seio maxilar (D)",,,x,,21/2/2021,,
+2021,Rafael Alves de Andrade,25,M,,,acidente desportivo,,,,Não,,,,,16/7/2020,,
+2021,Rafael Alves de Andrade,25,M,PARDA,,Cárie,,Esq.,,Não,Drenagem e exodontia,,x,,27/4/2020,,
+2021,Rafael Vinicius Martins Cintra,29,M,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,,,OPN,,X,,,1/9/2020,,
+2021,Raimundo Simplicio Ferreira,46,M,BRANCA,,Queda de nivel,,,,não,,,,,15/8/2020,,
+2021,Ray Silva Rosa,16,M,PARDA,,Queda de nivel,,,,OPN,,x,,,13/2/2021,,
+2021,Reginaldo da Silva Barbosa,,M,PARDA,preso,agressão fisica,,Direita,,Blow-out D,,x,,,16/7/2020,,
+2021,REGINALDO DONISETE CUNHA,50,M,BRANCA,,Infecção pós-operatória em fratura de mandíbula,,,,,Infecção pós-operatória associada à dispositivo de fixação interna,,X,,,16/2/2021,
+2021,REGINALDO DONISETE CUNHA,50,M,BRANCA,NEGA,ACIDENTE MOTOCICLÍSTICO,,,,"Sínfise, parassínfise direita, CZMO Esq.",,,x,,28/9/2020,,
+2021,Renan William Pereira dos Santos,24,M,NEGRA,,agressão fisica,,,,OPN,,x,,,20/8/2020,,
+2021,Ricardo Borges Teixeira,47,M,BRANCA,,acidente automobilistico,,,,OPN,,x,,,26/12/2020,,
+2021,Ricardo Nunes da Silva,53,M,negra,,queda de nível,,Esquerda,,Arco Esq. E Assoalho de órbita E,,x,,,,,
+2021,Ricardo Vales Domingues,74,M,BRANCA,Quimioterapia,QPA,,,,OPN,,,,,18/6/2020,,
+2021,Rivair Evangelista,47,M,BRANCA,,QPA,,,,Não,,,,,22/12/2020,,
+2021,Rivanildo dos Santos,39,M,NEGRA,,ACIDENTE MOTOCICLÍSTICO,,,,OPN,terço sup. Direito,X,,,-,,
+2021,Roberto Antonio Capistre,37,M,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,,,NASAL,,,X,,7/11/2020,8/11/2020,
+2021,Roberto Nogueira,34,M,BRANCA,,mordedura própria,,,,Não,IOT,,,,20/12/2020,,
+2021,Roberto Santos,40,M,NEGRA,,queda de nivel,,Esq,,Czo Esq. E Assoalho orb. E,,x,,,16/12/2020,,
+2021,Robson Luiz dos Santos,18,M,PARDA,,acidente motociclistico,,,,órbita Dir e CZO Direito,,x,,,4/5/2020,,
+2021,Rodrigo Aparecido Da Silva,35,M,BRANCA,,agressão física,,,X,Corpo Direito e ângulo Esquerdo,,,X,,28/3/2021,29/3/2021,
+2021,Rodrigo Aparecido da Silva,35,M,negra,,agressão fisica,,,x,Corpo Direito e ângulo Esquerdo,,,,,,,
+2021,Rodrigo Augusto de Souza,33,M,NEGRA,,QPA,,,,NASAL,,X,,,5/11/2020,,
+2021,Rodrigo Bueno de Godoy,32,M,BRANCA,-,acidente automobilistico,,Direita,,Assoalho de órbita,,X,,,-,,
+2021,Romualdo de Souza Vasconcelos,57,M,PARDA,,Queda de nível,,,,Não,Hemiface Esquerda,,,,14/5/2020,,
+2021,RONALD CONCEIÇÃO SILVA,30,M,PARDA,,AGRESSÃO FÍSICA,,,,TRAUMA DENTOALVEOLAR,LÁBIO INFERIOR D; FRONTE D E E;,X,,SUTURA,21/3/2021,,
+2021,RONALDO BALLES CAPUTO,45,M,BRANCA,,ACIDENTE AUTOMOBILÍSTICO E ATROPELAMENTO,,,,"Le Fort I e II, OPN, osso frontal sem desvios ",,,x,,10/2/2021,,
+2021,Ronaldo BallesCaputo,45,M,,NEGA,ACIDENTE MOTOCICLÍSTICO,,,,"Le fort I, II OPN E FRONTAL",Hemiface Esquerda,X,,,10/2/2021,,
+2021,Ronei Nogueira Pina,14,M,PARDA,nega,acidente de trabalho,,Direita,,Parassínfise e Ângulo Direito,,,X,,18/10/2020,,
+2021,ROSALVO DOS SANTOS SOARES,73,M,BRANCA,-,AUMENTO DE VOLUME,,DIREITO,,-,-,-,-,CABEÇA E PESCOÇO,19/3/2021,,
+2021,Ruan Barbosa da Silva,12,M,PARDA,,Queda de bicicleta,,,,Trauma facial com FCC,,X,,,19/4/2020,,
+2021,Rubens Caetano Fidalgo,72,M,BRANCA,,Queda de nível,,,,Não,,,,,26/12/2020,,
+2021,Rubens Segobe Bazzigueto,73,M,BRANCA,,QPA,,Direito,,assoalho orb. Direito,,x,,,4/6/2020,,
+2021,Sandro Marco da Silva,36,M,BRANCA,,QPA,,,,OPN sem descolamento ,,X,,,30/5/2020,,
+2021,Sebastian Miguel Zanelli Locateli,2,M,BRANCA,,QPA,,,,Não,Laceração em língua,,X,,8/11/2020,8/11/2020,
+2021,Sebastião Lopes de Oliveira,68,M,PARDA,,Queda de nível (1m),,,,,Contusão Facial,X,,,10/1/2021,,
+2021,Sergio Alves do Nascimento,48,M,-,-,acidente automobilistico,,,X,CZM bilat.; ,,X,,,21/4/2020,,
+2021,Sergio Alves do Nascimento,48,M,PARDA,,ACIDENTE AUTOMOBILÍSTICO,,esquerdo,,"CZMO bilateral, assoalho de seio frontal, região de espinha nasal anterior e fratura palatina (E)",,X,,,21/4/2020,,
+2021,Severino Henrique Neto,79,M,BRANCA,,biopsia de gld salivar menor,,,,não,,,x,,11/9/2020,,
+2021,Silvano Pontes,42,M,BRANCA,,Queda de nível,,,x,"Corpo Direito e ângulo Esquerdo, CZO Esq.",,,x,,27/7/2020,,
+2021,Silvio Bisse,88,M,PARDA,Insuf.Renal e Hipertensão,Atropelamento,,,,OPN,,,,,20/6/2020,,
+2021,TEIZO SUMIKAWA,74,M,BRANCA,"HAS, relata cateterismo há 10 anos. Faz uso de Somalgin, Sinvastatina, Nebivolol. ",QPA,,direito,,"Frontozigomática (D), assoalho de órbita (D) e parede anterior de maxila",,,X,,5/7/2020,7/7/2020,
+2021,Teizo Sumikawa,74,M,BRANCA,"HAS, relata cateterismo há 10 anos. Faz uso de Somalgin, Sinvastatina, Nebivolol",QPA,,direito,,Frontozigomática (D). Assoalho de órbita (D) e parede anterior de maxila,,X,,,5/7/2020,,
+2021,Thaylon Henrique Xavier Ribeiro,4,M,NEGRA,,Acidente ciclistico,,,,Não,,,,,18/8/2020,,
+2021,Thiago Rezende da Silva,33,M,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,,,"Mento, opn, E Arco D",,,X,,6/9/2020,8/9/2020,9/9/2020
+2021,Thiago Vilas Boas do Nascimento,24,M,BRANCA,,ACIDENTE CICLÍSTICO,,,,OPN,,X,,,4/9/2020,,
+2021,Tiago Lima Scarpino,34,M,BRANCA,,acidente desportivo,,Esquerdo,,CZM Esq.,,X,,,20/11/2020,,
+2021,Tiego Vilas Boas do Nascimento ,22,M,PARDA,,ACIDENTE MOTOCICLÍSTICO,,esquerdo,,ângulo mandibular (E),,,X,,5/10/2020,6/10/2020,
+2021,Ulisses Tobias,32,M,NEGRA,,agressão fisica,,,,não,,,,,9/5/2020,,
+2021,Valdemar Ferreira Teles,61,M,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,Esq,,Côndilo Esquerdo e CZM Esq.,,X,,,12/9/2020,,
+2021,Valdir Pereira dos Santos,39,M,NEGRA,etilista,acidente ciclistico,,Esquerdo,,CZO Esq.,,x,,,25/10/2020,,
+2021,Valdir Soares de Souza,48,M,BRANCA,,acidente automobilistico,,,,Opn,,x,,,24/12/2020,,
+2021,Valdomiro Luiz Pereira,54,M,PARDA,,acidente ciclistico,,,X,Corpo bilateral,,,x,,10/8/2020,12/8/2020,13/8/2020
+2021,Valter Porfirio,60,M,PARDA,,acidente ciclistico,,,,OPN,,x,,,9/5/2020,,
+2021,Vander da Silva Fadil Lubus,33,M,PARDA,,acidente ciclistico,,,,trauma dentoalveolar,,x,,,24/12/2020,,
+2021,Vanderlei de Souza,51,M,BRANCA,,Agressão Física,,,X,"CZM bilat. Côndilo D, coronoide e OPN",,,X,,6/9/2020,,
+2021,Vanderson de Souza Ramos Martins,30,M,NEGRA,,agressão fisica,,Esquerda,,OPN E CZM Esq.,,x,,,23/1/2021,,
+2021,Vanderson Sant Ana,36,M,PARDA,,Infecção Odontogênica,,,,,Aumento de volume infra-orbitário do lado esquerdo em regressão com queixas de visão turva,,x,,10/6/2020,,
+2021,Vanderson Santana,36,M,PARDA,,TTO dentário (dente 26) ,,,,,"Celulite periorbitária, infecção de origem odontogênica",X,,,31/5/2020,,
+2021,Venilson do Nascimento Freire,25,M,-,-,Acidente desportivo,,Esquerdo,,Arco ZGM Esq. SM bilat.,,X,,,17/5/2020,,
+2021,Vicente Matarazzo Junior,41,M,PARDA,,Cárie,,Esquerda,,44 e 47,,,x,,22/1/2021,,
+2021,Victor Gabriel Holanda Padilha,11,M,BRANCA,,Atropelamento,,Direito,,Côndilo Direito,,x,,,17/8/2020,,
+2021,Vinicius Baldenedro Batista,20,M,BRANCA,,QPA durante fuga da polícia,,,,Nasal sem deslocamento,,X,,,15/11/2020,,
+2021,Vinicius Hebert Almeida dos Santos,23,M,PARDA,-,ACIDENTE MOTOCICLÍSTICO,,Direito,,Sínfise e ângulo Direito,,,,Neurologia,10/2/2021,,
+2021,VINICIUS HEBERT ALMEIDA DOS SANTOS,23,M,PARDA,,ACIDENTE MOTOCICLÍSTICO,,,X,mandibular de parassínfise esquerda e ângulo direito,,,X,,10/2/2021,19/2/2021,
+2021,Vitor Santos Queiroz,5,M,PARDA,,Trauma x anteparo,,,,Não,,x,,,5/6/2020,,
+2021,Vitor Vinicius Sabino da Silva,18,M,NEGRA,NEGA,agressão fisica,,,,não,,,,,24/11/2020,,
+2021,Wagner Luis Rocha,44,M,PARDA,,,,,,Não,,,,,5/6/2020,,
+2021,Wagner Vitor de Souza,45,M,PARDA,,ACIDENTE MOTOCICLÍSTICO,,direito,,arco zigomático direito,,X,,,2/2/2021,,
+2021,Waldeir Lopes,42,M,PARDA,,Atropelamento,,,,"OPN, Frontal, NOE,",,,x,,12/9/2020,13/9/2020,
+2021,Waldemir Astolphi,55,M,PARDA,,acidente ciclistico,,,,CZO Esq.,,x,,,1/6/2020,,
+2021,Walter Alex da Ressurreição,23,M,BRANCA,,acidente desportivo,,,,OPN,,,x,,3/5/2020,,
+2021,Wellington dos Santos Amorim,39,M,,etilista e drogadito,AGRESSÃO FÍSICA,,Esquerdo,,Côndilo Esquerdo e maxila,,,X,,8/5/2020,13/5/2020,14/5/2020
+2021,Wendell Felipe Garcia,20,M,BRANCA,,acidente motociclistico,,,,OPN,,x,,,6/6/2020,,
+2021,Wesley Araújo da Silva,29,M,NEGRA,,ACIDENTE MOTOCICLÍSTICO,,Esquerdo,,Parassínfise e Côndilo Esquerdo,,,X,,13/9/2020,,
+2021,Wesley Israel Santos Finotti,9,M,NEGRA,,QPA,,,,Não,,,,,14/12/2020,,
+2021,Wesley Júnior Santos Melo,39,M,PARDA,,acidente ciclistico,,,,base de mandibula,,,x,,14/8/2020,,
+2021,Wesley Ribeiro da Silva  ,25,M,PARDA,,Abscesso odontogênico,,,,,Abscesso odontogênico,X,,,5/2/2021,,
+2021,William Chagas de Lima,24,M,PARDA,,acidente automobilistico,,,,Corpo mandibular Direito,,X,,aguarda melhora,14/5/2020,,
+2021,William Costa Lima,14,M,BRANCA,,acidente ciclistico,,,,TRAUMA DENTOALVEOLAR,,,,,16/6/2020,,
+2021,William Jose Alves Barbosa,32,M,BRANCA,,ACIDENTE MOTOCICLÍSTICO,não,,,OPN,,x,,,29/7/2020,,
+2021,William Nascimento Ramos,19,M,BRANCA,,ACIDENTE MOTOCICLÍSTICO,,,,OPN,,,,,10/8/2020,,
+2021,WILLIAN CHAGAS DE LIMA,24,M,PARDA,,ACIDENTE AUTOMOBILÍSTICO    ,,,,Alveolar superior anterior e de corpo de mandíbula,,,X,,14/5/2020,25/5/2020,
+2021,Wilson Roberto Rodrigues Lessa,65,M,BRANCA,,acidente ciclistico,,Esquerdo,,"CZO, Arco, Ângulo Esq. Maxila Esq.",,,x,,22/8/2020,,
+2021,Wilson Vieira Lima,57,M,BRANCA,hipertensão,Atropelamento,,esquerda,,Arco ZGM Esq.,,,x,,,,
+2021,Yoneo Sasaki,87,M,BRANCA,"HAS, Infarto",QPA,,Direita,,CZO dir.,,x,,,25/10/2020,,
+2021,Yoshi Sumitomo,86,M,BRANCA,,QPA,,,,Não,,,,,24/7/2020,,
+2021,Yuri Miska Barbosa da Silva,7,M,BRANCA,,ACIDENTE CICLÍSTICO,,,,TRAUMA DENTOALVEOLAR,,x,,,4/4/2021,,
+2021,Zenaldo dos Santos Vieira,49,M,PARDA,Etilista crônico,AGRESSÃO FÍSICA,,,,Nasal com mínimo deslocamento,,X,,,30/11/2020,,
