@@ -1,0 +1,99 @@
+---
+title: 'Paradoxo de Simpson: uma abordagem em R'
+author: "Douglas Cardoso"
+date: "7/16/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(palmerpenguins)
+```
+
+Quando estamos fazendo uma análise de dados, quase sempre temos que tomar cuidado para não cair em algumas pegadinhas contidas nas amostras, que podem nos fazer achar e inferir algo que na verdade é outra coisa. Por conta disso, os queridos os estatísticos sempre nos oferecem algum famoso *teste estatístico* para sabermos com algum nível de certeza certo aspecto dos nossos dados, como exemplo, se os dados são normalizados ou não, temos quatro principais testes: D'Agostino-Pearson, Anderson-Darling, Shapiro-Wilk e Kolmogorov-Smirnov. Há diversas opções de testes para muitos elementos estatísticos, e isso serve essencialmente para evitarmos de cair em erro de forma fácil. Neste artigo, irei apresentar uma dessas "pegadinhas estatísticas", com uma pitada de programação em R e alguns gráficos bonitinhos. Vamos lá!
+
+Para começar, irei apresentar a primeira base de dados que utilizaremos.
+
+## `Palmerpenguins`
+
+A base de dados `palmerpenguins` é um pacote no R que contém dois *datasets* com dados reais, coletados em documentos oficiais, de três pinguins em três ilhas no Arquipélago de Palmer, na Antártica. Esses *datasets* contém dados sobre tamanho de bico, tamanho da asa e peso corporal dos pinguins, o que nos oferece boas amostras para fazermos gráficos e análises estatísticas, como um substituto da famosa base de dados `iris`.
+
+Aqui, demonstro as cinco primeiras linhas de nosso *dataset*. Temos 8 colunas e dados numéricos e textuais.
+
+```{r}
+palmerpenguins::penguins |>
+  head() |>
+  knitr::kable(align = "cccccccc")
+```
+
+Indo direto ao ponto, temos a seguinte tarefa: **fazer um gráfico com a reta de regressão linear simples entre a profundidade do bico e o tamanho do bico de todos os pinguins na amostra**. Muito difícil? Vamos ver!
+
+Utilizaremos as colunas `bill_depth_mm` e `bill_length_mm`, a primeira no eixo $x$ e a segunda no eixo $y$. Para fazermos isso no R, utilizarei do operador pipe `|>` e da bibilioteca `ggplot2`, que utilizamos para fazer gráficos. A princípio, irei apenas plotar os dados em um gráfico de dispersão (aquele de pontinhos!).
+
+```{r message=FALSE, results='hide', warning=FALSE}
+
+# Carregando as bibliotecas
+library(palmerpenguins)
+library(ggplot2)
+
+penguins %>% # temos aqui nosso dataset
+  ggplot(aes(x = bill_depth_mm, y = bill_length_mm)) + # selecionamos nossos eixos x e y 
+  geom_point() # selecionamos o tipo de gráfico que queremos, nesse caso, "de pontos", dispersão
+```
+Visualmente você, leitor, chutaria que os dados estão caminhando para qual direção? Cima? Baixo? Reto? Fica difícil né? Por isso temos métodos para entender essas relações sem ter que forçar nossa visão a tal ponto! Para isso utilizaremos da regressão linear, que nos permite traçar uma linha reta no nosso gráfico capturando essa tendência.
+
+```{r message=FALSE, results='hide', warning=FALSE}
+# Adicionamos o `geom_smooth` e colocamos como `method`, 'lm', que vem de 'linear model'
+penguins %>% 
+  ggplot(aes(x = bill_depth_mm, y = bill_length_mm)) + 
+  geom_point() +
+  geom_smooth(method = 'lm')
+```
+
+Eaí? Acertou a direção?! A interpretação que damos a esse gráfico é: a relação entre a profundidade do bico e o tamanho do bico é decrescente, isto é, quando maior `bill_depth_mm` menor é o valor de `bill_length_mm`, visto que a reta de regressão linear entre os dois tem inclinação para baixo, apesar da pouca intensidade. É basicamente isso que o gráfico mostra, mais estatisticamente falando, poderíamos dizer, pela análise visual, que essas duas variáveis possuem **correlação negativa entre si**. 
+
+Antes de partirmos para a pegadinha que nos aguarda, irei deixar nosso gráfico mais estiloso.
+
+
+```{r message=FALSE, results='hide', warning=FALSE}
+
+penguins %>%
+  ggplot(aes(x = bill_depth_mm, y = bill_length_mm)) + 
+  geom_point() +
+  geom_smooth(method = 'lm') +
+  theme_minimal() +             # escolha de um tema diferente para o gráfico
+  labs(                         # mudando o nome dos eixos
+    x = "Largura do bico (mm)",
+    y = "Comprimento do bico (mm)",
+    title = "Relação Peso-Bico",
+    subtitle = "Dados da base em `palmerpenguins`",
+    caption = "Fonte: Horst e Gorman (2020)")
+```
+
+
+Agora que sabemos a relação entre a largura e comprimento do bico entre todos os pinguins, seria interessante vermos essa mesma relação mas separado por espécie. Vamos ao R.
+
+```{r message=FALSE, results='hide', warning=FALSE}
+
+# Para discriminar por espécie, basta acrescentar o argumento `color = species` 
+penguins %>%
+  ggplot(aes(x = bill_depth_mm, y = bill_length_mm, color = species)) + 
+  geom_point() +
+  theme_minimal() + 
+  labs(
+    x = "Largura do bico (mm)",
+    y = "Comprimento do bico (mm)",
+    title = "Relação Peso-Bico, controlada pela Espécie",
+    subtitle = "Dados da base em `palmerpenguins`",
+    caption = "Fonte: Horst e Gorman (2020)") + 
+  geom_smooth(method = 'lm')
+
+```
+
+Opa? O que aconteceu com a inclinação da reta? Inverteu! Recaptulando: quando plotamos a reta de regressão linear nos dados sem discriminação, ela se inclina para baixo, mas quando discriminamos por espécie, ela se inclina para cima, o exato contrário! Perceba que essa é uma pegadinha sagaz, com o primeiro gráfico poderíamos facilmente concluir que o tamanho e a profundida do bico possuem correlação negativa, e não teríamos porque desconfiar dessa afirmação, mas quando adicionamos um "detalhe", a conclusão é outra. Esse é um exemplo do **Paradoxo de Simpson**:
+
+> Se refere à existência de dados com associações estatística que se mantém para a população total, porém se invertem para toda subpopulação 
+
+O paradoxo foi descrito pelo matemático e estatístico Edward Simpson em um *paper* em 1951, apesar de efeito similares serem descritos anteriormente por outros estatísticos. Há diversos exemplos envolvendo este paradoxo, e  suas aplicações envolvem desde abstrações simples, como a que fizemos com o *dataset* dos pinguins à amostras sobre saúde.  
