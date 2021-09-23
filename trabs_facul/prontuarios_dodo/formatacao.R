@@ -1,4 +1,5 @@
 # LENDO OS DADOS -----------------------------------------
+library(magrittr)
 dados <- readr::read_csv('planilhas.csv',
                          col_types = list(IDADE = readr::col_integer()))
 
