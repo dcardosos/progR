@@ -1,0 +1,138 @@
+---
+title: "Relatório"
+author: "Douglas Cardoso"
+date: "8/7/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(magrittr)
+library(ggplot2)
+```
+
+
+# Leitura dos dados
+Antes, eu transformei os dados que você me deu em `csv` porque a manipulação fica mais fácil. Eu li desconsiderando as duas primeiras linhas (`skip = 2`); deu um bug ai eu desconsiderei a primeira coluna (`col_select = -1`); coloquei o parâmetro que especifica qual o separador decimal dos dados, nesse caso a vírgula (`locale=...`); pedi para desconsiderar os nomes das colunas que veio junto com os dados, porque elas dificultam na manipulação dos dados depois, por possuírem espaços e acentos (`col_names = FALSE`); e depois especifiquei o tipo dos dados de cada coluna, se era `character` ou `double` (`double` é "numero com vírgula", que não é inteiro). Por fim, eu atribuo essas informações na variável `dados` (`dados <-`).
+
+```{r}
+library(magrittr)
+library(ggplot2)
+
+(dados <- readr::read_csv('data/indicadores.csv', skip = 2, col_select = -1,
+                         locale = readr::locale(decimal_mark = ","),
+                         col_names = FALSE,
+                         col_types = list(
+                           X2 = readr::col_character(),
+                           X3 = readr::col_character(),
+                           X4 = readr::col_character(),
+                           X5 = readr::col_double(),
+                           X6 = readr::col_double(),
+                           X7 = readr::col_double())))
+```
+
+## Renomeando as colunas
+Aqui renomei as colunas para os nomes de forma que seja fácil manipular depois. Atribui isso a variável `da` por costume, não tem nenhum motivo especial. (`-> da`).
+
+```{r}
+(dados %>% 
+  dplyr::rename(
+    'setor_economico'= X2,
+    'empresa' = X3,
+    'descricao' = X4,
+    'indice_pre_adocao' = X5,
+    'indice_pos_adocao' = X6,
+    'variacao' = X7) ->
+  da)
+```
+
+# Estatísticas amostrais
+Nesse tópico, eu imitei o artigo que você me mandou, fiz média, mediana e desvio padrão amostral, não sei se é preciso, mas fiz.
+
+## Média amostral
+
+```{r}
+da %>% 
+  dplyr::group_by(descricao) %>%  
+  dplyr::rename('indicador' = descricao) %>% 
+  dplyr::summarise(
+    media_pre = mean(indice_pre_adocao),
+    media_pos = mean(indice_pos_adocao),
+    variacao = media_pre - media_pos)
+```
+
+## Mediana amostral
+
+aaaaa
+aaaaa
+
+
+aaaaaaa
+
+
+aaaa
+```{r}
+da %>% 
+  dplyr::group_by(descricao) %>%  
+  dplyr::rename('indicador' = descricao) %>% 
+  dplyr::summarise(
+    mediana_pre = stats::median(indice_pre_adocao),
+    mediana_pos = stats::median(indice_pos_adocao),
+    variacao = mediana_pre - mediana_pos)
+```
+
+## Desvio padrão amostral
+
+```{r}
+da %>% 
+  dplyr::group_by(descricao) %>%  
+  dplyr::rename('indicador' = descricao) %>% 
+  dplyr::summarise(
+    std_pre = sd(indice_pre_adocao),
+    std_pos = sd(indice_pos_adocao),
+    variacao = std_pre - std_pos)
+```
+
+# Teste de Wilcoxon
+
+O teste basicamente verifica se houve variação significativa nas medidas de centralidade entre dois "periodo", nesse caso, é se houve variação significativa na mediana dos índices pré e pós adoção.
+
+Aqui o código é complicado, mas não precisava, é um pouco da tal "programação funcional" do R. Vou explicar da melhor forma que consigo e por tópicos pra facilitar a didática. Cada tópico é uma linha do código.
+
+- Eu agrupei os dados por índice (liquidez, tals, tals)
+- Depois selecionei apenas as colunas que importa: a dos valores dos indices pré e pós adoção
+- Eu aninhei as duas colunas pré e pós em uma só, apenas para facilitar uma manipulação depois
+- Daqui pra baixo é o cálculo do `wilcox.test`, ele faz esse teste para cada índice, com o argumento `paired = TRUE` para especificar que que é um *paired Wilcoxon test*. 
+- Aí depois eu só coloco na tela os resultados do teste, todos teram um valor  < p_value, o que significa que não teve uma variação significativa.
+
+```{r}
+da %>% 
+  dplyr::group_by(descricao) %>%
+  dplyr::select(indice_pre_adocao, indice_pos_adocao) %>% 
+  dplyr::group_nest() %>% 
+  dplyr::mutate(
+    wilcox = purrr::map(.x = data,
+                         .f = 
+                           ~ stats::wilcox.test(.x$indice_pre_adocao,
+                                                .x$indice_pos_adocao,
+                                                paired = TRUE))) %$%
+  wilcox %>% 
+  purrr::set_names(unique(da$descricao))
+```
+
+# Gráfico extra
+Aqui fiz uma tarefinha extra de forma gráfica que faz um boxplot por índice dos valores pré e pós, é uma forma visual de analisar se teve mudança significativa, infezlimente tem alguns valores outliers que literalmente *caga* todo o texto, mas ok, se você quiser e necessitar usar disso, eu posso ajudar a melhorá-lo.
+
+```{r}
+da %>% 
+  dplyr::select(descricao, indice_pre_adocao, indice_pos_adocao) %>% 
+  tidyr::pivot_longer(c(indice_pre_adocao, indice_pos_adocao), 
+                      names_to = "periodo", 
+                      values_to = "indice") %>% 
+  ggplot(aes(x = periodo, y = indice, color = descricao)) +
+  geom_boxplot() +
+  theme_minimal() +
+  labs(
+    x = 'Período',
+    y = 'Valor')
+```

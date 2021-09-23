@@ -3,7 +3,7 @@ library(corrplot)
 library(heatmaply)
 # https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html
 
-dados <- read_csv('dados.csv')
+dados <- readr::read_csv('dados.csv')
 
 dados %>% 
   select(-Período) %>%
