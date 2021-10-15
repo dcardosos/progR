@@ -1,0 +1,1012 @@
+﻿"DATA","NOME","IDADE","GÊNERO","RAÇA","HISTÓRICO","ETIOLOGIA","DISP. SEGURANÇA","UNI","BI","FRATURAS","LESÕES","TTO_NÃO_CIRURGICO","CIRÚRGICO","RESOLUÇÃO","DATA_TRAUMA","DATA_CIRURGIA","DATA_ALTA"
+2019,"Adelaide Pereira Mariano",63,"F","parda",NA,"queda de nível","não",NA,"X","fratura de opn sem deslocamento","fcc em dorso nasal","X",NA,"tratamento conservador + prescrição","2019-05-26","2019-05-26","2019-05-26"
+2019,"Adriana Cristina Alves da Cruz",41,"F","branca",NA,"acidente motociclístico","não",NA,"X","fcc em fundo de fornix em região mandibular, fcc em glabela",NA,NA,1,"tamponamento anterior + sut. em fundo de vestibulo + internação + exames pré-op","2019-08-23",NA,"2019-08-23"
+2019,"Adriana M. de Carvalho",39,"F","branca",NA,"Acidente doméstico","não",NA,"X","fratura opn",NA,"X",NA,"tratamento conservador + prescrição","2019-08-07",NA,"2019-08-12"
+2019,"Alcidia Garcia de Morais",87,"F","branca",NA,"queda da própria altura","não","Esquerdo",NA,"fratura de opn","fcc em dorso nasal","X",NA,"tratamento conservador + prescrição","2019-09-11",NA,"2019-09-11"
+2019,"Aldenora Gomes dos Santos",79,"F","parda","has, 4 avcs (propanolol, losartana, hidroclorotiazida, aas, sinvastatina, cilostazol), incontinência urinária, osteoporose (alendronato, adera)","fístula extra-oral há 30 dias","não",NA,"X","osteonecrose?? displasia óssea??",NA,NA,1,"internação + exames laboratoriais + aguardando equipe médica",NA,NA,NA
+2019,"Alice Barreto",65,"F","branca","edentula, maxila atrófica","maxila atrófica","não",NA,"X",NA,NA,NA,1,"enxerto de calota craniana para reconstrução de maxila",NA,"2019-08-09",NA
+2019,"Alice Sonego",62,"F","branca","imunossupressão, leucopenia, plaquetopenia","dor em dente 48","não","Direito",NA,NA,"úlcera traumática por 3ºms, extrusão do 18, limitação da abertura bucal",NA,1,"aguardando equipe médica",NA,NA,NA
+2019,"Alice Sonego",73,"F","branca",NA,"queda da própria altura","não",NA,"X","fratura de opn sem deslocamento",NA,"X",NA,"tratamento conservador + prescrição",NA,NA,NA
+2019,"Amanda Pereira Batista",27,"F","branca",NA,"celulite pós exo 28/38","não","Esquerdo",NA,NA,NA,NA,1,"internação + prescrição + aguardando equipe médica","2019-07-14",NA,NA
+2019,"Ana Beatriz dos Santos Ferreira",5,"F","negra","síndrome de west","queda de nível","sim",NA,"X","tda no 51 e subluxação no 61",NA,"X",NA,"prescrição + encaminhamento pediatria","2019-05-28",NA,"2019-05-28"
+2019,"Ana Laura da Silva",53,"F","negra",NA,"acidente ciclístico","sim",NA,"X","fratura em região de sutura fronto-zigomática (e) e em parete lateral de órbita (e)",NA,"X",NA,"orientações sobre tratamento conservador + prescrições + encaminhamento á clínica de tda","2019-09-24",NA,"2019-09-24"
+2019,"Ana Luiza Souza Landim",2,"F",NA,NA,"queda da própria altura","sim","Esquerdo",NA,"fratura de bloco dentoalveolar mandibular","escoriações","X",NA,"acompanhamento á odontopediatria + prescrição","2019-11-20",NA,"2019-11-20"
+2019,"Ana Paula Riciardi Rodrigues",40,"F","branca",NA,"queda da própria altura","não",NA,"X","fratura de opn com leve deslocamento",NA,"X",NA,"tratamento conservador + prescrição",NA,NA,NA
+2019,"Angela Candido de Souza",42,"F","branca","nega","Agressão física","não",NA,"X","fratura nasal",NA,NA,1,"redução + tna sob al + prescrição","2019-11-16","2019-11-18","2019-11-18"
+2019,"Angela Candido de Souza",42,"F","branca",NA,"Agressão física","não",NA,"X","fratura nasal",NA,NA,1,"redução + tna sob al + prescrição","2019-11-16","2019-11-18","2019-11-18"
+2019,"Angela da Silva",59,"F","branca",NA,"acidente automobilístico","não","Direito",NA,"deslocamento dentoalveolar dos 11 e 12",NA,"X",NA,"contenção + prescrição","2019-11-10","2019-11-10",NA
+2019,"Ângela Maria Ramos Ferreira",63,"F","branca","aterosclerose, realizou angiolplastia, faz uso de selozoc, somalgin, cresto","queda da própria altura após perda de consciência","não","Direito",NA,"fratura czo",NA,NA,1,"internação + cirurgia + prescrição",NA,NA,NA
+2019,"Angela Maria Risso dos Santos",52,"F","branca","fibromialgia, hipotireoidismo, uso de bromazepam, levotiroxina","queda de nível","não","Esquerdo",NA,"fratura de opn com leve deslocamento","fcc em supercílio","X",NA,"tratamento conservador + prescrição","2019-12-29",NA,"2020-01-13"
+2019,"Angelita Aparecida de Oliveira",53,"F","branca","nega","queda de nível","não",NA,"X","fratura de corpo mandibular e czo (e)","limitação de abertura bucal",NA,1,"internação + refi de fratura mandibular + prescrição","2019-12-21","2019-12-26","2020-02-01"
+2019,"Anna Josephina Salesse Ervolino",66,"F","branca",NA,"queda da própria altura pós perda de consciência","sim",NA,"X","fratura em mento","fcc em frontal, dorso frontal, em filtro labial e mento","X",NA,"orientações para casa","2019-12-04",NA,"2019-12-16"
+2019,"Antonela Finati Fiuza",1,"F","branca",NA,"queda da própria altura","sim",NA,"X",NA,"fcc superficial em dorso de língua","X",NA,"sutura + retorno","2019-06-18",NA,NA
+2019,"Augusta Bernardi da Silva",74,"F","branca",NA,"queda da própria altura","sim","Esquerdo",NA,"contusão facial",NA,"X",NA,"prescrição para casa","2019-05-27",NA,"2019-05-27"
+2019,"Aurora Salgado Sabotto",83,"F","branca","dm e hipertensão","queda da própria altura","sim","Direito",NA,"fratura de arco zigomático","fcc em região supra orbital","X",NA,"orientações para casa",NA,NA,NA
+2019,"Beatriz Alburquerque Viveiros",3,"F","branca",NA,"queda da própria altura","não",NA,"X",NA,"fcc em lábio sup.","X",NA,"sutura sob al + orientação",NA,NA,NA
+2019,"Beatriz Cardoso Pereira",20,"F","parda",NA,"colisão contra anteparo","não",NA,"X","fratura de opn sem deslocamento",NA,"X",NA,"tratamento conservador + prescrição",NA,NA,NA
+2019,"Beatriz de Freitas",78,"F","branca",NA,"displasia fibrosa","não","Direito",NA,NA,NA,NA,1,"regularização de rebordo + prescrição",NA,"2019-11-07",NA
+2019,"Beatriz Gabriela da Cunha Mota",2,"F","branca",NA,"mordedura canina","não",NA,"X",NA,"flc em face e vestíbulo mandibular, fcc de lábio inferior, região frontal e mento",NA,1,"sutura sob ag + prescrições","2019-06-19",NA,"2019-06-19"
+2019,"Beatriz Guilhem dos Santos",20,"F","branca",NA,"monoplegia em membros inferiores e suspeita de actineomicose/mielorradiculopatia","não","Direito",NA,NA,NA,NA,1,"necessidade de exo dos 18 e 48 + internação + exames laboratoriais + aguardando equipe médica","2019-08-28",NA,NA
+2019,"Bianca Cristina Ferreira",21,"F","branca",NA,"acidente motociclístico","sim",NA,"X","limitação de abertura bucal",NA,"X",NA,"orientações para casa","2019-08-24",NA,"2019-08-24"
+2019,"Carisa Pelozato",36,"F","branca",NA,"acidente automobilístico","sim",NA,"X",NA,"trauma facial","X",NA,"orientações para casa",NA,NA,NA
+2019,"Carolina Roves Patim",21,"F","branca",NA,"acidente automobilístico","não",NA,"X","fratura de opn sem deslocamento","fda em frontal, fcc em glabela, em dorso nasal e em lábio inf.","X",NA,"tratamento conservador + prescrição","2019-11-03",NA,"2019-11-11"
+2019,"Caroline Sartori David",24,"F","branca",NA,"acidente motociclístico","sim",NA,"X","limitação de abertura bucal",NA,"X",NA,"orientações para casa","2019-08-25",NA,"2019-08-25"
+2019,"Cely Gomes Marinho",92,"F","branca","câncer de mama, alzheimer e hematurina. apresentando trismo e fraturas coronárias","fraturas coronárias","não",NA,"X","fraturas coronárias dos 11, 21, 31 e 41",NA,NA,1,"exo dos 11, 21, 31 e 41","2019-09-19","2019-09-26","2019-09-26"
+2019,"Clara Cristina",18,"F","negra",NA,"queda da própria altura","sim","Esquerdo",NA,NA,"trauma facial","X",NA,"orientações para casa",NA,NA,NA
+2019,"Claudineia Xavier",51,"F","parda",NA,"nevralgia após instalação de implante em mandíbula","não",NA,"X",NA,"nevralgia do alveolar inferior",NA,1,"seccionamento do nervo alveolar inferior (lateralizado em procedimento anterior) + prescrição","2019-10-29","2019-10-30",NA
+2019,"Dagmar Fortunato de Souza",50,"F","negra",NA,"Agressão física","não",NA,"X","fcc + contusão",NA,"X",NA,"sutura do fcc + prescrição","2019-10-27",NA,"2019-10-27"
+2019,"Damara de Araujo Arantes",27,"F","branca",NA,"acidente ciclístico","não","Direito",NA,"fratura czm e de região fronto-zigomática","fda em terço médio da face",NA,1,"osteossíntese de fraturas + prescrição","2019-10-29","2019-11-01","2019-11-04"
+2019,"Debora Gentil da Silva",15,"F","branca",NA,"queda de nível","sim",NA,"X","fratura nasal",NA,"X",NA,"prescrição para casa","2019-01-29",NA,"2019-02-03"
+2019,"Denise Oliveira Pires",39,"F","branca",NA,"queda da própria altura após perda de consciência e epistaxe","não","Esquerdo",NA,"fratura de opn com deslocamento",NA,NA,1,"redução ambulatorial + prescrição","2019-05-21",NA,"2019-05-21"
+2019,"Edna Alves de Souza Ferreira",24,"F","parda","nega","queda da própria altura","não",NA,"X","fratura de opn com deslocamento",NA,NA,1,"redução sob ag","2019-07-31","2019-08-02",NA
+2019,"Edna aparecida dona cavalari",48,"F","branca","colesterol alto, hipertireoidismo","Acidente com animal","não","Esquerdo",NA,"fratura de parede anterior e posterior de seio frontal","fcc em região frontal",NA,1,"refi + prescrição","2019-05-01","2019-05-04","2019-05-05"
+2019,"Edna Squizatti",54,"F","parda",NA,"nevralgia após instalação de placa de osteossíntese há 1 ano e meio","não","Esquerdo",NA,NA,"nevralgia",NA,1,"remoção de placas de osteossíntese em czm lado esquerdo + prescrição","2019-10-30","2019-11-01","2019-11-11"
+2019,"Emanuela Almeida Rocha Souza",3,"F","branca",NA,"Acidente doméstico","não",NA,"X",NA,"fcc em palato mole + possível corpo estranho",NA,1,"cirurgia sob ag",NA,NA,NA
+2019,"Etsuco Tesima",78,"F","amarela","edentula","queda da própria altura","não","Esquerdo",NA,"fratura de côndilo",NA,"X",NA,"tratamento conservador + prescrição","2019-08-23",NA,"2019-08-23"
+2019,"Eunice Combonatti",88,"F","branca","hipotireoidismo","queda da própria altura","não","Direito",NA,"fratura em assoalho de órbita blowout + parede anterior de seio maxilar",NA,"X",NA,"tratamento conservador + prescrição","2019-09-12",NA,"2019-09-12"
+2019,"Eunice Rosa Mantovani",63,"F","branca",NA,"acidente automobilístico","não",NA,"X","fratura de corpo mandibular e, de côndilos mandibulares e de fossa temporal e",NA,NA,1,"aguardando equipe médica","2019-05-25",NA,NA
+2019,"Fabiano Junior dos Santos",31,"F","negra",NA,"acidente motociclístico","não","Direito",NA,"mordida aberta anterior",NA,"X",NA,"tratamento conservador + prescrição",NA,NA,"2019-04-04"
+2019,"Fraila de Carvalho Rezende",15,"F","parda",NA,"acidente ciclístico","sim","Esquerdo",NA,NA,"contusão facial","X",NA,"prescrição para casa","2019-05-24",NA,"2019-05-24"
+2019,"Gabriela Conde Viana",17,"F","branca",NA,"Agressão física","não",NA,"X","fratura de opn com deslocamento","fcc em dorso nasal, rinoescoliose (e)",NA,1,"sutura em dorso nasal + redução de opn ambulatorial + prescrições","2019-09-04",NA,"2019-09-09"
+2019,"Genir Macedo Correa",59,"F","branca",NA,"queda da própria altura","sim","Esquerdo",NA,NA,"possível tumor em região posterior mandibular","X",NA,"prescrição para casa","2019-09-27",NA,NA
+2019,"Genir Maria de Jesus Vilela",88,"F","parda",NA,"queda da própria altura","não",NA,"X","fratura de opn com leve deslocamento","fcc superficial em dorso nasal, rinoescoliose","X",NA,"tratamento conservador + prescrição","2019-09-05",NA,"2019-09-09"
+2019,"Giovana Aparecida Matias de Sá",15,"F","branca",NA,"infecção de origem odontogênica","não","Direito",NA,NA,NA,"X",NA,"remoção do dreno + irrigação com sfo ao longo da semana + prescrições","2019-09-19","2019-09-19","2019-09-30"
+2019,"Glauciane A. Gonçalves Prado",34,"F","branca","extrações dentárias que levaram a edema","edema em região submandibular, submentoniana, sublingual e cervical","não",NA,"X",NA,"angina de ludwig, limitação de abertura bucal",NA,1,"internação + prescrição + aguardando equipe médica","2019-05-26","2019-05-27",NA
+2019,"Hayssa Oliveira",16,"F","parda",NA,"acidente ciclístico","sim","Direito",NA,"fratura intra capsular de côndilo","fcc em mento","X",NA,"orientações para casa",NA,NA,NA
+2019,"Helena Faleiros",80,"F","parda","has, hérnia de disco, uso de losartana, atenolol, hidroclorotiazida","queda da própria altura","não","Direito",NA,"fratura czo, parede lateral de seio maxilar",NA,"X",NA,"tratamento conservador + prescrição","2019-09-12",NA,"2019-09-12"
+2019,"Hiroko Kamagae",75,"F","amarela","has e diabetes (losartana e metformina)","queda da própria altura","não","Direito",NA,NA,"contusão facial","X",NA,"tratamento conservador + prescrição",NA,NA,NA
+2019,"Iracema Fernandes da Rocha",57,"F",NA,NA,"queda da própria altura","sim",NA,"X",NA,NA,"X",NA,"orientações para casa","2019-05-27",NA,"2019-05-27"
+2019,"Isaura Crepaldi",72,"F","branca","desdentada total com uso de pt","queda da própria altura","sim",NA,"X",NA,"fda em região de rebordo supraorbitário","X",NA,"prescrição para casa","2019-10-28",NA,"2019-10-28"
+2019,"Ivani Alves Pinheiro",50,"F","negra","hipotireoidismo (euthyrox), anemia","atropelamento","não",NA,"X","fratura czm e arco zigomático bi, fratura de coronóide d, fratura de assoalho de órbita d",NA,NA,1,"internação + exames laboratoriais + aguardando equipe médica","2019-11-17","2019-12-03",NA
+2019,"Ivani Alves Pinheiro",50,"F","parda","hipotireoidismo, anemia","atropelamento","não",NA,"X","fratura de arco zigomático (d) e (e), fratura coronóide (d), czm (d) e (e), assoalho orbital (d) e (e)","fcc em região frontal/temporal",NA,1,"internação + manutenção de prescrição + aguardando equipe médica","2019-11-12",NA,NA
+2019,"Ivanir Albino Fernander",65,"F","branca",NA,"queda da própria altura","não",NA,"X","fratura opn",NA,"Conservador",NA,"prescrição para casa","2019-08-09",NA,"2019-08-12"
+2019,"Ivoneide Roldão",54,"F","branca","trombose em mmi há 11 anos (has)","aumento volumétrico em face há 5 dias","não",NA,"X",NA,NA,NA,1,"exo dos 12, 13 e 26 sob ag + biópsia","2019-10-31",NA,"2019-11-10"
+2019,"Izaura Ribeiro de Moraes",80,"F","branca",NA,"acidente automobilístico","não","Esquerdo",NA,"fratura de maxilar sem deslocamento",NA,"X",NA,"tratamento conservador + orientações","2019-09-23",NA,"2019-09-23"
+2019,"Jaqueline Silva dos Santos",22,"F","negra",NA,"Agressão física","sim","Direito",NA,NA,"contusão facial","X",NA,"prescrição para casa","2019-11-02",NA,"2019-11-02"
+2019,"Jessica Ferreira de Oliveira",28,"F","branca",NA,"acidente motociclístico","não","Direito",NA,"fratura de parede anterior e posterior de seio maxilar e de parede lateral e posterior de órbita","fcc em região frontal, limitação da abertura bucal","X",NA,"tratamento conservador + prescrição","2019-09-08",NA,"2019-09-16"
+2019,"Jéssica Renata da S. Ferreira Lima",28,"F","branca",NA,"acidente motociclístico","não","Direito",NA,"fratura de parede lateral de seio maxilar e osso etmoidal","fda em lábio inf., contusão facial","X",NA,"tratamento conservador + prescrição","2019-06-21",NA,"2019-06-21"
+2019,"Joice Aparecida Joaquim",36,"F","branca","hist. de fratura prévia de opn","acidente automobilístico","não",NA,"X","rinoescoliose e",NA,"X",NA,"tratamento conservador + prescrição","2019-11-04",NA,"2019-11-04"
+2019,"Joseana de Lourdes dos Santos",38,"F","negra",NA,"dor em dente 38 há 5 dias, evoluindo com aumento de volume, faz uso de clavulim","não",NA,"X",NA,"angina de ludwig",NA,1,"internação + remoção do dreno + limpeza com sf 0,9%",NA,NA,NA
+2019,"Josiane Correia Dias",35,"F","branca",NA,"acidente automobilístico","sim","Direito",NA,"fratura de opn",NA,"X",NA,"tratamento conservador + prescrição","2019-08-20","2019-08-20","2019-08-20"
+2019,"Josiane Cristina de Jesus Barbosa",9,"F","negra",NA,"atropelamento","não","Direito",NA,"fratura czo e tce",NA,NA,1,"aguardando equipe médica","2019-06-01",NA,NA
+2019,"Josiane de Lourdes dos Santos",38,"F","negra",NA,"angina de ludwig envolvendo espaços cervicais","sim",NA,"X",NA,NA,"X",NA,"prescrição para casa","2019-07-20","2019-07-20",NA
+2019,"Josiane de Lourdes dos Santos",38,"F","branca","internada há dias, submetida a drenaagem em sublingual, submandibular e submentoniano","infecção odontogênica evoluindo pra angina de ludwig","sim",NA,"X",NA,"abcesso de origem odontogênica","X",NA,"prescrição + exames laboratoriais",NA,NA,NA
+2019,"Josiane G. Pereira da Silva",45,"F","branca",NA,"acidente automobilístico","não",NA,NA,"fratura do complexo zigomático orbitário (czo) e",NA,NA,1,"aguardando equipe médica","2019-08-10",NA,NA
+2019,"Juliana Tavares da Silva",41,"F",NA,NA,"queda da própria altura","sim","Esquerdo",NA,"contusão facial",NA,"X",NA,"prescrição para casa","2019-05-27",NA,"2019-05-27"
+2019,"Karolayne Aparecida da Silva Soares",9,"F","negra",NA,"queda da própria altura","sim","Direito",NA,"tda",NA,"X",NA,"prescrição + encaminhamento cd","2019-05-29",NA,"2019-05-29"
+2019,"Keila Mitiko Ataide",32,"F","branca",NA,"acidente motociclístico","não","Esquerdo",NA,"fratura de arco zigomático","fda em mento, limitação da abertura bucal",NA,1,"internação + exames laboratoriais + aguardando equipe médica","2019-12-08",NA,NA
+2019,"Laiane do Carmos",25,"F","parda","nega","acidente automobilístico","não",NA,"X","fratura le fort i",NA,NA,1,"refi maxila + redução opn + tna sob ag + prescrição","2019-12-18","2019-12-23","2019-12-24"
+2019,"Liliane Cristina",34,"F","branca",NA,"acidente ciclístico","não",NA,"X","luxação de atm","limitação da abertura bucal",NA,1,"redução + prescrição",NA,NA,NA
+2019,"Luana Gabriela da Silva",20,"F","branca",NA,"luxação de atm (5º ep. em 3 meses)","não",NA,"X","luxação de atm",NA,NA,1,"redução ambulatorial e curativo compressivo + prescrições","2019-09-02",NA,"2019-09-09"
+2019,"Lucilene Cardoso de Oliveira",0,"F","branca",NA,"presença de dentes ao nascimento da criança","sim",NA,"X",NA,"dentes neonatos","X",NA,"orientações para casa","2019-05-21",NA,"2019-05-21"
+2019,"Mafalda Magri de Oliveira",94,"F","branca","has, hipotireoidismo, diabética, avc (06 meses), problema renão não especificado, uso de aspirina, puran, caverdilol, azulcon","encaminhada para exo hospitalar","não",NA,"X",NA,"múltiplos elementos dentais com ampla destruição e lesão periapical, foco de infecção intraoral",NA,1,"exo em ambiente hispitalar sob ag","2019-07-22","2019-07-27","2019-07-27"
+2019,"Maiara Soares Porto",41,"F","parda",NA,"acidente motociclístico","não",NA,"X","fratura de mandíbula, avulsão do 11 e 21, limitação da abertura bucal",NA,NA,1,"internação + prescrição + aguardando equipe médica","2019-06-01",NA,NA
+2019,"Maisa Ribeiro Vieira",14,"F","branca","nega","Agressão física","não","Direito",NA,"fratura de opn com leve deslocamento",NA,"X",NA,"tratamento conservador + prescrição",NA,NA,NA
+2019,"Manoela Mantovanelli",21,"F","branca",NA,"retratamento endodôntico","não","Esquerdo",NA,"destruição coronária do 26 e abertura do 25",NA,NA,1,"penrose + exo do 26 + prescrição","2019-11-02","2019-11-05","2019-11-05"
+2019,"Manuela Rodrigues Viana",3,"F",NA,NA,"queda de nível","sim",NA,"X",NA,"tda","X",NA,"prescrição + encaminhamento pediatria","2019-11-01",NA,"2019-11-01"
+2019,"Maracy Garcia Cottas",45,"F","branca",NA,"acidente ciclístico","sim","Esquerdo",NA,"fratura de cme, de arco zigomático",NA,"X",NA,"orientações para casa",NA,NA,NA
+2019,"Marcela Perez",19,"F","branca",NA,"má formação congênita","não","Direito",NA,NA,"ausência de parte do osso zigomático e ramo de maníbula",NA,1,"instalação de prótese de atm","2019-10-30","2019-10-31",NA
+2019,"Marcionilia Barbosa",94,"F","branca",NA,"hemorragia pós exo","não","Esquerdo",NA,NA,NA,"X",NA,"sutura compressiva + compressão com gaze + prescrição","2019-10-27",NA,"2019-10-27"
+2019,"Marenis dos Santos Silva",83,"F","negra",NA,"dificuldade em fechar a boca","não",NA,"X","luxação de atm",NA,NA,1,"redução + bandagem + prescrição","2019-06-01",NA,"2019-06-01"
+2019,"Maria Aparecida Zorzeto",67,"F","branca","bronquioectasia, deficiência de imunoglobulina humanada, timoma há 15 anos, depressão. faz uso de acetilcisteína, taxas 500, ig, azitromicina, reconter 20, bromazepam","queda da própria altura","sim","Direito",NA,"fcc + contusão",NA,"X",NA,"prescrição para casa","2019-07-11",NA,"2019-07-11"
+2019,"Maria Helena Rodrigueiro Corijo",72,"F","branca",NA,"queda da própria altura","não","Esquerdo",NA,"fratura de parede lateral e anterior de seio maxilar e arco zigomático sem deslocamento","fcc em lábio sup. e mento","X",NA,"tratamento conservador + prescrição","2019-12-29",NA,"2020-01-13"
+2019,"Maria Inez da Silva Souza",67,"F","branca",NA,"queda da própria altura","não",NA,"X",NA,NA,"X",NA,"tratamento conservador + prescrição","2019-08-23",NA,"2019-08-23"
+2019,"Maria Jordão Marini",84,"F","branca",NA,"queda da própria altura","sim","Esquerdo",NA,NA,"contusão facial","X",NA,"prescrição para casa","2019-09-23",NA,"2019-09-23"
+2019,"Maria Soria de Abreu",92,"F","branca",NA,"queda da própria altura","não",NA,"X","fratura de opn com deslocamento","fda em região frontal, contusão facial","X",NA,"tratamento conservador + prescrição","2019-12-08",NA,"2019-12-08"
+2019,"Mariah Batista de Oliveira",1,"F","branca",NA,"queda de nível","não",NA,"X",NA,"fcc em lábio inf.",NA,1,"sutura em lábio inf. sob ag",NA,"2019-08-06","2019-08-06"
+2019,"Marlene Rosa da Silva",54,"F",NA,NA,"atresia maxilar","não",NA,"X","perda de projeção maxilar",NA,NA,1,"enxerto",NA,"2019-11-05",NA
+2019,"Mary de Fátima Oliveira",62,"F","branca",NA,"queda de nível","sim","Esquerdo",NA,NA,"contusão facial","X",NA,"prescrição para casa","2019-06-20",NA,"2019-06-20"
+2019,"Meire Fátima da Silva Nascimento",48,"F","branca",NA,"fratura de agulha gengival","não","Esquerdo",NA,"fratura de agulha gengival",NA,NA,1,"internação + remoção da agulha","2019-06-23","2019-05-21",NA
+2019,"Melize Marina Pazian",32,"F","branca",NA,"acidente motociclístico","não","Direito",NA,"fratura de arco zigomático e de parede anterior e posterior do seio maxilar",NA,"X",NA,"tratamento conservador + prescrição","2019-10-26",NA,"2019-10-26"
+2019,"Milena Ferreira Gechele",15,"F","branca",NA,"acidente automobilístico","não",NA,"X","múltiplas fraturas em face (le fort i, noe, traço transverso de fratura em maxila, fratura cominutiva em região anterior de maxila, fcc em fundo de vestíbulo, fratura de parede alveolar, mobilidade e crepitação óssea)",NA,NA,1,"aguardando equipe médica","2019-08-10",NA,NA
+2019,"Milva da Penha Mestriner",55,"F","branca","epilética (tegretol)","colisão contra anteparo","não",NA,"X",NA,"contusão facial","X",NA,"tratamento conservador + prescrição",NA,NA,NA
+2019,"Mirtes Vessi Franca",75,"F","branca","leucemia mielóide aguda, plaquetopenia","mucosite pós quimioterapia","não","Esquerdo",NA,NA,NA,"X",NA,"internação + laserterapia","2019-08-20",NA,NA
+2019,"Nair Bartolo",73,"F","branca","equizofrênia, estrábica, diminuição visual e respiração predominantemente bucal. faz uso de glifage, sertralina e propanolol","queda da própria altura","sim",NA,"X","fratura de opn, traço de descontinuidade em zigoma d",NA,"X",NA,"prescrição para casa","2019-07-11",NA,"2019-07-11"
+2019,"Natalia Mamoni Corte",31,"F","branca",NA,"trauma de cabeça em região de nariz","não","Direito",NA,"fratura de opn","desvio de septo nasal",NA,1,"redução + prescrição","2019-05-23","2019-05-24","2019-05-24"
+2019,"Nazaré Nunes da Silva",29,"F","branca",NA,"acidente ciclístico","sim",NA,"X","contusão facial",NA,"X",NA,"prescrição para casa","2019-08-08",NA,"2019-08-08"
+2019,"Neide",50,"F","branca","labirintite","queda da própria altura","sim",NA,"X","fratura de opn com leve deslocamento",NA,"X",NA,"orientações para casa",NA,NA,"2019-05-20"
+2019,"Neide Terezinha da Silva",74,"F","negra",NA,"queda da própria altura","não",NA,"x",NA,"fcc em língua","X",NA,"sutura + orientação",NA,NA,"2019-05-20"
+2019,"Nely Varani Gaglia",89,"F","branca",NA,"queda da própria altura","não",NA,"X","fratura de opn sem deslocamento",NA,"X",NA,"tratamento conservador + prescrição",NA,NA,NA
+2019,"Neusa Rodrigues Alves da Silva",67,"F","branca","has, hipotireoidismo e epilepsia. uso de captopril, hidroclotiazida, ac. valproico, clonazepam e ac. fólico","queda da própria altura","não","Direito",NA,"fratura em soalho de órbita com leve deslocamento","oclusão palpebral ipsilateral","X",NA,"tratamento conservador + prescrição",NA,NA,NA
+2019,"Rachel Chiquito Magosteiro",82,"F","branca",NA,"queda da própria altura","não",NA,"X","fratura de opn sem deslocamento",NA,"X",NA,"tratamento conservador + prescrição","2019-09-24",NA,"2019-09-24"
+2019,"Railda Lopes Mariani",64,"F","branca",NA,"queda da própria altura","não",NA,"X","fratura de opn sem deslocamento",NA,"X",NA,"tratamento conservador + orientações","2019-10-29",NA,"2019-10-29"
+2019,"Rosemari Bersani",77,"F","branca","uso de alprazolan","queda da própria altura","sim",NA,"X",NA,"contusão facial","X",NA,"orientações para casa","2019-11-21",NA,"2019-11-21"
+2019,"Rosimara Marylim Borges",34,"F","branca","transtorno bipolar afetivo, depressão, atraso mental, uso de sertralina, depakene (ác. valproico), carbonato de lítio, carbamazepina e diazepan","Agressão física","não",NA,"X","fratura de assoalho orbital (d)- blowout","contusão facial",NA,1,"refi de assoalho orbital + prescrição","2019-12-21","2019-12-26","2019-12-27"
+2019,"Santa Brigida",68,"F","branca",NA,"queda da própria altura","sim","Esquerdo",NA,NA,"trauma facial","X",NA,"orientações para casa",NA,NA,NA
+2019,"Selma Regina Cavalcante",63,"F","branca","edentula","mandíbula e maxila atrófica com necessidade de reab. oral","não",NA,"X",NA,NA,NA,NA,"remoção de placa de osteossíntese mandibular, instalação de 5 implantes",NA,"2019-08-08",NA
+2019,"Silvia Bertolucio Stabile",91,"F","branca",NA,"queda de nível","não","Direito",NA,"fratura em parede posterior de seio maxilar e opn sem deslocamento",NA,"X",NA,"tratamento conservador + orientações","2019-09-02",NA,"2019-09-02"
+2019,"Sonia Maria da Silva Duarte",51,"F","parda","hipercolesterolemia, arritimia cardíaca, has, uso de sinvastatina, sertralina, metoprolol, amildorona","Agressão doméstica","não",NA,"X","fratura de parede anterior de maxila (d)",NA,"X",NA,"tratamento conservador + prescrição","2019-09-14",NA,"2019-09-14"
+2019,"Stefani Emilia de Paula Lopes",26,"F","negra","usuário de drogas (cocaína)","Agressão física","não","Esquerdo",NA,NA,"fcc transfixante em comissura bucal, contusão facial","X",NA,"sutura dos ferimentos + prescrição","2019-11-25",NA,"2019-11-25"
+2019,"Suellen Ribeiro Alves",31,"F","parda",NA,"acidente motociclístico","não",NA,"X","fratura de parede anterior do osso frontal",NA,NA,1,"redução + síntese de fratura","2019-05-15","2019-05-22","2019-05-22"
+2019,"Tania Clarice da Silva Gomes",56,"F","parda",NA,"acidente motociclístico","sim","Esquerdo",NA,"fratura de seio maxilar",NA,"X",NA,"prescrição para casa","2019-05-30",NA,"2019-05-30"
+2019,"Tatiana Correia Lima",35,"F","parda",NA,"atropelamento","não",NA,"X","fratura de opn",NA,NA,1,"redução + tna + prescrição",NA,NA,NA
+2019,"Thaylla Danieli Eleuterio da Silva",4,"F","branca",NA,"queda de nível","sim",NA,"X","fratura coronária e intrusão do 51","luxação do 61","X",NA,"prescrição + encaminhamento pediatria","2019-09-02",NA,"2019-09-02"
+2019,"Valdelice Aparecida Vieira",54,"F","parda","portadora de distúrbios neurológicos, desdentada parcial","queda da própria altura","sim",NA,"X","fratura de opn + contusão + sangramento em sulco gengival 21",NA,"X",NA,"orientações para casa","2019-07-08",NA,"2019-07-08"
+2019,"Valentina Letícia Lima dos Santos",6,"F","negra",NA,"acidente ciclístico","não",NA,"X","fratura na região anterior do processo alveolar de maxila, mobilidade e laceração gengival 52 e 62",NA,NA,1,"internação + cirurgia sob ag","2019-11-30","2019-12-01","2019-12-01"
+2019,"Vanderlei de Souza",50,"F","branca",NA,"queda de nível","não",NA,"X","fratura mandibular, corpo estranho em seio maxilar d e cavidade orbitária d, crepitação óssea",NA,NA,1,"cirurgia sob ag","2019-11-04","2019-11-04",NA
+2019,"Vanessa Francisco de Souza",34,"F","negra",NA,"acidente motociclístico","sim",NA,"X","fratura de bloco dentoalveolar maxilar","fcc em lábio sup., avulsão dos 11, 21, 22; fratura coronária dos 12, 13 e anteriores inf.",NA,1,"debridamento, exo do 12 e regularização óssea sob al","2019-07-28",NA,"2019-08-07"
+2019,"Yasmin Braga Pereira",21,"F","parda",NA,"dor e aumento de volume em face","não",NA,"X",NA,"abscesso odontogênico",NA,1,"encaminhamento para exo com al",NA,NA,"2019-05-20"
+2019,NA,16,"M","branca",NA,"acidente desportivo","não",NA,"X",NA,NA,"X",NA,"tratamento conservador + prescrição","2019-08-22",NA,"2019-08-23"
+2019,NA,42,"M","branca",NA,"Agressão física","sim",NA,"X","fratura da parede anterior do seio frontal",NA,"X",NA,"orientações para casa","2019-10-20",NA,"2019-10-20"
+2019,"Aaron Machado Squicato",42,"M","branca",NA,"acidente desportivo","não","Direito",NA,"fratura de opn com deslocamento",NA,NA,1,"redução + prescrição","2019-10-21","2019-10-21","2019-10-21"
+2019,"Ademir Neves",75,"M","branca",NA,"queda de nível","sim",NA,"X","fratura de opn com leve deslocamento",NA,"X",NA,"orientações para casa",NA,NA,NA
+2019,"Adriano Moraes de Souza Santos",31,"M","branca",NA,"acidente ciclístico","não",NA,"X","fratura mandibular (bi) (corpo ao lado d e ângulo ao lado e)","limitação da abertura bucal","X",NA,"internação + prescrição + aguardando equipe médica","2019-09-20",NA,NA
+2019,"Allis Brondson Aguilar Farias",26,"M","branca","tratamento endodôntico no 46, uso de clavulin","abscesso odontogênico","não","Direito",NA,NA,"limitação da abertura bucal",NA,1,"internação + prescrição e drenagem + dreno de penrose","2019-11-21","2019-11-21","2019-11-21"
+2019,"Amauri Bruno Jardim Siqueira",23,"M","branca",NA,"abscesso odontogênico","não",NA,"X",NA,"hiperemia em fundo de vestíbulo maxilar",NA,1,"drenagem de conteúdo purulento","2019-05-13",NA,NA
+2019,"Anderson Furtuoso dos Santos",45,"M","parda",NA,"Agressão física","sim","Direito",NA,"fratura czm, fratura de opn",NA,"X",NA,"prescrição para casa","2019-11-20",NA,"2019-11-20"
+2019,"Andre Luiz Pereira Neiva",45,"M","branca","hipertenso (captopril)","acidente motociclístico","sim","Esquerdo",NA,NA,NA,"X",NA,"orientações para casa","2019-01-22",NA,"2019-03-16"
+2019,"Antonio Carlos de Brito",56,"M","parda","etilista","queda da própria altura após crise convulsiva","não",NA,"X","fratura de arco zigomático (d)","fcc em região frontal","X",NA,"tratamento conservador + sutura + prescrição","2019-11-24",NA,"2019-11-24"
+2019,"Antonio Francisco",82,"M","negra",NA,"tumefação em frontal com evolução há 2 meses","não","Direito",NA,NA,"tumefalçao em região frontal, flutuante à palpação e distopia ocular, imagem sugestuva de ematoma subgaleal","X",NA,"aguardando equipe médica","2019-06-22",NA,NA
+2019,"Antonio Reis Rodrigues",31,"M","negra",NA,"acidente ciclístico","não",NA,"X","fratura de côndilo, sínfise mandibular, maxila, czo (d) e opn","fcc em mento e região infraorbital (d), limitação de abertura bucal",NA,1,"internação + refi czm + prescrição","2019-05-08","2019-05-08","2019-05-09"
+2019,"Aparecido Lozano",70,"M","branca","has (atenolol, anlopino, ancorou)","queda da própria altura","sim","Esquerdo",NA,"fratura de opn + fcc em dorso nasal",NA,"X",NA,"prescrição para casa","2019-07-11",NA,"2019-07-11"
+2019,"Aparecido Machado dos Santos",47,"M","negra",NA,"queda da própria altura","não",NA,"X","fratura de opn sem deslocamento",NA,"X",NA,"tratamento conservador + prescrição","2019-09-28",NA,"2019-09-28"
+2019,"Benedito Belarmino",65,"M","branca",NA,"acidente ciclístico","não",NA,"X","fratura czo (d), arco zigomático (d), blowout (d)","contusão facial","X",NA,"tratamento conservador + prescrição",NA,NA,NA
+2019,"Braz de Souza",40,"M","negra",NA,"queda da própria altura","não",NA,"x","fratura de opn sem deslocamento","fcc em dorso nasal","X",NA,"tratamento conservador + sutura + prescrição",NA,NA,NA
+2019,"Bruno H. Pereira Santos",13,"M","negra",NA,"queda da própria altura","sim",NA,"X","fratura de côndilo bilateral",NA,"X",NA,"tratamento conservado + prescrição","2019-08-06",NA,"2019-08-12"
+2019,"Bruno Luiz Natividade",19,"M","negra",NA,"acidente desportivo","sim","Direito",NA,"fratura de opn sem deslocamento",NA,"X",NA,"orientações quanto ao tratamento conservador + prescrição","2019-11-01",NA,"2019-11-01"
+2019,"Bruno Santos da Silva",16,"M","parda",NA,"acidente desportivo","não","Direito",NA,"fratura de ângulo mandibular","fcc em terço médio, limitação da abertura bucal",NA,1,"osteossíntese de fratura mandibular + prescrições","2019-09-26","2019-09-27","2019-09-30"
+2019,"Caic Cassio",26,"M","branca",NA,"Acidente com animal","sim",NA,"X",NA,"trauma facial","X",NA,"orientações para casa",NA,NA,NA
+2019,"Caio Eduardo Ferreira de Arruda",18,"M","branca","usuário de drogas (maconha)","acidente motociclístico","não",NA,"X","fratura le fort ii, fratura de opn, fratura de seio frontal (parede anterior e posterior)","fcc em lábio sup. e inf., variz e vestibulo mandibular","X",NA,"internação + antissepsia, debridamento, hemostasia e suturas dos fccs +  aguardando equipe médica","2019-06-15",NA,NA
+2019,"Caio Henrique dos Santos",22,"M","branca",NA,"acidente motociclístico","não","Direito",NA,"fratura de arco zigomático com leve deslocamento, fratura de região fronto-zigomática",NA,"X",NA,"tratamento conservador + prescrição","2019-10-30",NA,"2019-11-04"
+2019,"Cairo Daniel de Melo Amaro",20,"M","branca",NA,"acidente automobilístico","não",NA,"X",NA,"fcc em lábio inf.","X",NA,"sutura de fcc + prescrições","2019-09-25",NA,"2019-09-25"
+2019,"Candido Jose Neto",41,"M","negra",NA,"queda da própria altura","não",NA,"X","fratura de maxila tda","fcc em lábio inf. e em região anterior de maxila, fratura coronária do 11","X",NA,"sutura dos ferimentos + contenção + prescrição",NA,NA,NA
+2019,"Carlos Henrique Prazeres",29,"M","branca",NA,"Agressão física","sim",NA,"X","fratura de opn, seio maxilar d e base de crânio",NA,"X",NA,"segue em acompanhamento com a neuro","2019-10-27",NA,"2019-10-27"
+2019,"Cesar Roberto Dias",50,"M","branca",NA,"lesão em região anterior com evolução de 2 meses","não","Esquerdo",NA,NA,"papiloma, ameloblastoma",NA,1,"refi + prescrição","2019-05-02","2019-05-04","2019-05-05"
+2019,"Claudinei Domingues Fonseca",30,"M","parda","trauma em face 2006-2009, há 9 meses com infecção pós exo","infecção pós exo há 9 meses","não","Esquerdo",NA,NA,"infecção associada à fir",NA,1,"internação + exames laboratoriais + aguardando equipe médica",NA,NA,NA
+2019,"Claudio Gandolfo",41,"M","branca",NA,"acidente motociclístico","sim","Direito",NA,"fratura de parede posterior de maxila",NA,"X",NA,"orientações para casa",NA,NA,NA
+2019,"Cleber Henrique Rocha de Souza",27,"M","branca","nega","acidente em cama elástica","não","Direito",NA,"fratura czom d, discreta mobilidade em maxila",NA,NA,1,"cirurgia sob ag","2019-08-18","2019-08-21","2019-08-22"
+2019,"Daniel Gilvan da Mata",17,"M","branca","nega","Agressão física","não",NA,"X","fratura de ângulo mandibular, limitação de abertura bucal, mordida aberta anterior",NA,NA,1,"cirurgia",NA,"2019-11-29","2019-11-29"
+2019,"Davi Manaia Furlan",4,"M","branca",NA,"queda da própria altura","não",NA,"X",NA,"fcc em dorso de língua",NA,1,"sutura em dorso de língua sob ag","2019-09-24","2019-09-24",NA
+2019,"Delfino Rodrigues dos Santos",75,"M","branca","has, hipotireoidismo e histórico de cirurgia (cateterismo). uso de inalapril, puran, sinvastatina, duomo, furazemida, aas e succinato de metapropilol","queda da própria altura e de anteparo contra a face","não","Esquerdo",NA,"fratura de arco zigomático com leve deslocamento, fratura de parede lateral de seio maxilar com leve deslocamento","fcc em região frontal, limitação da abertura bucal","X",NA,"tratamento conservador + prescrição",NA,NA,NA
+2019,"Derci Pinto de Rezende",65,"M","branca","nega","queda de nível","não","Direito",NA,"fratura de opn sem deslocamento e parede anterior de seio maxilar",NA,"X",NA,"tratamento conservador + prescrição",NA,NA,NA
+2019,"Diego Aparecido Ferreira",28,"M","branca","nega","acidente ciclístico","não","Esquerdo",NA,"fratura de sínfise mandibular e côndilo (e), mobilidade e crepitação óssea mandibular",NA,NA,1,"osteossíntese de fratura de sínfise mandibular + tratamento conservador de côndilo","2019-08-04","2019-08-06",NA
+2019,"Diego Aparecido Ferreira",28,"M","branca","passou por cirurgia de septo","acidente ciclístico","não","Esquerdo",NA,"fratura de sínfise mandibular e côndilo","fcc em mento, limitação da abertura bucal",NA,1,"internação + prescrição + aguardando equipe médica",NA,NA,NA
+2019,"Diego Otavio dos Santos",15,"M","negra",NA,"Agressão física","não","Esquerdo",NA,"fratura opn com deslocamento",NA,NA,1,"redução + prescrição","2019-10-29","2019-11-04","2019-11-04"
+2019,"Diego Otavio dos Santos",15,"M","parda",NA,"Agressão física","não",NA,"X","fratura de opn com leve deslocamento",NA,"X",NA,"tratamento conservador + prescrição","2019-10-29",NA,"2019-11-04"
+2019,"Diniz Bernardo de Proença",57,"M","branca",NA,"acidente motociclístico","sim",NA,"X","fratura de opn",NA,"X",NA,"prescrição + encaminhamento foa","2019-10-24",NA,"2019-10-24"
+2019,"Divino Pereira da Silva",59,"M","branca","has, diabético (hidroclorotiazida, etanolol, glifage e enalapril)","abscesso odontogênico","não","Direito",NA,"aumento vol. submandibular d, limitação de abertura bucal",NA,NA,1,"drenagem sob ag (instalação de drenos + exodontia do 48)","2019-07-12","2019-07-13","2019-07-13"
+2019,"Domingues Carlos de Moura",59,"M","negra",NA,"Agressão física","não",NA,"X","fratura de opn",NA,"X",NA,"tratamento conservador + prescrição","2019-11-05",NA,"2019-11-05"
+2019,"Douglas Marques da Silva",22,"M","branca",NA,"acidente desportivo","sim","Direito",NA,NA,NA,"X",NA,"prescrição para casa","2019-11-18",NA,"2019-11-18"
+2019,"Edeilson Silva Souza",29,"M","negra",NA,"Agressão física","não","Direito",NA,"fratura de sínfise mandibular","crepitação óssea em mento",NA,1,"internação + prescrições + exames para cirurgia sob ag","2019-06-23",NA,NA
+2019,"Edgar Ferreira dos Santos",88,"M","parda","dm e hipertensão","queda da própria altura","sim","Esquerdo",NA,"fratura de cmz",NA,"X",NA,"orientações para casa",NA,NA,"2019-05-20"
+2019,"Edilson Silva Souza",29,"M","negra",NA,"Agressão física","não",NA,"X","fratura de sínfise e corpo mandibular",NA,NA,1,"tratamento cirúrgico",NA,NA,NA
+2019,"Edivaldo Pacheco dos Santos Junior",22,"M","negra",NA,"acidente motociclístico","não",NA,"X","fratura em sutura palatina","avulsão de dorso, ápice e asas nasais",NA,1,"internação + remoção de dieta por sonda-dieta oral líq. + aguardando equipe médica","2019-12-02",NA,NA
+2019,"Edivaldo Pacheco dos Santos Junior",50,"M","negra","politraumatizado (trauma abdominal, amputação de mi (e), hemodiálise, sne, tqt)","acidente motociclístico","não",NA,"X","laceração em palato duro/mole e lábio sup./vestíbulo maxilar, avulsão dos 21 e 22",NA,NA,1,"internação + exames laboratoriais + aguardando equipe médica",NA,NA,NA
+2019,"Edmilson da Silva",40,"M","negra","paciente politraumatizado, com tce e intubado","acidente motociclístico","não",NA,"X",NA,NA,NA,NA,"reavaliação da ctbmf após estabilização do paciente",NA,NA,NA
+2019,"Edmir Alves dos Santos",77,"M","branca",NA,"dor em região de atm","sim",NA,"X","dtm",NA,"X",NA,"prescrição para casa","2019-12-02",NA,"2019-12-02"
+2019,"Eduardo Batista de Faria",4,"M","branca","nega","queda da própria altura","sim","Direito",NA,NA,NA,"X",NA,"prescrição para casa","2019-08-20",NA,"2019-08-20"
+2019,"Elias Benedito de Souza",50,"M","branca",NA,"Agressão física","não",NA,"X",NA,"sinusite, cisto de retenção mucoso/pólipo","X",NA,"prescrição + orientações para casa","2019-12-28",NA,"2019-12-30"
+2019,"Enrico Pereira Yacobian Moreira",8,"M","branca",NA,"acidente desportivo","não",NA,"X","fcc em língua",NA,NA,1,"sutura sob ag + prescrição","2019-07-14","2019-07-14","2019-07-14"
+2019,"Enzo de Lima",4,"M","branca",NA,"atropelamento","sim","Esquerdo",NA,NA,"trauma facial","X",NA,"orientações para casa",NA,NA,NA
+2019,"Eudes Fernandes de Souza",42,"M","parda",NA,"Agressão física","sim","Esquerdo",NA,"fratura de opn sem deslocamento",NA,"X",NA,"prescrição para casa","2019-05-26",NA,"2019-05-26"
+2019,"Eunides José de Souza",87,"M","branca","revascularização cardíaca. hipertensão e uso de varfarina","hemorragia alveolar","não","Esquerdo",NA,NA,"hemorragia alveolar do 28","X",NA,"analgesia + verificação de ssvv + exames + orientação",NA,NA,NA
+2019,"Ezequiel Guimaraes Rocha",20,"M","negra","etilista e usuário de drogas (cocaína)","Agressão física","não",NA,"X","fratura alveolar do 41, fraturas coronárias dos 11 e 21","avulsão do 41, laceração em fundo de vestíbulo mandibular anterior",NA,1,"antissepsia, debridamento, remoção da tábua óssea alveolar do 41, suturas das lacerações + prescrição",NA,NA,NA
+2019,"Fabio Evangelista Rodrigues",42,"M","parda","epilético (ac. valproico)","ferimento por arma de fogo","não","Direito",NA,"fratura de parede anterior de seio frontal e teto de órbita","ferimento perfuro-contundente em fontal, oclusão palpebral diminuída",NA,1,"internação + cirurgia sob ag para remoção de corpo estranho","2019-06-11","2019-06-12","2019-06-16"
+2019,"Fábio Evangelista Rodrigues",42,"M","branca",NA,"retorno pós cirurgia por ferimento por projétil","sim",NA,"X",NA,"fcc em dorso nasal","X",NA,"prescrição para casa","2019-06-11",NA,"2019-06-17"
+2019,"Fábio Ildefonso Neves",30,"M","branca","depressão","Agressão física","não","Direito",NA,"fratura de sínfise e côndilo d, limitação da abertura bucal",NA,NA,1,"internação + exames laboratoriais + aguardando equipe médica","2019-11-30",NA,NA
+2019,"Fabio Menezes",33,"M","branca",NA,"Agressão física","não","Esquerdo",NA,"fratura de opn com deslocamento","fcc em lábio sup. e contusão facial","X",NA,"tratamento conservador + prescrição","2019-11-03",NA,"2019-11-06"
+2019,"Felício Bezerra",70,"M","branca",NA,"atropelamento","sim",NA,"X",NA,"fda em região frontal","X",NA,"prescrição para casa","2019-12-03",NA,"2019-12-16"
+2019,"Felipe Fernandes Teles",1,"M","branca","nega","queda da própria altura","sim","Direito",NA,NA,"tda","X",NA,"orientações para casa",NA,NA,NA
+2019,"Felipe Hiodo",17,"M","amarela",NA,"acidente desportivo","não",NA,"X","fratura de opn sem deslocamento",NA,"X",NA,"tratamento conservador + prescrição","2019-10-28",NA,"2019-10-28"
+2019,"Felisberto Tetsukio Kaneyasu",61,"M","amarela",NA,"infecção de origem odontogenica","sim","Esquerdo",NA,NA,"limitação da abertura bucal","X",NA,"prescrição +  retorno para exo do 38","2019-09-27",NA,NA
+2019,"Fernando Alves Antenori",31,"M","branca",NA,"celulite","não",NA,"X","limitação de abertura bucal",NA,NA,1,"internação + exames laboratoriais + aguardando equipe médica","2019-11-08",NA,NA
+2019,"Fernando Cesar Leite Faga",49,"M","branca",NA,"queda de nível","sim","Esquerdo",NA,"fratura em arco zigomático, parede posterior de seio maxilar e em região de sutura fronto-zigomática sem deslocamento",NA,"X",NA,"prescrição para casa","2019-09-07",NA,"2019-09-07"
+2019,"Fernando Correia Neves",20,"M","branca",NA,"acidente desportivo","não","Esquerdo",NA,"fratura de opn, rinoescoliose a esquerda",NA,NA,1,"redução + prescrição","2019-07-08","2019-07-08","2019-07-08"
+2019,"Fernando Martins Rodrigues",79,"M","branca","alzheimer, doença degenerativa ocular","queda da própria altura","sim","Esquerdo",NA,NA,"escoriações","X",NA,"prescrição para casa","2019-09-09",NA,"2019-09-09"
+2019,"Flávio de Castro Freitas",40,"M","parda",NA,"Agressão física","sim",NA,"X","fratura de opn + contusão",NA,"X",NA,"prescrição para casa","2019-07-08",NA,"2019-07-08"
+2019,"Gabriel Richard Bento",18,"M","branca",NA,"Agressão física","não","Esquerdo",NA,"fratura de ângulo mandibular","limitação da abertura bucal","X",NA,"internação + prescrição + aguardando equipe médica","2019-09-25",NA,NA
+2019,"Gabriel Rodrigues Mantovani",29,"M","parda","alégico cataflan","acidente motociclístico","não","Direito",NA,"fratura de opn sem deslocamento, de parede lateral de seio maxilar, sutura fz",NA,"X",NA,"tratamento conservador + prescrição","2019-12-24",NA,"2020-01-13"
+2019,"Geraldo Batista",52,"M","negra",NA,"acidente automobilístico","não",NA,"X","fratura de parede anterior e posterior de seio frontal sem deslocamento","fcc em região frontal","X",NA,"aguardando equipe médica",NA,NA,NA
+2019,"Gilberto Custódio Monteiro",31,"M","negra",NA,"Agressão física","não","Esquerdo",NA,"fratura de assoalho orbital- blowout",NA,NA,1,"internação + refi de assoalho orbital + prescrição","2019-10-19","2019-11-19",NA
+2019,"Gilson Ferreira da Silva",43,"M","parda",NA,"trauma contra objeto contundente","não","Esquerdo",NA,"fratura de parassínfise e tda","limitação da abertura bucal",NA,1,"osteossíntese de fratura de parassínfise","2019-06-14","2019-06-18",NA
+2019,"Gilson Ferreira da Silva",43,"M","negra","etilista e tabagista","trauma contra objeto contundente (manivela de barco)","não",NA,"X","fratura de parassínfise e corpo mandibular (e)","fcc em fundo de vestíbulo mandibular com sangramento ativo, avulsão do 41 e mobilidade dos 31 e 32",NA,1,"internação + antissepsia, debridamento, hemostasia, exo do 31, sutura do fcc sob al, a nível ambulatorial + prescrição + exames",NA,NA,NA
+2019,"Giovani Cesar Alexandrino",20,"M","branca",NA,"acidente motociclístico","não","Esquerdo",NA,"fratura czm",NA,NA,1,"redução e osteossíntese de fraturas + prescrição","2019-10-24","2019-10-28","2019-11-04"
+2019,"Giovani Cesar Alexandro",20,"M","branca",NA,"acidente motociclístico","não","Esquerdo",NA,"fratura de czm",NA,NA,1,"internação + exames laboratoriais + aguardando equipe médica","2019-10-26",NA,NA
+2019,"Giovani Pereira Porto",36,"M","negra",NA,"acidente automobilístico","não","Esquerdo",NA,"fratura de côndilo, processo coronóide e sínfise mandibular","fcc em mento, limitação da abertura bucal",NA,1,"refi para fratura de sínfise, remoção do côndilo e processo coronóide + prescrição","2019-06-25","2019-05-01","2019-07-04"
+2019,"Guilherme Ivo Pereira",24,"M","parda",NA,"acidente motociclístico","sim","Direito",NA,"fratura de opn","oclusão palpebral, fda em lábio inf., fcc em região parietal, contusão facial",NA,1,"redução ambulatorial + retorno","2019-06-18",NA,NA
+2019,"Guilherme M Marchetti",31,"M","branca",NA,"acidente automobilístico","não",NA,"X","fratura de opn",NA,NA,1,"redução + tna + prescrição",NA,NA,NA
+2019,"Gustavo de Jesus Almeira",21,"M","branca",NA,"acidente ciclístico","não",NA,"X","fratura de opn","flc em dorso nasal",NA,1,"redução ambulatorial + orientações","2019-05-20",NA,NA
+2019,"Gustavo Henrique Ribeiro Galves",26,"M","branca","nega","acidente desportivo","não",NA,"X","fratura de opn com leve deslocamento","fcc em região de dorso nasal","X",NA,"sutura em dorso nasal e curativo compressivo + prescrição",NA,NA,NA
+2019,"Hajime Nebuya",75,"M","amarela","uso de clonazepan, cetoprofeno, furosemida, norapriptana, hidroclorotiazida","atropelamento","sim","Esquerdo",NA,"fratura czm, fratura de côndilo mandibular",NA,"X",NA,"prescrição para casa","2019-11-20",NA,"2019-11-20"
+2019,"Hanry Gabriel Rodriguez",12,"M","branca",NA,"acidente desportivo","não","Direito",NA,"fratura de bloco alveolar dos 11 e 12","fcc em mucosa labial superior","X",NA,"contenção semi-rígida dos dentes superiores + sutura em região palatina dos 11, 12 e 13 + prescrição","2019-11-01",NA,"2019-11-04"
+2019,"Helio Pizollio",73,"M","branca","edentulo","Agressão física","não",NA,"X","fratura de corpo mandibular (e), ramo mandibular (d), opn e zigomático bilateral, mobilidade e crepitação óssea mandibular, quimose sublingual",NA,NA,1,"redução de fraturas em mandíbula e tratamento conservador de opn e arco zigomático","2019-08-05","2019-08-09",NA
+2019,"Higor da Silva",23,"M","negra",NA,"Agressão física","não","Esquerdo",NA,"fratura mandibular",NA,NA,1,"internação + exames laboratoriais + aguardando equipe médica","2019-11-10",NA,NA
+2019,"Higor Felipe da Silva Cardoso",21,"M","branca",NA,"acidente automobilístico","não",NA,"X","fratura de mandíbula (bilateral de ângulo e côndilo e), creptação óssea, mordida aberta anterior, maloclusão, fcc em comissura labial",NA,NA,1,"internação + prescrição + cirurgia sob ag","2019-10-25",NA,"2019-10-25"
+2019,"Iago Ferreira da Cunha",23,"M","branca",NA,"acidente desportivo","não","Direito",NA,"fratura de opn",NA,NA,1,"internação + cirurgia sob ag","2019-05-31","2019-05-31","2019-05-31"
+2019,"Igor Henrique dos Santos",26,"M","branca",NA,"Acidente com animal","não","Direito",NA,"fratura de ângulo mandibular",NA,NA,1,"osteossíntese de fraturas de mandíbular","2019-12-06","2019-12-07","2019-12-07"
+2019,"Ilaécio José de Araújo",30,"M","parda",NA,"queda da própria altura","não","Esquerdo",NA,"fratura de parede anterior e posterior do seio maxilar e arco zigomático e",NA,"Conservador",NA,"tratamento conservador + prescrição","2019-11-05",NA,NA
+2019,"Israel Soares de Azevedo",75,"M","branca",NA,"queda da própria altura","não","Direito",NA,NA,"fcc periorbitário","X",NA,"sutura de fcc + prescrições","2019-10-31",NA,"2019-10-31"
+2019,"Jairo Celso de Paula",62,"M","branca","ataxia cerebelar","queda de nível","sim","Esquerdo",NA,"contusão, laceração",NA,"X",NA,"prescrição para casa","2019-05-27",NA,"2019-05-27"
+2019,"Jean Carlos da Silva",25,"M","branca",NA,"Agressão física","não",NA,"X","fratura de opn e assoalho de órbita (d)","múltiplas fda em face, fcc em lábio","X",NA,"tratamento conservador + prescrição","2019-12-07",NA,"2019-12-16"
+2019,"João Antonio Souza Silva",21,"M","branca",NA,"tto. endodôntico inacabado, evoluindo para abscesso odontogênico","não","Direito",NA,NA,"abcesso de origem odontogênica",NA,1,"drenagem de abscesso + exo do 47 sob ag + prescrição","2019-05-09","2019-05-09","2019-05-10"
+2019,"João Antonio Souza Silva",21,"M","parda","nega","tratamento endodôntico inacabado","não","Direito",NA,NA,"abscesso odontogênico","X",NA,"internação + antibiótico terapia + reavaliação",NA,NA,NA
+2019,"João dos Santos Luiz",42,"M","parda",NA,"Agressão física","não",NA,"X","fratura de complexo zigomático orbitário",NA,"Conservador",NA,"prescrição para casa","2019-08-09",NA,NA
+2019,"João Felipe Fabris Cespedes",5,"M","branca",NA,"queda da própria altura","não","Esquerdo",NA,NA,"fcc em lábio inf.","X",NA,"sutura sob al + prescrição","2019-11-20",NA,"2019-11-20"
+2019,"João Ferreira dos Santos",49,"M","branca","edentulo","trauma contra cerca","não","Esquerdo",NA,"fratura de arco zigomático (e)",NA,NA,1,"redução de fratura de arco zigomático","2019-08-06","2019-08-08",NA
+2019,"João Loureiro",86,"M","branca",NA,"queda da própria altura","sim","Esquerdo",NA,"fratura de parede posterior de seio maxilar sem deslocamento",NA,"X",NA,"prescrição para casa","2019-09-07",NA,"2019-09-07"
+2019,"João Loureiro",86,"M","branca","mal de parkinson, has, uso de losartana","queda da própria altura","sim","Esquerdo",NA,NA,NA,"X",NA,"orientações para casa","2019-09-10",NA,"2019-09-10"
+2019,"João Miguel Borges Santos",2,"M","parda",NA,"Acidente doméstico","sim","Direito",NA,"contusão facial",NA,"X",NA,"prescrição para casa","2019-05-25",NA,"2019-05-25"
+2019,"João Paulo Sartorio Fernandes",35,"M","parda","nega","Agressão física","não",NA,"X",NA,"fcc em mucosa labial inferior e laceração em lábio superior","X",NA,"antissepsia, debridamento e suturas em lábio inferior sob al a nível ambulatorial",NA,NA,NA
+2019,"João Vaz de Oliveira",69,"M","branca",NA,"corpo estranho em dorso de língua por ingestão de pequi","não",NA,"X",NA,"perfuração e penetração de corpo estranho em dorso de língua","X",NA,"remoção de corpo estranho","2019-06-21",NA,"2019-06-21"
+2019,"João Vitor Alves de Jesus",19,"M","negra",NA,"acidente motociclístico","não","Esquerdo",NA,"fratura de borda superior de órbita sem deslocamento","fcc extenso em lado (e) e orelha (e)","X",NA,"tratamento conservador + orientações","2019-09-23",NA,"2019-09-23"
+2019,"Jose Afonso dos Samtos",61,"M","parda","periodontite generalizada","Agressão física","não",NA,"X","periodontite generalizada + limitação da abertura bucal",NA,NA,1,"internação + exames laboratoriais + aguardando equipe médica","2019-11-10",NA,NA
+2019,"Jose Alexandro Ribeiro",32,"M","parda",NA,"acidente desportivo","não","Direito",NA,"fratura de ângulo mandibular","mordida aberta anterior e mordida cruzada posterior",NA,1,"osteossíntese de fratura mandibular","2019-09-22","2019-09-25","2019-09-30"
+2019,"José Barbosa de Oliveira",66,"M","branca",NA,"Agressão física","não","Direito",NA,"fratura czm, fratura de arco e processo coronóide",NA,NA,1,"internação + prescrição + aguardando equipe médica","2019-06-01",NA,NA
+2019,"José Carlos Grigoleto",50,"M","branca",NA,"encaminhada para exo hospitalar","não",NA,"X",NA,NA,"X",NA,"prescrição + encaminhamento clínica de origem","2019-05-22",NA,"2019-05-22"
+2019,"Jose Ermelindo Sonega",40,"M","branca","internado há 30 dias (investigação de febre)","endocardite bacteriana","não","Esquerdo",NA,NA,NA,NA,1,"exodontia sob al + cultura e antibiograma",NA,"2019-07-13","2019-09-11"
+2019,"Jose Felipe Sousa Gomes",24,"M","branca",NA,"queda de nível","sim","Direito",NA,NA,"contusão facial","X",NA,"prescrição para casa","2019-09-07",NA,"2019-09-16"
+2019,"José Gonçalves",56,"M","branca","nega","exo do 31 há 5 dias evoluindo com edema","sim",NA,"X",NA,NA,"X",NA,"prescrição para casa","2019-08-13",NA,"2019-08-18"
+2019,"Jose João da Silva",67,"M","branca",NA,"Agressão física","não",NA,"X","fratura de opn + fratura de seio maxilar",NA,"X",NA,"tratamento conservador + orientações","2019-10-24","2019-10-24","2019-10-24"
+2019,"José Mendes da Silva",69,"M","branca","edentulo","queda da própria altura","não",NA,"X","fratura opn com deslocamento, fcc em glabela, equimose periorbitário bilateral, rinoescoliose, oclusão palpebral d",NA,NA,NA,"aguardando equipe médica","2019-08-07",NA,NA
+2019,"José Roberto Sanches",70,"M","branca",NA,"queda da própria altura","sim","Esquerdo",NA,"fratura de czm",NA,"X",NA,"orientações para casa",NA,NA,"2019-05-20"
+2019,"José Wilson Costa",49,"M","branca","diabético, fumante, etilista (glifage, diazepam)","acidente motociclístico","não",NA,"X","fratura de côndilo (e), e de cortical lingual em região de corpo mandibular (d)","fcc em mento, mordida aberta anterior e posterior d, limitação abertura bucal","X",NA,"elasticoterapia + interconsulta otorrino/neuro + prescrição","2019-07-07",NA,"2019-07-07"
+2019,"Josue Matias F dos Santos",2,"M","branca",NA,"queda da própria altura","sim","Direito",NA,"fratura dentoalveolar do 51",NA,"X",NA,"prescrição para casa","2019-11-24",NA,"2019-11-24"
+2019,"Juliano Celestino de Oliveira",38,"M","negra","usuário de drogas (crack)","Agressão física","não","Direito",NA,"fratura de seio maxilar",NA,"X",NA,"tratamento conservador + prescrição","2019-08-20","2019-08-20","2019-08-20"
+2019,"Julio Cesar Alves Serra",33,"M","branca","has, uso losartana","acidente ciclístico","não","Esquerdo",NA,"fratura czm",NA,"X",NA,"tratamento conservador + prescrição",NA,NA,NA
+2019,"Julio Luis Correia de Araujo",51,"M","parda",NA,"acidente ciclístico","não","Direito",NA,"fratura de ângulo mandibular",NA,NA,1,"osteossíntese de fratura mandibular","2019-09-22","2019-09-24","2019-09-30"
+2019,"Júlio Luis Correia de Araújo",52,"M","negra","nega","cirurgia em frat. mand. âng. d","não","Direito",NA,"fratura de ângulo mandibular",NA,NA,1,"reoperação de fratura de ângulo mandibular d",NA,"2019-11-28","2019-11-28"
+2019,"Kana Kayk Torres",19,"M","branca",NA,"acidente motociclístico","sim",NA,"X","contusão facial, equimose perriorbitrária e hiposfagma, fda em região temporal (e)",NA,"X",NA,"prescrição para casa","2019-08-08",NA,"2019-08-08"
+2019,"Kauan Daniel Pereira Fortunato",2,"M","branca","nega","queda da própria altura","sim",NA,"X",NA,"contusão facial","X",NA,"prescrição para casa",NA,NA,NA
+2019,"Kauan Henrique Antonio da Silva",7,"M","branca",NA,"queda da própria altura com lápis na boca","sim","Direito",NA,NA,"ferimento lacero-contuso","X",NA,"prescrição para casa","2019-12-29",NA,"2019-12-29"
+2019,"Kleber Lima dos Santos",36,"M","parda",NA,"Agressão física","não","Direito",NA,"fratura alta de côndilo mandibular pouco deslocada","limitação da abertura bucal","X",NA,"tratamento conservador (elásticos) + prescrições","2019-09-03",NA,"2019-09-09"
+2019,"Laureano Paulino",69,"M","branca",NA,"queda da própria altura","sim",NA,"X","fratura de opn","fcc em dorso nasal","X",NA,"prescrição para casa","2019-09-29",NA,"2019-09-29"
+2019,"Leonardo da Silva Moreira",27,"M","negra","nega","Agressão física","não","Esquerdo",NA,"fratura de ângulo mandibular e, 38 com destruição coronária",NA,NA,1,"internação + exames laboratoriais + aguardando equipe médica","2019-11-17",NA,NA
+2019,"Lídio Dias Fernandes",62,"M","negra","has (atenolol, alodipino, losartana)","queda de nível","não","Esquerdo",NA,"fratura de corpo mandibular e czm","fcc em supercílio, limitação da abertura bucal",NA,1,"cirurgia sob ag para osteossíntese de corpo mandibular e czm com placas e parafusos","2019-06-12","2019-06-14",NA
+2019,"Lucas Pedroso Pavam",14,"M","branca",NA,"lesão em maxila descoberta em outra especialidade","não","Esquerdo",NA,NA,"lesão em seio maxilar (cisto, nasoangiofibroma, fribroma ossificante ...)",NA,1,"internação + exames laboratoriais + aguardando equipe médica","2019-11-27","2019-12-30",NA
+2019,"Luciano Carvalho",45,"M","parda","diabético, hiperson, colesterol alto","aumento volumétrico em face com evolução de 3 dias","não","Esquerdo",NA,NA,"abcesso de origem odontogênica",NA,1,"exo 36 + drenagem intrabucal + dreno de penrose",NA,NA,NA
+2019,"Luis Antonio Arroyo",16,"M","branca","nega","acidente ciclístico","não","Esquerdo",NA,"contusão facial",NA,"X",NA,"prescrição para casa","2019-08-20",NA,"2019-08-20"
+2019,"Luis Cesar Abrego",55,"M","branca","epileosia, etilista","queda da própria altura","não","Esquerdo",NA,NA,"fcc em lábio inferior e em região supraorbital","X",NA,"limpeza + debridamento do fcc em lábio inferior + prescrição","2019-11-20",NA,"2019-11-20"
+2019,"Luis Henrique da Silva",20,"M","branca",NA,"acidente motociclístico","sim",NA,"X","contusão facial",NA,"X",NA,"prescrição para casa","2019-06-08",NA,"2019-06-08"
+2019,"Luís Marcos Rodrigues",46,"M","parda",NA,"acidente motociclístico","sim",NA,"X","fratura de opn com leve deslocamento",NA,"X",NA,"orientações para casa",NA,NA,NA
+2019,"Luís Matheus Martini Dornellas",9,"M","branca",NA,"acidente ciclístico","sim",NA,"X",NA,"fratura coronária dos 11 e 21","X",NA,"reimplanta dentário + orientações","2019-06-21",NA,"2019-06-21"
+2019,"Luiz Alfredo Marega Escada",39,"M","branca",NA,"queda de nível","não","Esquerdo",NA,"fratura de parede lateral de seio maxilar, arco zigomático czm",NA,"X",NA,"tratamento conservador + prescrição",NA,NA,NA
+2019,"Luiz Fernando Zago Barbosa",21,"M","branca",NA,"acidente motociclístico","não","Esquerdo",NA,"fratura de assoalho orbital",NA,NA,1,"redução ambulatorial + orientações","2019-05-16",NA,"2019-05-20"
+2019,"Luiz Fernando Zago Barbosa",19,"M","branca","nega","acidente motociclístico","não","Esquerdo",NA,"fratura de assoalho orbital",NA,NA,1,"internação + cirurgia",NA,NA,NA
+2019,"Luiz Marcelo Balloni",50,"M","branca",NA,"queda da própria altura","sim","Direito",NA,NA,"fcc em pálpebra sup.","X",NA,"prescrição para casa",NA,NA,NA
+2019,"Luiz Ricardo Oliveira Santos",23,"M","parda",NA,"Agressão física","não",NA,"X","fratura em corpo mandibular (e)",NA,NA,1,"cirurgia","2019-11-24","2019-11-26","2019-11-26"
+2019,"Maicon Santos Lot",33,"M","branca",NA,"Agressão física","não",NA,"X","fratura de opn, fcc em dorso nasal com perda de cartilagem e em glabela e frontal com perda de substância",NA,NA,1,"sutura por planos + redução e tampão nasal anterior + prescrição","2019-10-27","2019-10-27","2019-10-27"
+2019,"Marcelo Rodrigues da Cruz",45,"M","branca",NA,"acidente motociclístico","não","Esquerdo",NA,"fratura czm",NA,NA,1,"internação + exames laboratoriais + aguardando equipe médica",NA,NA,NA
+2019,"Marco Antonio Ribeiro",53,"M","parda","trauma em face há 3 anos","procedimento em czo (d) para fir evoluindo com infecção","não","Direito",NA,NA,"infecção associada à fir",NA,1,"fistulectomia e remoção de fir + prescrição","2019-05-06","2019-05-09","2019-05-10"
+2019,"Marcos Antonio Zangarole",26,"M","branca","surdo- portador de aparelho auditivo","acidente motociclístico","não",NA,"X","fratura de sínfise mandibular e côndilo","fcc em região de mento, limitação da abertura bucal",NA,1,"refi de sínfise + prescrição","2019-12-19","2019-12-26","2019-12-26"
+2019,"Marcos Ricardo Fernandes Sampaio",27,"M","branca",NA,"acidente motociclístico","não","Direito",NA,"fratura de opn","múltiplas escoriações","X",NA,"tratamento conservador + prescrição","2019-06-19",NA,"2019-06-19"
+2019,"Mario Donizete Cesario",50,"M","branca",NA,"acidente automobilístico","não","Direito",NA,"fratura de opn com deslocamento","fda em região frontal, fratura coronária do 11","X",NA,"tratamento conservador + orientações","2019-12-08",NA,"2019-12-08"
+2019,"Marky Lima de Farias Duque",25,"M","branca",NA,"Agressão física","sim",NA,"X","fratura de opn sem deslocamento","dorso nasal com crepitação óssea","X",NA,"prescrição para casa","2019-09-08",NA,"2019-09-08"
+2019,"Mateus Bom Fim de Oliveira",20,"M","parda","epilepsia (fenobarbital)","queda da própria altura após crise convulsiva","não","Esquerdo",NA,"fratura de sínfise mandibular e ângulo mandibular e","fcc em região de mento",NA,1,"internação + amarria dental + prescrição + aguardando equipe médica","2019-11-20",NA,NA
+2019,"Mateus Bomfim de Oliveira",20,"M","negra","epilepsia (fenobarbital)","queda da própria altura","não","Esquerdo",NA,"fratura de sínfise mandibular e ângulo mandibular e",NA,NA,1,"internação + amarria dental + prescrição + cirurgia","2019-11-20",NA,NA
+2019,"Matheus Mendonça Oliveira",11,"M","branca",NA,"nega o motivo da lesão","sim","Esquerdo",NA,NA,"contusão facial","X",NA,"orientações + encaminhamento à oftalmologia","2019-06-19",NA,"2019-06-19"
+2019,"Miguel Galvan Mutti",6,"M","branca",NA,"acidente desportivo","não","Esquerdo",NA,"fratura de opn",NA,"X",NA,"tratamento conservador + prescrição","2019-10-25",NA,"2019-10-25"
+2019,"Monalisa Poliane Rodrigues",13,"M","branca",NA,"Agressão física","sim",NA,"X",NA,"contusão facial","X",NA,"prescrição para casa","2019-09-23",NA,"2019-09-23"
+2019,"Naldo Vicente",44,"M","negra",NA,"Agressão física","não",NA,"X","hiposfagma d, fcc em mento",NA,"X",NA,"tratamento conservador + prescrição","2019-11-07",NA,NA
+2019,"Natan Vitor Dias",13,"M","branca",NA,"Agressão física","sim",NA,"X","fratura de opn com leve deslocamento",NA,"X",NA,"orientações para casa",NA,NA,"2019-05-20"
+2019,"Nelson dos Santos",79,"M","branca","alzheimer, mal de parkinson","queda da própria altura","sim","Direito",NA,NA,"ferimento corto-contuso em região submandibular","X",NA,"prescrição para casa","2019-09-09",NA,"2019-09-09"
+2019,"Nicolas Gois da Silva",5,"M","branca","nega","queda da própria altura com escova na boca","sim",NA,"X",NA,"fcc em região de ventre lingual","X",NA,"prescrição para casa",NA,NA,NA
+2019,"Nilton da Silva Gama",42,"M","negra",NA,"Agressão física","não","Esquerdo",NA,"fratura de opn",NA,"X",NA,"tratamento conservador + prescrição","2019-10-25",NA,"2019-10-25"
+2019,"Osmar Luiz de Souza Junior",40,"M","negra",NA,"infecção de material de osteossíntese evoluindo há 5 meses","não","Direito",NA,NA,"conteúdo purulento em fundo de fornix mandibular",NA,1,"remoção de parafusos de osteossíntese e debridamento + prescrições",NA,"2019-09-06","2019-09-06"
+2019,"Pablo Chaves de Melo",24,"M","negra",NA,"acidente motociclístico","não",NA,"X","múltiplas fraturas em face (le fort ii, czo, côndilo d, noe, sínfise), fratura de bloco alveolar dos dentes 41 e 42",NA,NA,1,"cirurgia sob ag","2019-07-28","2019-08-22","2019-08-25"
+2019,"Paulo Cesar de Oliveira",40,"M","parda",NA,"trauma contra cerca","não","Direito",NA,"fratura de ângulo mandibular","mal oclusão",NA,1,"osteossíntese de fratura mandibular","2019-09-22","2019-09-25","2019-09-30"
+2019,"Paulo Cesar Lourenço",42,"M","branca",NA,"Acidente com animal","não",NA,"X","fratura de opn sem deslocamento","fcc em lábio sup., fratura de coroa do 12","X",NA,"tratamento conservador + prescrição","2019-06-19",NA,"2019-06-19"
+2019,"Paulo Henrique da Silva",47,"M","negra",NA,"queda de andaime","não","Direito",NA,"fratura em rebordo orbitário superior e inferior, parede posterior de órbita, sutura fronto-zigomática, paredes anterior e posterior de seio maxilar, arco zigomático e de parietal",NA,NA,1,"aguardando equipe médica","2019-05-20",NA,NA
+2019,"Paulo José da Silva",60,"M","parda","imunodepressão, uso de aas, rosuvastatina, ezetimibe, ciprofibrato, naproxeno, vastarel, espironolactona, procolaran, bisoprolol, bupirona, omeprazol e ác. nicotínico","encaminhada para exo hospitalar","não","Esquerdo",NA,"periodontite avançada",NA,NA,1,"múltiplas exos + instalação de implantes dentários","2019-05-20","2019-05-23",NA
+2019,"Paulo José Sebastião",66,"M","branca",NA,"queda da própria altura","não",NA,"X","fratura opn com deslocamento, fcc em glabela e lábio superior, fda em região malar d",NA,NA,1,"redução + tamponamento nasal + prescrição","2019-08-11",NA,"2019-08-14"
+2019,"Paulo Marcio Rosa da Silva",45,"M",NA,"hpv positivo, lesão prévia em genitália removida","hpv. evolução de 11 meses da lesão atual","não","Esquerdo",NA,NA,"lesão branca em comissura labial",NA,1,"biópsia excisional + envio para ap + encaminhamento cob + prescrição",NA,"2019-07-10",NA
+2019,"Paulo Marcos Linhares Silva Filho",20,"M","branca",NA,"acidente motociclístico","sim",NA,"X","fratura de cmz (e)",NA,"X",NA,"orientações para casa",NA,NA,"2019-05-20"
+2019,"Pedro Henrique Cordeiro da Silva",16,"M","branca","mal oclusão","Acidente com animal","não","Direito",NA,"fratura czm d","contusão facial",NA,1,"refi czm + prescrição","2019-11-21","2019-11-21",NA
+2019,"Pedro Mateus Rocha dos Santos",21,"M","branca",NA,"acidente motociclístico","não","Esquerdo",NA,"fratura de osso frontal (região supraorbital), fratura de teto de órbita","fratura exposta de tornozelo (e)",NA,1,"internação + exames laboratoriais + aguardando equipe médica",NA,NA,NA
+2019,"Pedro Miranda Almeida",52,"M",NA,"deformidade dento-facial","deformidade dento-facial","não",NA,"X",NA,NA,NA,1,"cirurgia ortognática",NA,"2019-11-06",NA
+2019,"Pietro Henrique de Castro",5,"M","branca",NA,"atropelamento","não",NA,"X",NA,"ferimento lacero-contuso em dorso e ápice lingual","X",NA,"limpeza + sutura sob ag + orientação","2019-12-28",NA,"2020-01-06"
+2019,"Raimundo Batista de Lima Filho",47,"M","branca",NA,"Agressão física","não","Esquerdo",NA,"fratura de opn sem deslocamento, de pilar zigomático-maxilar",NA,NA,1,"redução ambulatorial + tratatamento conservador de zigomático + prescrição","2019-05-26","2019-05-26","2019-05-26"
+2019,"Ricardo Alexandre Vicente",42,"M","parda",NA,"queda da própria altura","não",NA,"X","fratura de côndilo, sínfise mandibular, processo alveolar mandibular","fcc em mento, limitação de abertura bucal",NA,1,"refi + prescrição","2019-05-05","2019-05-08","2019-05-09"
+2019,"Richary Lucas Ferreira Silva",5,"M","parda",NA,"trauma contra objeto contundente (banco)","sim","Esquerdo",NA,NA,"contusão facial","X",NA,"orientações para casa","2019-08-20",NA,"2019-09-04"
+2019,"Robson da Silva Lima",36,"M","negra","fratura fêmur bilateral e bacia","atropelamento","não",NA,"X","fraturas múltiplas em face",NA,NA,1,"internação + exames laboratoriais + aguardando equipe médica",NA,NA,NA
+2019,"Rodolfo Rodrigues Furlan",25,"M","branca",NA,"acidente motociclístico","sim","Direito",NA,"fratura incompleta de corpo mandibular","fcc em região de corpo mandibular","X",NA,"prescrição para casa","2019-09-08",NA,"2019-09-08"
+2019,"Rodrigo Alves Viana",32,"M","branca",NA,"acidente motociclístico","não","Esquerdo",NA,"fratura de complexo zigomático, parede lateral de órbita, efisema em terço médio","fda em região frontal, contusão facial","X",NA,"tratamento conservador + prescrição","2019-09-03",NA,"2019-09-16"
+2019,"Rodrigo Costa Francisco Pais",29,"M","parda","soro positivo e suspeita de tuberculose","Agressão física","não",NA,"X","fratura czo",NA,NA,1,"aguardando equipe médica","2019-08-03",NA,"2019-08-07"
+2019,"Rogerio Arseli Mendes",27,"M","parda","nega","Agressão física","não","Esquerdo",NA,"fratura de ângulo mandibular","limitação da abertura bucal",NA,1,"refi de ângulo mandibular + prescrição","2019-12-22","2019-12-27","2019-12-27"
+2019,"Ronaldo Maximiliano",22,"M","parda",NA,"acidente motociclístico","não",NA,"X","fratura czm d",NA,NA,NA,"internação + cirurgia suspensa devido a embolismo pulmonar + aguardando equipe médica","2019-09-12",NA,NA
+2019,"Ronilton Rodrigues da Silva",28,"M","negra",NA,"trauma contra objeto contundente (madeira)","sim","Esquerdo",NA,"fratura de parede posterior de seio maxilar e parede lateral de órbita","fcc superficial em dorso nasal","X",NA,"prescrição para casa","2019-09-29",NA,"2010-10-14"
+2019,"Rosair da Silva",43,"M","negra","tratamento endodôntico no 47","aumento volumétrico em face após tratamento endodôntico no 47","não","Direito",NA,NA,NA,NA,NA,"exo dos 45 e 47 para drenagem via alveolar","2019-08-03","2019-08-06","2019-08-06"
+2019,"Rosair da Silva Alves",43,"M","negra","uso de antibióticos por 14 dias","edema e dor em face após tratamento de canal (47)","não","Direito",NA,NA,"abcesso de origem odontogênica",NA,1,"internação + exames laboratoriais + aguardando equipe médica",NA,NA,NA
+2019,"Rubens Dornellas",86,"M","branca","dm e hipertensão","queda da própria altura","sim",NA,"X","fratura de opn","fcc em região supra orbital","X",NA,"orientações para casa",NA,NA,NA
+2019,"Samuel Pugina R. de Azevedo",6,"M","branca","nega","queda de nível","não",NA,"X","fratura de opn com deslocamento",NA,"X",NA,"tratamento conservador + prescrição",NA,NA,NA
+2019,"Sérgio Domingues",50,"M","parda","periodontite generalizada","Agressão física","não","Direito",NA,"periodontite generalizada + mobilidade",NA,NA,1,"internação + exames laboratoriais + aguardando equipe médica","2019-11-08",NA,NA
+2019,"Sérgio Henrique Esperança de Campos",53,"M","branca","alérgico penicilina / plasil, diabético, hipercolesterolerria, stent na artéria ilíaca","dor em dente posterior após tto de canal (47)","não","Direito",NA,NA,"limitação da abertura bucal, abcesso dento-alveolar nos 47 e 48. 17 e 18 comprometidos periodontalmente",NA,1,"extração sob ag dos 47, 48, 17, 18","2019-07-25","2019-07-30",NA
+2019,"Sidinei Giron",59,"M","branca",NA,"Agressão física","não","Esquerdo",NA,"fratura de opn com deslocamento",NA,NA,1,"redução ambulatorial + tamponamento nasal anterior + prescrições","2019-06-20",NA,"2019-06-20"
+2019,"Sidnei Ferreira dos Santos",64,"M","branca",NA,"queda de nível","sim",NA,"X","fratura de parede lateral de órbita (e), edema e euimose periorbitária (d)",NA,"X",NA,"prescrição para casa","2019-08-11",NA,NA
+2019,"Sinésio José Ferreira",59,"M","branca","has (atenolol)","Agressão física","não","Direito",NA,"fratura de ângulo mandibular, limitação de abertura bucal",NA,NA,1,"cirurgia","2019-11-29","2019-11-29","2019-11-29"
+2019,"Thiago Soares",32,"M","branca",NA,"acidente motociclístico","não",NA,"X",NA,"múltiplas avulsões dentárias, fda em todos os terços da face, fcc em frontal, dorso nasal e lábio sup.","X",NA,"aguardando equipe médica","2019-06-21",NA,NA
+2019,"Valdir Soares de Souza",47,"M","branca",NA,"acidente motociclístico com perda de consciência e pistaxe no momento do trauma","não",NA,"X","fratura de opn sem deslocamento","fcc em dorso nasal, fda em glabela","X",NA,"tratamento conservador + prescrição","2019-05-21",NA,NA
+2019,"Valdomiro Silva",NA,"M","negra",NA,"Agressão física","não","Esquerdo",NA,"fratura de czm",NA,NA,1,"cirurgia sob ag","2019-09-21",NA,NA
+2019,"Valter Cezar Borges",62,"M","branca","periodontite crônica","descoberta lesão óssea em achado radiográfico","não","Esquerdo",NA,NA,NA,NA,1,"internação + cirurgia sob ag","2019-10-23",NA,NA
+2019,"Vinicius Pereira Cardoso",20,"M","branca",NA,"Agressão física","sim",NA,"X","fratura de opn",NA,"X",NA,"prescrição para casa","2019-05-31",NA,"2019-05-31"
+2019,"Vitor Lemes Minassion",57,"M","branca","pré-diabético (glicosida)","Agressão física","não",NA,"X","fratura de opn com deslocamento","fcc em dorso de língua","X",NA,"tratamento conservador + prescrição",NA,NA,NA
+2019,"Wanderson Thiago Carvalho",31,"M","branca",NA,"classe ii com excesso vertical de maxila","não",NA,"X",NA,NA,NA,1,"avanço e impacção de maxila, de mandíbula e mento","2019-07-03","2019-07-03","2019-07-05"
+2019,"Welinton Malta da Silva",34,"M","parda",NA,"acidente motociclístico","não",NA,"X","fratura de opn, de parede lateral de órbita e osso parietal (e)","fratura coronária dos 11 e 21","X",NA,"tratamento conservador + orientações","2019-09-28",NA,"2019-09-28"
+2019,"Wesley Fernando Costa Ribeiro",30,"M","branca",NA,"fratura mandibular há +/- 60 dias, refi evoluindo com dor e trismo","não","Esquerdo",NA,"fir em corpo mandibular, rr em mandíbula","foco de infecção intraoral",NA,1,"exo em ambiente hospitalar + prescrição","2019-07-23","2019-07-26",NA
+2019,"Wesley Mateus Lopes",23,"M","negra",NA,"Agressão física","não","Direito",NA,"fratura de ângulo mandibular","foco de infecção intraoral, limitação de abertura bucal",NA,1,"internação + exames laboratoriais + aguardando equipe médica",NA,NA,NA
+2019,"William Gomes",32,"M","branca",NA,"Agressão física","não","Direito",NA,"fratura de parede anterior e medial de seio maxilar",NA,NA,1,"redução + prescrição","2019-11-04",NA,NA
+2019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2020,"Adriana Soares da Silva",37,"F","branca","exo do 18 há 10 dias","dor em mandíbula há 24 hoas","sim",NA,NA,NA,NA,"X",NA,"prescrição para casa",NA,NA,"2020-03-11"
+2020,"Adriele",35,"F","negra","sífilis, gravidez (29 semanas)","cárie","não",NA,"X",NA,"abscesso de origem odontogênica, cárie no dente 38, restos radiculares do 15, 24, 46, 47, 48",NA,1,"exo dos 15, 24, 38, 46, 47, 48",NA,NA,NA
+2020,"Adrielli Cristina Souza",32,"F","negra","29 semanas de gravidez, etilista, tabagista, ex usuária de drogas, sífilis, anorexia, dm tipo i (insulina)","aumento de volume mandibular, 36 e 38 cariados","não","Esquerdo",NA,NA,"trismo",NA,1,"internação + aguardando exames + prescrição",NA,NA,NA
+2020,"Aldenir Bernardino da Silva",37,"F","branca","nega","Agressão física",NA,NA,"X","fratura de opn",NA,NA,NA,NA,NA,NA,NA
+2020,"Alzira F. Andrade Santana",75,"F","branca","has","queda da própria altura","sim","Direito",NA,"fratura de arco zigomático",NA,"X",NA,"prescrição para casa",NA,NA,NA
+2020,"Amanda Stefany Militão dos Santos",20,"F","branca","luxação de atm","luxação de atm","não","Direito",NA,"côndilo mandibular direito fora da cavidade glenóide",NA,NA,NA,"bandagem",NA,"2020-03-11",NA
+2020,"Ana Laura Ferri",30,"F","branca",NA,"pedradas","sim","Esquerdo",NA,NA,"fcc supercílio","X",NA,"prescrição para casa","2020-02-16",NA,"2020-02-16"
+2020,"Andrea Cristina Cordeiro",45,"F","branca","nega","infecção odontogênica (celulite) 36 ou 37","não","Esquerdo",NA,NA,NA,NA,1,"drenagem","2020-03-10","2020-03-14","2020-02-01"
+2020,"Beatriz Fernanda Cruz de Souza",19,"F","branca","nega","Agressão doméstica","sim","Direito",NA,"fratura de opn com desloc.","contusão facial","X",NA,"prescrição para casa + retorno",NA,NA,"2020-04-13"
+2020,"Creusa Rodriguiz Ferraz",72,"F","parda","nega","acidente automobilístico",NA,"Direito",NA,NA,"fcc em região zigomática",NA,NA,NA,NA,NA,NA
+2020,"Edna Neves da Costa",65,"F","parda","has","queda da própria altura","sim","Direito",NA,"fratura de czm sem desloc.",NA,"X",NA,"prescrição para casa",NA,NA,NA
+2020,"Esmeralda Maria da Silva",8,"F","negra",NA,"acidente ciclístico","não",NA,"X","fratura czm (bi) e de parassínfise mandibular (e)","fratura coronária dos 11, 12, 21, 22; avulsão do 31; crepitação mandibular à manipulação",NA,1,"internação + aguardando equipe médica","2020-01-12",NA,NA
+2020,"Guilherme da Silva Alves",24,"F","branca","nega","acidente motociclístico",NA,NA,"X",NA,"sangramento nasal",NA,NA,NA,NA,NA,NA
+2020,"Isaura Antonia Milloca Val",86,"F","branca","nega","queda da própria altura","não","Esquerdo",NA,"fratura de opn  sem desloc.","fcc em mucosa de lábio sup., contusão facial","X",NA,"sutura ambulatorial sob al, com fio reabsorvível + prescrição",NA,NA,NA
+2020,"Isis Leal Teles",4,"F","branca",NA,"queda de nível","sim",NA,"X",NA,"sangramento do sulco gengival 51, 61, 62","X",NA,"prescrição para casa","2020-02-16",NA,"2020-02-16"
+2020,"Jacira Ormundo de Souza",53,"F","negra","nega","acidente motociclístico","não",NA,"X","fratura de arco zigomático (d)","fcc em região supraciliar, afundamento em região malar (bi), contusão facial","X",NA,"necessidade de redução cirúrgica, porém paciente se negou. orientação para casa",NA,NA,NA
+2020,"Lara C. Soler Soares",19,"F","parda",NA,"atropelamento","sim","Esquerdo",NA,"fratura de arco zigomático, czm","limitação de abertura bucal","X",NA,"prescrição para casa",NA,NA,NA
+2020,"Laurinda Medina Pereira",83,"F","branca","histórico de quimioterapia, uso de ezetimiba, hemifumarato de quetiapine, cloridrato de donepezila, amotriptilina, famotidina, alendronate;","osteonecrose prévia em mandíbular, atualmente com fístula e secreção","não",NA,"X","osteonecrose mandibular com possíveis sequestros ósseos sem exposição",NA,NA,1,"cirurgia sob ag para curetagem e debridamento da região infectada","2020-02-27","2020-02-29",NA
+2020,"Lorena Emanuele da Silva Lopes",4,"F","branca","nega","atropelamento","sim",NA,"X","fratura opn",NA,NA,1,"acompanhamento + prescrição",NA,NA,NA
+2020,"Maria Adelia Pontes",56,"F","branca",NA,"queda da própria altura","não",NA,"X","fratura de opn","fcc em região frontal com exposição óssea, fcc em nariz d e em lábio inf., fda em mento e fratura do dente 35","X",NA,"sutura + prescrição","2020-04-06",NA,NA
+2020,"Maria Setsuko Nakamura",64,"F","amarela",NA,"acidente ciclístico","sim",NA,"X","fratura de opn","avulsão do 11, mobilidade do 12, 21, 22","X",NA,"tratamento conservador + reimplante do 11 + contenção","2020-02-13","2020-02-13",NA
+2020,"Nicole Rodrigues Cruz",16,"F","parda",NA,"acidente desportivo","sim",NA,"X","fratura de opn",NA,"X",NA,"prescrição para casa","2020-03-02",NA,"2020-03-09"
+2020,"Nilza da Silva Ribeiro",54,"F","branca",NA,"Agressão física","não","Esquerdo",NA,NA,"fcc em pálpebra inf. e contusão facial","X",NA,"sutura + orientação",NA,NA,NA
+2020,"Rute Coelho Saraiva",65,"F","branca",NA,"início de tto endodôntico evoluindo para abscesso","sim","Direito",NA,NA,"abscesso periapical",NA,1,"encaminhado a tto endodôntico de urgência",NA,NA,NA
+2020,"Sara Dona Fernandes",2,"F","negra","nega","acidente ciclístico","não","Direito",NA,"fratura em bloco dos dentes 51 e 52",NA,NA,1,"cirurgia sob ag para reposicionamento do bloco e contenção","2020-02-27","2020-02-28",NA
+2020,"Silvanete Luiz Joaquim",41,"F","parda","nega","acidente motociclístico","não",NA,"X","fratura de parede anterior e posterior de seio frontal, teto e parede de órbita (e), opn, etmoide, czmo (e), maxila (le fort i), parassagital de maxila (e) e parede lateral de seio maxilar (d) e (e)",NA,NA,1,"internação + refi le fort i + czmo sob ag + prescrição","2020-01-27","2020-01-30","2020-02-01"
+2020,"Talita Fujikura",26,"F","branca",NA,"paciente classe ii","não",NA,"X",NA,NA,NA,1,"cirurgia ortognática",NA,"2020-01-10",NA
+2020,"Thaise Christine da Silva",32,"F","negra",NA,"atropelamento","não",NA,"X","fratura de parassínfise mandibular (e) e de côndilo (d)","limitação de abertura bucal",NA,1,"osteossíntese de parassínfise + prescrição + elasticoterapia","2020-02-28","2020-03-05",NA
+2020,"Vera Lucia Duarte",57,"F","negra","nega","trauma contra objeto (caixa)","sim","Esquerdo",NA,NA,"contusão facial",NA,1,"prescrição para casa",NA,NA,NA
+2020,"Yasmin Reis Alves de Oliveira",8,"F",NA,NA,"queda da própria altura","não",NA,"X","fratura de opn com leve desloc.",NA,"X",NA,"tratamento conservador + prescrição","2020-01-31",NA,"2020-02-10"
+2020,"Yasmin Santarelli Saores",8,"F","branca","nega","queda de nível","não","Direito",NA,"fratura de bloco dentoalveolar mandibular (41 e 42), fratura coronária do 84",NA,NA,1,"cirurgia + prescrição","2020-03-14","2020-03-14","2020-03-16"
+2020,"Yasuko Gondo Yakomizo",90,"F","amarela","hipercolesterolemia","queda da própria altura","sim",NA,"X",NA,"contusão facial","X",NA,"prescrição para casa","2020-01-29",NA,NA
+2020,NA,10,"M","branca","nega","acidente desportivo",NA,NA,"X",NA,"abrasão em face",NA,NA,NA,NA,NA,NA
+2020,NA,16,"M","parda","politraumatizado (tce, sedação, iot)","acidente motociclístico","não","Direito",NA,"fratura de arco zigomático, parede lateral e teto de órbita e base do crânio",NA,NA,1,NA,NA,NA,NA
+2020,"Adailton Martins Trugilo",28,"M","negra",NA,"acidente ciclístico","não",NA,"X","fratura czm","contusão facial",NA,1,"redução e osteossíntese de fraturas czm + prescrições","2020-01-04","2020-01-07","2020-01-13"
+2020,"Ademir Aparecido Marchioli",67,"M",NA,"avc há 6 anos, has, dm, uso de anticoagulantes","cárie","não","Esquerdo",NA,NA,"cárie no 38 em paciente imunossuprimido",NA,1,"exo do 38",NA,NA,NA
+2020,"Alex de Oliveira Marculino",23,"M","branca",NA,"acidente motociclístico","sim",NA,"X","trauma dentoalveolar (subluxação)",NA,"X",NA,"prescrição para casa + encaminhamento para acomp. do tda","2020-02-02",NA,"2020-02-02"
+2020,"Armando Pereira da Silva",64,"M","branca","ppr sup. e inf.","queda da própria altura","sim","Direito",NA,NA,"contusão facial","X",NA,"prescrição para casa","2020-02-11",NA,"2020-02-11"
+2020,"Carlos Fiorilli",56,"M","branca","etilista, tabagista","Agressão física","não",NA,"X","fratura de bordo dento-alveolar, creptação em região de sínfise mandibular","mordida aberta anterior, limitação da abertura bucal",NA,1,"internação + cirurgia sob ag (sínfise e côndilo)","2020-04-06","2020-04-08",NA
+2020,"Carlos Roberto Ribeiro",59,"M","branca",NA,"acidente motociclístico","não","Direito",NA,"fratura de arco zigomático (d)",NA,"X",NA,"tratamento conservador de fratura + prescrição","2020-03-07",NA,"2020-03-16"
+2020,"Cesar Serafim",38,"M","negra","tabagista, usuário de cocaína","Agressão física","não",NA,"x","limitação da abertura bucal, crepitação óssea mandibular, linha média mandibular desviada",NA,NA,1,"internação + osteossíntese de mandíbula sobr ag + prescrição","2020-02-10","2020-02-10",NA
+2020,"Clenilson dos Santos",36,"M",NA,"etilista","acidente ciclístico","não","Direito",NA,"fratura de parede anterior e posterior de seio maxilar (d)",NA,"X",NA,"tratamento conservador","2020-02-14","2020-02-14","2020-02-14"
+2020,"Daniel Bozzi",20,"M","branca",NA,"acidente desportivo","não",NA,"X","fratura de opn  sem desloc.",NA,NA,1,"redução de opn","2020-04-10",NA,NA
+2020,"Daniel Vieira dos Santos",76,"M","branca",NA,"queda de nível","não","Esquerdo",NA,"fratura incompleta de mandíbular e tda 22","fcc em lábio inf.","X",NA,"tratamento conservador de fratura + prescrição","2020-03-02",NA,NA
+2020,"Davi de Melo Rayes",6,"M","branca","nega","ferimento por arma de fogo","não","Direito",NA,"fratura em bloco dos dentes 51 e 52","fcc em região malar (d)",NA,1,"cirurgia sob ag para reposicionamento do bloco e contenção","2020-02-28","2020-02-29",NA
+2020,"Davi Lucas Pacceli Correa",5,"M","branca",NA,"acidente motociclístico","sim","Direito",NA,NA,"avulsões dentárias","X",NA,"prescrição para casa + encaminhamento pediatria","2020-01-10",NA,"2020-01-10"
+2020,"David Willian de Oliveira Leite",22,"M","branca","nega","acidente automobilístico","sim","Direito",NA,NA,"edema e equimose periorbital (d)","X",NA,"prescrição para casa","2020-03-09",NA,"2020-03-09"
+2020,"Douglas Roberto de Moura",44,"M","branca","nega","acidente contra objeto","sim","Esquerdo",NA,"fratura de opn","via aérea (e) parcialmente obstruída, epistaxe","X",NA,"prescrição para casa","2020-03-11",NA,"2020-03-16"
+2020,"Edison Rodrigues Barbosa",46,"M","branca",NA,"mordedura em nariz","não",NA,"X","fratura de opn com desloc.","fcc em dorso nasal",NA,1,"necessidade de redução ambulatorial, porém paciente se negou. prescrição para casa","2020-01-09",NA,"2020-01-09"
+2020,"Edson Loquete",45,"M","branca","etilista","acidente ciclístico","não","Direito",NA,"fratura de opn sem desloc.","fcc orelha e lábio sup.","X",NA,"sutura + prescrição","2020-04-11",NA,"2020-04-11"
+2020,"Edvaldo Carvalho Lopes",26,"M","parda","nega","atropelamento","não","Direito",NA,"fratura de arco zigomático","limitação de abertura bucal",NA,1,"cirurgia sob ag para redução","2020-02-25","2020-02-27",NA
+2020,"Fabricio da Silva Martins",23,"M","negra",NA,"Agressão física","não",NA,"X","fratura de opn, parede anterior e posterior do seio maxilar e",NA,"X",NA,"prescrição para casa","2020-02-10",NA,NA
+2020,"Fernando Morilla",50,"M","branca","37 com abertura coronária","aumento de vol. submandibular","não",NA,"X",NA,"edema em região submandibular",NA,1,"internação + drenagem extra-oral + instalação de dreno","2020-04-05","2020-04-08",NA
+2020,"Filipe Henrique Pierro Alves",30,"M","parda",NA,"acidente desportivo","sim",NA,"X","fratura de opn",NA,"X",NA,"prescrição para casa","2020-03-02",NA,"2020-03-02"
+2020,"Francisco Emanuel Vieira de Souza",19,"M","negra","usuário de drogas ilícitas","Agressão física","não","Esquerdo",NA,"fratura de opn",NA,"X",NA,"redução a nível ambulatorial, sob al + instalação de tampão nasal anterior + prescrição",NA,NA,"2020-03-23"
+2020,"Frederico T. Fernandes",6,"M","branca",NA,"acidente ciclístico","não",NA,"X","fratura nasal",NA,"X",NA,"tratamento conservador",NA,NA,NA
+2020,"Gilberto da Silva Danta",20,"M","negra","nega","acidente motociclístico","sim",NA,"X","fratura de opn","fcc em região supraciliar (d)","X",NA,"orientação + retorno",NA,NA,NA
+2020,"Gislane Caetano",32,"M","parda",NA,"Agressão física","não",NA,"X","fratura de czo e",NA,NA,1,"internação + acompanhamento","2020-04-10",NA,NA
+2020,"Guilherme Freire Ferreira",NA,"M","branca",NA,"paciente classe iii","não",NA,"X",NA,NA,NA,1,"cirurgia ortognática",NA,"2020-01-08",NA
+2020,"Henrique Agostinho da Silva",29,"M","branca","nega","Agressão física","não","Esquerdo",NA,"fratura de parede anterior de seio maxilar (e)","edema e equimose periorbital (e)","X",NA,"prescrição para casa","2020-03-15",NA,"2020-03-15"
+2020,"Jair Defende",53,"M","branca",NA,"queda da própria altura","sim","Esquerdo",NA,"fratura assoalho oral e",NA,"X",NA,"prescrição para casa","2020-04-06",NA,NA
+2020,"Jaresmar Alves de Souza",63,"M","negra",NA,"acidente ciclístico","sim","Esquerdo",NA,"fratura de parede anterior e posterior frontal, fratura czo e de arco zigomático",NA,"X",NA,"orientações para casa","2020-01-10",NA,"2020-01-10"
+2020,"Jean Cecílio de Oliveira",30,"M","branca","nega","ferimento por arma de fogo","não",NA,"X","fratura em mento transversal",NA,NA,1,"cirurgia sob ag para osteossíntese de corpo mandibular (e) com placas e parafusos do sistema 2.0","2020-02-19","2020-02-27",NA
+2020,"Jefferson Antonio Ferreira",24,"M","parda","histórico de múltiplos baleamentos (1 em face)","ferimento por arma de fogo","não",NA,"X","fratura czm (d) e condilo (e)","fpc em região pré auricular (e)",NA,1,"internação + tratamento conservador de condilo + aguardando equipe médica",NA,NA,NA
+2020,"João Carlos Marques",51,"M","branca",NA,"acidente desportivo","não",NA,"X","fratura de opn com desloc.","rinoescoliose (d)","X",NA,"redução de fratura + tamponamento nasal anterior + prescição","2020-03-08",NA,"2020-03-10"
+2020,"Joaquim Francelino",90,"M","branca","hipertenso (losartana)","queda da própria altura","não",NA,"X","fratura de opn",NA,"X",NA,"prescrição para casa","2020-03-10",NA,"2020-03-10"
+2020,"Jose Antonio de Araújo",29,"M","negra",NA,"ferimento por arma de fogo","não","Direito",NA,"fratura de etmoide, projétil de arma de fogo alojado próximo ao processo cornóide, estilhaços no seio maxilar e crânio",NA,NA,1,"internação + aguardando equipe médica","2020-01-31",NA,NA
+2020,"Jose Augusto Rodrigues",34,"M","branca",NA,"acidente de trabalho","não",NA,"X","fratura de osso frontal",NA,NA,1,"internação + acompanhamento",NA,NA,NA
+2020,"José Carlos Alves",49,"M","negra",NA,"acidente ciclístico","não","Direito",NA,"fratura de parede lateral de órbita",NA,"X",NA,"tratamento conservador + prescrição","2020-02-13","2020-02-13","2020-02-13"
+2020,"Jose Felix de Souza",68,"M","branca",NA,"inchaço em região submandibular com início de fístula","não","Direito",NA,NA,"edema eritematoso em região cervical e toráxica, bordas necróticas",NA,1,"encaminhado a cabeça e pescoço","2020-04-05",NA,NA
+2020,"José Mathes Teodoro",2,"M","branca",NA,"queda da própria altura","sim",NA,"X",NA,"avulsão do 61, tda","X",NA,"orientações para casa",NA,NA,NA
+2020,"Junior Oliveira Nascimento",34,"M","negra",NA,"acidente ciclístico","não","Direito",NA,"fratura de czo (d)",NA,"X",NA,"tratamento conservador + prescrição","2020-02-13","2020-02-13",NA
+2020,"Lidio Dias Fernandes",62,"M","negra",NA,"Acidente com animal","não","Esquerdo",NA,NA,"infecção de material de osteossíntese",NA,1,"internação + remoção de material de osteossíntese infectado + prescrição",NA,"2020-03-05",NA
+2020,"Lucas Henrique Dorte de Oliveira",6,"M","branca","convulsão, tqt, sne","broncoaspiração?","não","Direito",NA,NA,"discreta mobilidade no 82","X",NA,"manutenção do elemento dental",NA,NA,"2020-03-14"
+2020,"Marcelo Donizeti da Silva",43,"M","parda",NA,"Agressão física","não","Esquerdo",NA,"fratura de frontal com pouco deslocamento","fcc em região frontal","X",NA,"tratamento conservador + encaminhamento à oftalmologia",NA,NA,NA
+2020,"Mateus da Silva Santos",21,"M","negra","nega","Agressão física",NA,"Direito",NA,"fratura de opn",NA,NA,NA,NA,NA,NA,NA
+2020,"Miguel Victor Crisssafolli de Campos",36,"M","branca","nega","queda de nível","sim","Direito",NA,NA,"contusão facial e fcc em lábio sup.","X",NA,"prescrição para casa",NA,NA,NA
+2020,"Misael Junior da Silva",21,"M","branca","nega","Acidente com animal","sim","Direito",NA,NA,NA,"X",NA,"prescrição para casa","2020-03-08",NA,"2020-03-16"
+2020,"Nelson Silveira",78,"M","branca","tto rematológico, uso de ibandronato de sódio","queda da própria altura","não","Esquerdo",NA,"fratura cominutiva de corpo mandibular (e)","contusão facial",NA,1,"cirurgia sob ag para osteossíntese de corpo mandibular (e) com placas e parafusos do sistema 2.0","2020-02-19","2020-02-26",NA
+2020,"Nicolas Assis Atilio",8,"M","parda","alérgico a loratadine","abscesso de origem odontogênica","não","Esquerdo",NA,NA,"abscesso de origem odontogênica, limitação de abertura bucal","X",NA,"internação + acompanhamento","2020-01-28",NA,NA
+2020,"Orlando Jose de Andrade Filho",NA,"M","branca","nega","atropelamento","sim","Direito",NA,"fratura de parede anterior e lateral de seio maxilar(d), contusão facial",NA,"X",NA,"prescrição para casa","2020-03-09",NA,"2020-03-09"
+2020,"Pablo Chaves de Melo",24,"M","parda",NA,"acidente motociclístico","não",NA,"X","fratura de opn, deformidade dentofacial por sequela","perda de projeção de zigomático",NA,1,"cirurgia em mandíbular e maxila + prescrições","2019-07-28","2020-03-02",NA
+2020,"Paulo Ricardo Grijota",21,"M","branca",NA,"acidente motociclístico","não",NA,"X","fratura de opn com desloc.","múltiplas fda em face, fcc em dorso nasal e em lábio inf., rinoescoliose (d), fratura coronária do 12","X",NA,"redução de fratura + tamponamento nasal anterior + prescição","2020-03-07",NA,"2020-03-09"
+2020,"Pedro Ferreira Hilario",5,"M","branca",NA,"trauma contra objeto pontiagudo","sim","Esquerdo",NA,NA,"ferimento lacero-contuso em mucosa jugal","X",NA,"prescrição para casa","2020-01-31",NA,"2020-01-31"
+2020,"Rafael Petrarolli Mariano",28,"M","branca",NA,"queda de nível","não",NA,"X","fratura nasal",NA,"X",NA,"redução + tna + prescrição + remoção de tna","2020-01-18",NA,"2020-01-31"
+2020,"Renan Tenorio da Silva",24,"M","branca",NA,"Agressão física","não","Direito",NA,"fratura de arco zigomático (d)",NA,"X",NA,"redução de fratura + prescrição","2020-03-07",NA,"2020-03-07"
+2020,"Rerilton Firmino dos Santos",51,"M","negra","nega","Agressão física",NA,NA,"X","fratura de opn",NA,NA,NA,NA,NA,NA,NA
+2020,"RN de Andressa Almeida Machado",0,"M","branca",NA,"encaminhamento devido à lesão em assoalho bucal","sim","Direito",NA,NA,"cisto do ducto sublingual","X",NA,"encaminhado a odontopediatria","2020-01-30",NA,"2020-01-30"
+2020,"Rodrigo Soares Mada",42,"M","parda",NA,"Agressão física","não",NA,"X","fratura de opn",NA,"X",NA,"redução + prescrição",NA,NA,NA
+2020,"Santos Moacyr Braga",72,"M","branca",NA,"queda de nível","não",NA,"X","fratura de opn",NA,"X",NA,"tratamento conservador + prescrição","2020-03-07",NA,"2020-03-16"
+2020,"Sergio Costa da Silva",25,"M","branca",NA,"acidente motociclístico","sim",NA,"X",NA,"fcc em lábio e fundo de formix mandibular","X",NA,"orientações para casa","2020-01-12",NA,"2020-01-12"
+2020,"Thiago Felipe Mesquita Borges",25,"M","branca",NA,"acidente motociclístico","não",NA,"X","fratura de opn","rinoescoliose, crepitação óssea à manipulação","X",NA,"redução de opn + prescrição","2020-03-05",NA,"2020-03-09"
+2020,"Thiago Henrique da Silva",27,"M","branca",NA,"Agressão física","não",NA,"X","fratura de sínfise mandibular (d)","limitação de abertura bucal",NA,1,"internação + refi fratura de sínfise + prescrição","2020-01-28","2020-01-31","2020-02-01"
+2020,"Vitor Emanuel Alves Gomes",4,"M","branca","medicação para controle de metástase","ganglioneuroblastoma","não",NA,"X",NA,"dente 36 rachado pelo tumor, com secreção purulenta do sulco vestibular",NA,1,"internação + aguardando equipe médica","2019-12-01","2020-03-05",NA
+2020,"Weverton Jr. S. A. Lima",28,"M","branca",NA,"acidente ciclístico","não",NA,"X",NA,"fcc em lábio inf.","X",NA,"tratamento conservador + encaminhamento à ccp",NA,NA,NA
+2021,"Abel Aparecido Santos",37,"F","parda",NA,"Agressão física",NA,NA,NA,"mandibular",NA,NA,1,NA,NA,"2021-01-07",NA
+2021,"Adriele Alves da Silva",26,"F","branca",NA,"paciente não se recorda do que aconteceu pois estava alcoolizada",NA,NA,NA,NA,"contusão facial","X",NA,NA,"2021-02-07",NA,NA
+2021,"Adrielle Larissa Chaves",21,"F","branca",NA,"acidente motociclístico",NA,NA,NA,NA,"contusão facial","X",NA,NA,"2021-02-07",NA,NA
+2021,"Alessandra de Paula Castro",23,"F","branca",NA,"qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2020-05-03",NA,NA
+2021,"Alia Mohamed Hussein Kassen",67,"F","branca","dm","uti",NA,NA,NA,"não",NA,NA,NA,NA,"2020-06-16",NA,NA
+2021,"Alice Moreira Zucon",82,"F","branca","história de 10 anos de uso de alendronato de sódio (semanalmente). está a 2 anos tomando ibandronato de sódio (1 cp / mês). has e hipercolesterolemia","dor, edema e infecção em região submandibular esquerda",NA,NA,NA,"osteonecrose por bifosfonato","osteonecrose associada a medicamentos antirreabsorvitivos","X",NA,NA,"2020-11-05",NA,NA
+2021,"Aline Aparecida Camara Vieira",32,"F","branca",NA,"Agressão física",NA,NA,NA,"opn","não",NA,1,"redução de opn","2020-09-29",NA,NA
+2021,"Aline Nogueira Barbosa",31,"F","parda",NA,"acidente motociclístico",NA,"direito",NA,"parede anterior do seio maxilar (d)",NA,"X",NA,NA,"2021-03-02",NA,NA
+2021,"ALZENI MARIA DOS SANTOS CONDE",47,"F","branca",NA,"desconforto gástrico e disfagia",NA,NA,NA,NA,"reação à medicamentos","X",NA,NA,"2021-02-21",NA,NA
+2021,"Amanda Caroline Passos de Jesus",18,"F","branca",NA,"acidente motociclístico",NA,NA,NA,"trauma dentoalveolar",NA,NA,NA,NA,"2020-05-09",NA,NA
+2021,"Amanda Pereira Santos",8,"F","parda",NA,"mordedura canina",NA,NA,NA,"fcc em lábio superior",NA,"X",NA,NA,"2021-03-05",NA,NA
+2021,"Amanda Tanaka Iasbeck Gonçalves",21,"F",NA,NA,"acidente ciclístico",NA,"direito",NA,"czmo (d) e fratura nasal",NA,"X",NA,NA,"2020-07-05",NA,NA
+2021,"America Don Pedro Cunha Silveira",54,"F","branca",NA,"queda de nível",NA,"Direita",NA,"órbita direita","olho roxo direito e equimose esquerda","x",NA,NA,"2020-09-02",NA,NA
+2021,"Ana Bini Vitor",NA,"F","branca",NA,"qpa",NA,"Esquerda",NA,"assoalho de órbita esquerda.",NA,"X",NA,NA,"2020-08-14",NA,NA
+2021,"Ana Carolina Ferreira Domiciano",13,"F","parda",NA,"aumento de volume em face do lado esquerdo",NA,NA,NA,NA,"abcesso odontogênico",NA,1,NA,"2021-01-07","2021-01-08",NA
+2021,"Ana Carolina Souza da Silva",23,"F","branca",NA,"acidente motociclistico",NA,"Direita",NA,"frat. incompleta de corpo direito",NA,"x",NA,NA,"2021-01-22",NA,NA
+2021,"Ana Casimiro Doimo",68,"F","branca",NA,"qpa",NA,NA,NA,"opn",NA,"x",NA,NA,"2020-05-04",NA,NA
+2021,"ANA LAURA SEVERINO GANECO",8,"F","parda","sindrome de down","acidente ciclístico",NA,NA,NA,"não","malar direita","x",NA,NA,"2021-02-09",NA,NA
+2021,"Ana Maria de Oliveira Azevedo",59,"F","branca",NA,"dente 38 incluso, em região de base de mandíbula, associado a lesão cística e queixas álgicas",NA,NA,NA,NA,"dente 38 incluso, em região de base de mandíbula, associado a lesão cística próximo ao nervo alveolar inferior","X",NA,NA,"2020-06-08",NA,"2020-06-09"
+2021,"Andrea Lucia Salomao",37,"F","branca",NA,"acidente motociclístico",NA,NA,NA,"opn sem deslocamento",NA,"X",NA,NA,"2020-07-09",NA,NA
+2021,"Ane Caroline de Oliveira Ribeiro",26,"F","negra",NA,"Agressão física",NA,NA,NA,"opn",NA,NA,NA,NA,"2020-05-02",NA,NA
+2021,"Anna Julia Souza Parente",5,"F","branca",NA,"qpa",NA,"Esq.",NA,"não",NA,NA,NA,NA,"2020-04-27",NA,NA
+2021,"Aparecida de Oliveira Alves Vicente",57,"F","branca","hipertensão, dm","qpa",NA,NA,NA,"opn",NA,"X",NA,NA,NA,NA,NA
+2021,"Aparecida dos Reis Medeiros",62,"F","branca",NA,"qpa",NA,NA,NA,NA,"contusão facial","X",NA,NA,"2021-02-04",NA,NA
+2021,"Aparecida Severino Barros",60,"F","branca",NA,"acidente motociclistico",NA,NA,NA,"zgm esq. e arco esq. sm bilat.",NA,"x",NA,NA,"2020-05-03",NA,NA
+2021,"Aurea Aparecida Balbino Assunção",48,"F","branca","nega","acidente motociclístico",NA,NA,"X","sínfise e côndilo bilateral",NA,NA,NA,NA,"2021-01-31",NA,NA
+2021,"Aurea Aparecida Balbino Assunção",48,"F","branca","hipotireoidismo. faz uso de puran t4.","acidente motociclístico",NA,NA,"X","mandibular (condilo bilateral e sinfise mandibular)",NA,NA,1,NA,"2021-01-31","2021-02-01",NA
+2021,"Beatriz de Godoi Ferreira Siqueira",30,"F","branca","nega","acidente automobilistico",NA,NA,NA,"não",NA,NA,NA,NA,"2020-06-21",NA,NA
+2021,"BENEDITA MASSARO FABRIS",76,"F","branca",NA,"luxação de atm",NA,NA,NA,NA,NA,"X",NA,NA,"2021-03-20",NA,NA
+2021,"Benedita Rosa Pantaroto",NA,"F","branca","has, pré-diabetes e osteoporose. faz uso de losartana e outras medicações (não se recorda dos nomes).","qpa",NA,NA,NA,"parede anterior de seio maxilar e rebordo infraorbitário, sem deslocamento",NA,"X",NA,NA,"2020-07-09",NA,NA
+2021,"Bianca Aparecida Mazarin",33,"F","branca",NA,"acidente ciclistico",NA,NA,NA,"opn",NA,NA,NA,NA,"2020-12-26",NA,NA
+2021,"Carmelita Rodrigues Ramos",50,"F","branca",NA,"acidente ciclístico",NA,"Esquerda",NA,"supra-orbita",NA,"X",NA,NA,"2021-04-04",NA,NA
+2021,"Cintia Gonçalves Marinho",42,"F","parda",NA,"acidente motociclístico",NA,NA,NA,NA,"fratura coronária do elemento 21 com exposição pulpar e 22 com exposição dentinária","X",NA,NA,"2020-04-21",NA,NA
+2021,"Cleonice Gomes Januário",70,"F","negra","alzheimer","acidente ciclistico",NA,NA,NA,"não",NA,NA,NA,NA,"2020-08-28",NA,NA
+2021,"Cleonice Gonçalves Dias Parra",65,"F","branca",NA,"qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2020-07-07",NA,NA
+2021,"Cristiane Tozati",38,"F","branca",NA,"acidente motociclístico",NA,"ESQ",NA,"czm esq.",NA,"x",NA,NA,"2020-08-10",NA,NA
+2021,"Dalva Terenciano",72,"F","branca","hipertensa e osteoporotica","qpa",NA,NA,NA,"opn",NA,"X",NA,NA,"2020-11-22",NA,NA
+2021,"DAYANE RIBEIRO DE ALMEIDA MARINHO",28,"F","parda",NA,"Agressão física",NA,NA,NA,"nasal",NA,"X",NA,NA,"2021-02-15",NA,NA
+2021,"Debora Cristina Bispo Cazerta",52,"F","branca",NA,"acidente ciclistico",NA,NA,NA,"opn",NA,"x",NA,NA,"2021-01-23",NA,NA
+2021,"Dejanira",76,"F","branca","ca de reto","radioterapia",NA,NA,NA,"ulceras",NA,NA,NA,NA,"2021-02-22",NA,NA
+2021,"Delfina Melhado Pinto",93,"F","branca","alzheimer e hipotiroidismo","qpa",NA,"Esquerda",NA,"opn e sm esquerda",NA,"X",NA,NA,"2021-04-01",NA,NA
+2021,"Deli Gonçalves de Queiroz Alves",65,"F","branca","epilepsia, convulsão","qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2020-08-26",NA,NA
+2021,"Dinazalda Moreno Barbosa",40,"F",NA,NA,"acidente motociclístico",NA,NA,NA,"não",NA,NA,NA,NA,"2020-05-19",NA,NA
+2021,"Diomar Escardoveli Bougo",75,"F","branca","medicamentos em uso: donaren, puran, betaistina, sertralina","qpa",NA,"direito",NA,"czm (d)",NA,"X",NA,NA,"2020-11-10",NA,NA
+2021,"Dirce Brandão Figueiredo",77,"F","branca","has, refluxo,hernia de hiato","parotidite",NA,NA,NA,"não",NA,NA,NA,NA,"2020-06-16",NA,NA
+2021,"Edilene Venancio",46,"F","branca",NA,"cárie",NA,NA,NA,"não",NA,NA,NA,NA,"2020-09-13",NA,NA
+2021,"Edna Maria Cessel Mutti",55,"F","branca",NA,"qpa",NA,NA,NA,"opn",NA,"X",NA,NA,"2020-11-22",NA,NA
+2021,"Eduardo Cristina Mateus",28,"F","branca","crack e maconha","Agressão física",NA,NA,"X","parassínfise d e côndilo e",NA,NA,1,"cx","2021-01-27","2021-01-29","2021-01-30"
+2021,"Edy Maria Barboza",84,"F","negra","parkinson e hipertensão","qpa",NA,"Esquerdo",NA,"czo esq.",NA,"X",NA,NA,"2021-03-12",NA,NA
+2021,"EMANUELY SILVA CELESTINO",1,"F","branca",NA,"mordedura canina",NA,"direito",NA,"fcc em região malar, pré e retroauricular e submandibular (d)",NA,"X",NA,NA,"2020-07-09",NA,NA
+2021,"Emily Oliveira da Silva",20,"F","branca","nega","acidente motociclístico",NA,"Esquerdo",NA,"arco esq; parassínfise esq.",NA,NA,NA,NA,"2020-08-04","2020-08-07","2020-08-08"
+2021,"Eunice Ottoni Montanaro",97,"F","branca","tremor essencial e dislipidemia. faz uso de prolopa, prinidon e sinvastatina.","qpa",NA,"direito",NA,"czmo (d) com envolvimento de arco zigomático (d) com leve deslocamento",NA,"X",NA,NA,"2020-07-07",NA,NA
+2021,"Firmina Martins Cerqueira Neto",68,"F",NA,NA,"qpa",NA,"Esquerdo",NA,"parede lat. de órbita","fronto-zgm esq.","X",NA,NA,"2020-05-11",NA,NA
+2021,"Francisca Aparecida de Araujo",57,"F","parda",NA,"luxação de atm",NA,NA,NA,"não","redução",NA,NA,NA,"2020-12-21",NA,NA
+2021,"Gabriela Evangelista Diniz",8,"F","branca",NA,"queda de bicicleta",NA,NA,NA,NA,"traumatismo dentoalveolar","X",NA,NA,"2020-07-04",NA,NA
+2021,"Gabrielly dias Dos Santos",16,"F","branca","nega","luxação de atm",NA,NA,NA,"não",NA,"X",NA,NA,"2020-06-27",NA,NA
+2021,"Gilda Alves",56,"F","negra",NA,"queda de escada",NA,"esquerdo",NA,"arco zigomático e sem deslocamento significativo","escoriação peri-orbita","X",NA,NA,"2020-11-08",NA,NA
+2021,"Giovana Maria Sales Godoi",23,"F","branca","nega","Agressão física",NA,NA,NA,"não","edema e equimose bilat; oclusão palpebral,",NA,NA,NA,"2021-01-11",NA,NA
+2021,"Giovanna Rondolfo Correa Lourenço",5,"F","branca","nega","mordedura canina",NA,NA,NA,"não","laceração em lábio inferior",NA,NA,"sutura",NA,NA,NA
+2021,"Gislene Caetano Ataide",27,"F","branca",NA,"Agressão física",NA,"esquerdo",NA,"czo esquerdo pouco deslocada",NA,"X",NA,NA,"2020-04-13",NA,NA
+2021,"GIULIA REBECA DE BRITO BIZERRA",4,"F","branca",NA,"dor dentária",NA,NA,NA,NA,"celulite facial",NA,1,NA,NA,"2021-02-16",NA
+2021,"Guiomar Campos de Freitas",56,"F","branca",NA,"acidente motociclístico",NA,NA,NA,"mandibular",NA,NA,1,NA,"2021-01-05","2021-01-06",NA
+2021,"Hifumi Shiota",76,"F","branca","alzheimer, depressão, pneumonia","pneumonia- intubado",NA,NA,NA,"não",NA,NA,NA,NA,"2020-06-16",NA,NA
+2021,"Hilda Casagrande da Silva",75,"F","branca","cancer","qpa",NA,NA,NA,"opn",NA,"x",NA,NA,"2020-08-29",NA,NA
+2021,"Hilda Martins",62,"F","branca",NA,"Acidente doméstico",NA,NA,NA,NA,"contusão facial","X",NA,NA,"2020-10-05",NA,NA
+2021,"Hissae Yamada Utida",74,"F","branca",NA,"queda da cama",NA,NA,NA,"opn com mínimo deslocamento e fratura de arco zigomático",NA,"X",NA,NA,"2020-10-10",NA,NA
+2021,"Irani Luz da Silva",58,"F","parda",NA,"qpa",NA,NA,NA,"não","equimose peri orbitária",NA,NA,NA,"2021-03-08",NA,NA
+2021,"Irene Jordão Bevilacqua",98,"F","branca",NA,"qpa",NA,"Esq",NA,"arco esq",NA,"x",NA,NA,"2020-12-19",NA,NA
+2021,"Isaltina de Lima Babolin",82,"F","parda","cardiopata, hipertensa e pré-dm, colesterol","queda de nível",NA,NA,NA,"não","hematoma em supra-orbita","X",NA,NA,"2021-04-01",NA,NA
+2021,"Ivanier Rosa dos Santos",68,"F","branca","hipotiroidismo. faz uso de puran t4","qpa",NA,NA,"X","região lingual de corpo mandibular (e) e fratura de côndilo alta (d)",NA,"X",NA,NA,"2020-07-11",NA,NA
+2021,"Izair do Carmo",66,"F","parda",NA,"qpa",NA,"direito",NA,"contusão facial + fratura de parede medial de órbita direita",NA,"X",NA,NA,"2020-05-29",NA,NA
+2021,"Jandira Honorio de Souza Silva",60,"F","parda","nega","qpa",NA,NA,NA,"corpo bilateral - atrófica",NA,NA,1,NA,"2020-08-04",NA,NA
+2021,"Jennifer Jaqueline Carla Santos Lemes",23,"F","branca",NA,"Agressão física",NA,NA,NA,"opn","laceração nasal",NA,NA,NA,"2020-07-26",NA,NA
+2021,"Josefa pessoa Rodrigues",75,"F","branca","hipertensão, dm, alzheimer","queda de nível",NA,NA,NA,"não","equimose",NA,NA,NA,"2021-02-09",NA,NA
+2021,"Josefina Martins de Carvalho",62,"F","negra","nega","qpa (suspeito)",NA,NA,NA,"czo direito; coronóide esquerdo.","terço médio","X",NA,NA,"2020-06-23",NA,NA
+2021,"Juliana Correia de Oliveira",40,"F","branca",NA,"acidente motociclístico","não",NA,NA,"opn",NA,"x",NA,NA,"2020-05-04",NA,NA
+2021,"Juliana Daniela Frameschi Martho",37,"F","branca",NA,"acidente motociclistico",NA,NA,"x","czo e, maxila d",NA,NA,NA,NA,NA,NA,NA
+2021,"Juliana de Oliveira",25,"F","parda","grávida de 11 semanas","Agressão física",NA,NA,NA,NA,"escoriações em dorso nasal. edema em terço inferior da face do lado direito","X",NA,NA,"2020-07-04",NA,NA
+2021,"Juraci Maria de Jesus",74,"F","parda","has. medicamentos em uso: atenolol","qpa",NA,"esquerdo",NA,"parede medial da órbita do lado esquerdo",NA,"X",NA,NA,"2020-11-15",NA,NA
+2021,"Kamily Luane da Silva",7,"F","branca",NA,"atropelamento",NA,NA,NA,"trauma dentoalveolar",NA,NA,NA,NA,"2021-03-14",NA,NA
+2021,"Karen Cristina da Silva",29,"F","branca","diabética (faz uso de insulina) e cocaina
+usuária de cocaína.","cárie",NA,NA,NA,"abcesso","abscesso odontogênico",NA,1,NA,"2020-07-03","2020-07-04",NA
+2021,"Karen Cristina da Silva",29,"F","branca","diabética (faz uso de insulina). usuária de cocaína","abscesso de origem odontogênica",NA,NA,NA,NA,"abscesso de origem odontogênica",NA,1,NA,"2020-07-03","2020-07-04",NA
+2021,"Karen Gabriele Rodrigues Silva",24,"F","parda","etilista e tabagista","Agressão física",NA,"Esquerda",NA,"czo esquerda","equimose peri-orbitária esq., afundamento zgm e",NA,1,NA,"2021-01-13",NA,NA
+2021,"Karina Toshie Ide Zarronz",43,"F","branca",NA,"qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2021-02-14",NA,NA
+2021,"Lais Emanuela Gaspar da Silva",3,"F","branca",NA,"queda de nível",NA,NA,NA,"não",NA,NA,NA,NA,"2020-11-18",NA,NA
+2021,"Livia Luz Braga Ferreira",4,"F","branca",NA,"qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2020-12-18",NA,NA
+2021,"Lorena Vitoria de Castro Novaes",2,"F","parda",NA,"queda de nivel",NA,NA,NA,"não",NA,NA,NA,NA,"2021-01-23",NA,NA
+2021,"Lorraine Fernandes de Matos",4,"F","branca","nega","atropelamento",NA,NA,NA,"não",NA,NA,NA,NA,"2021-01-15",NA,NA
+2021,"Lorrany Mendes de Freitas",2,"F","branca",NA,"qpa",NA,NA,NA,"trauma dentoalveolar",NA,NA,NA,NA,"2020-05-24",NA,NA
+2021,"Lourdes Campos de Carvalho",58,"F",NA,"uti geral (hospital do rim); em uso de enoxaparina. termo de consentimento","covid – 19 / pneumonia – 18 dih uti",NA,NA,NA,"não","elementos dentais com mobilidade grau iii, pequeno sangramento ativo no 33","X",NA,"óbito","2021-03-26",NA,NA
+2021,"Luana Beatriz Rodrigues",16,"F","branca",NA,"acidente motociclístico",NA,"Esquerdo",NA,"ângulo mandibular",NA,NA,1,NA,"2020-05-17","2020-05-20","2020-05-21"
+2021,"Luana Gabriela da Silva Batista",22,"F",NA,"nega","luxação de atm",NA,NA,NA,NA,NA,"X",NA,"redução e bandagem","2021-02-09",NA,NA
+2021,"Luciana de Castro Schuindt",46,"F",NA,"nega","trauma x anteparo",NA,NA,NA,"opn",NA,"X",NA,NA,"2020-05-11",NA,NA
+2021,"Luciana Machado Ramos",38,"F","branca",NA,"trauma x anteparo",NA,NA,NA,"opn",NA,"x",NA,NA,"2020-05-08",NA,NA
+2021,"Luduina Boulhossa Lourenço",68,"F","branca",NA,"qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2020-09-12",NA,NA
+2021,"LUIZ GUSTAVO SILVA (TAINÁ)",18,"F","parda",NA,"acidente motociclístico",NA,NA,NA,"cmzo com descolamento e opn sem deslocamento",NA,NA,1,NA,"2020-05-22","2020-05-27",NA
+2021,"Luzia Pereira Carvalho",54,"F","branca",NA,"trauma x anteparo",NA,NA,NA,"opn",NA,NA,NA,NA,"2021-01-20",NA,NA
+2021,"Maiara Cristina Gonçalves",25,"F","branca",NA,"Agressão física",NA,NA,NA,"opn",NA,NA,1,NA,"2020-12-23",NA,NA
+2021,"Manuela Batista Generoso",6,"F",NA,NA,"qpa",NA,NA,NA,"trauma dentoalveolar",NA,NA,NA,NA,"2020-04-13",NA,NA
+2021,"Marcia Cardoso Celestino",42,"F","parda",NA,"Agressão física",NA,NA,NA,"não","contusão malar direita",NA,NA,NA,"2020-10-18",NA,NA
+2021,"Marcia Helena Vitor",47,"F","negra",NA,"luxação de atm",NA,NA,NA,"não",NA,NA,NA,NA,"2020-06-05",NA,NA
+2021,"Maria Alves de Souza",75,"F","branca","hipertensão","qpa",NA,NA,NA,"opn",NA,"x",NA,NA,"2021-02-15",NA,NA
+2021,"Maria Anegla Rodrigues da Silva",47,"F",NA,"etilismo","qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2020-05-11",NA,NA
+2021,"Maria Aparecida Alves",82,"F","branca",NA,"queda de nível",NA,NA,NA,"opn",NA,"X",NA,NA,"2021-01-17",NA,NA
+2021,"Maria Aparecida Gouveia Piveta",88,"F","parda",NA,"queda de nível",NA,"Direita",NA,"assoalho de órbita direita",NA,NA,NA,NA,"2020-11-21",NA,NA
+2021,"Maria Aparecida Leal Vio",53,"F","branca","hipercolesterolemia",NA,NA,NA,NA,"não",NA,NA,NA,NA,"2020-11-26",NA,NA
+2021,"Maria Auxiliadora Alves",68,"F","branca",NA,"qpa",NA,NA,NA,"opn",NA,NA,1,NA,"2020-09-08",NA,NA
+2021,"Maria Clara Grosso Santos",15,"F","parda",NA,"abscesso em base de mandíbula",NA,NA,NA,NA,"sequestro ósseo e formação de infecção",NA,1,NA,"2020-04-14","2020-04-14",NA
+2021,"Maria de Lourdes Gonçalves",96,"F","negra","dm e alzheimer","qpa",NA,NA,NA,"opn",NA,"x",NA,NA,"2020-08-30",NA,NA
+2021,"Maria de Lourdes Vieira Pocaia",47,"F","branca","nega","qpa",NA,NA,NA,"não",NA,NA,NA,NA,NA,NA,NA
+2021,"Maria Helena Paz Viana",58,"F","branca",NA,"atropelamento",NA,"Esquerda",NA,"opn e parede medial de órbita esq.",NA,"x",NA,NA,"2021-01-20",NA,NA
+2021,"Maria Izabel de Jesus Giroto",83,"F","negra","has, diabetes, alzheimer. medicamentos em uso:  levotiroxina sódica; diamicron; espironolactona; pantoprazol; propatilnitrato; brintellix; vastarel; atorvastatina; donepezila; glifage; kitapen; clonazepan; losartan. colírios para glaucoma: maleato de timolol, alphagan, cloridrato de dorzolamida, lumigam. 
+","qpa",NA,NA,"X","corpo bilateral","atrófica",NA,NA,NA,"2020-10-08",NA,NA
+2021,"Maria Rosa de Jesus Souza",94,"F","branca",NA,"qpa",NA,NA,NA,"nasal",NA,"X",NA,NA,"2020-07-05",NA,NA
+2021,"Maria stella Oliveira Silva",67,"F","branca",NA,"luxação de atm",NA,NA,NA,"não","redução",NA,NA,NA,"2020-12-24",NA,NA
+2021,"Maria Vieira Soares",61,"F","parda",NA,"qpa",NA,NA,NA,"opn",NA,"X",NA,NA,"2020-06-12",NA,NA
+2021,"Mariana Michele dos Santos Ferreira",20,"F","parda",NA,"Agressão física",NA,"ESQUERDA",NA,"ângulo esquerdo","pseudoartrose mandibular",NA,1,NA,"2020-07-02","2020-07-07",NA
+2021,"Mariana Michele dos Santos Ferreira",20,"F","parda",NA,"Agressão física",NA,NA,"X","mandíbula em região de ângulo (e) e parassinfise (d)",NA,NA,1,NA,"2020-04-21","2020-04-22",NA
+2021,"Mariana Michele dos Santos Ferreira",20,"F","parda",NA,"Agressão física",NA,NA,NA,NA,"infecção, osteomielite (?)","X",NA,NA,"2020-07-02",NA,NA
+2021,"Marina Teruyo Kamei Kubo",71,"F","branca","lifoma","úlceras bucais",NA,NA,NA,"não","cuidados paliativos","X",NA,NA,"2021-03-29",NA,NA
+2021,"Marina Vitória dos Santos Lemos",8,"F","branca",NA,"mordedura canina",NA,NA,NA,"não",NA,NA,NA,NA,"2020-09-13","2020-09-13",NA
+2021,"Marly Ronsane Ottoboni",58,"F","branca",NA,"qpa",NA,NA,NA,"trauma dentoalveolar",NA,NA,NA,NA,"2020-07-20",NA,NA
+2021,"Martinha Gomes do Prado",80,"F","branca","osteoporose","qpa",NA,"Direita",NA,"órbita direita",NA,"x",NA,NA,"2020-11-24",NA,NA
+2021,"Mayana Cinesi Muniz",34,"F","branca",NA,"acidente de trabalho",NA,NA,NA,"opn",NA,NA,NA,NA,"2020-12-15",NA,NA
+2021,"Michele dos Santos Freitas",28,"F","negra","nega","Agressão física",NA,NA,NA,"assoalho de órbita, parede medial de órbita direita","laceração em órbita direita, edema e equimose, limitação de motilidade ocular",NA,NA,NA,"2020-08-02",NA,NA
+2021,"Milena Aparecida de Freitas",41,"F",NA,NA,"Agressão doméstica",NA,NA,NA,"opn",NA,"X",NA,NA,"2020-06-14",NA,NA
+2021,"MIRIAM TIMACO LEOPOLDO CONTE",74,"F","branca","hipercolesterolemia, diabetes, labirintite, hipotireoidismo, glaucoma e hipertensão. travatan, angiopress, t4 e clozopor.","qpa",NA,"esquerdo",NA,"czm (e) + fratura opn",NA,"X",NA,NA,"2020-07-09","2020-07-24","2020-07-25"
+2021,"Nadir Betarchini Gomes",83,"F","branca","hipercolesterolemia","qpa",NA,"Direita",NA,"sm direito",NA,"X",NA,NA,"2021-01-11",NA,NA
+2021,"Nadir Guelfi dos Santos",86,"F","branca","has (faz uso de medicamento que não se recorda o nome)","qpa",NA,NA,NA,"fcc em lábio superior",NA,"X",NA,NA,"2021-03-06",NA,NA
+2021,"Naiara Karina Vitor de Oliveira",33,"F","branca","dm","exodontia do 38",NA,"Direita",NA,"mandibula",NA,NA,1,NA,"2021-01-15",NA,NA
+2021,"Nair Batista Borges Pablos",80,"F","branca","nega","atropelamento",NA,NA,"X","côndilo direito; arco zgm e;",NA,"X",NA,NA,"2020-06-22",NA,NA
+2021,"Nair Morelli Pinheiro",76,"F","branca",NA,"qpa",NA,NA,"X","côndilo bilateral",NA,"X",NA,NA,"2020-11-05",NA,NA
+2021,"Nair Sanches Gonçalves",68,"F",NA,NA,"qpa",NA,NA,NA,"opn",NA,"X",NA,NA,"2020-05-16",NA,NA
+2021,"Natana Juliana de Souza Rodrigues",30,"F","parda",NA,"acidente motociclístico",NA,NA,NA,"nasal","contusão facial","X",NA,NA,"2020-12-04",NA,NA
+2021,"Neuza Otaviano da Silva",64,"F","parda",NA,"qpa",NA,NA,NA,NA,"contusão facial","X",NA,NA,"2020-06-13",NA,NA
+2021,"Palmira Mendes da Silva",76,"F","negra","dm e hipertensão","qpa",NA,NA,"X","corpo bilateral",NA,NA,NA,NA,"2020-11-26",NA,NA
+2021,"Patricia Rainer de Souza Soares",25,"F","branca","nega","Agressão física",NA,NA,"X","ângulo bilateral","não",NA,1,NA,"2020-08-02","2020-08-04","2020-08-05"
+2021,"Paula Carolina Silva",30,"F","negra","nega","Agressão física",NA,NA,NA,"opn","edema em hemiface direita, trismo","X",NA,NA,"2021-01-16",NA,NA
+2021,"Pietra dos Santos Soares",4,"F","branca","nega","qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2020-11-25",NA,NA
+2021,"Priscila Sayuri Kusano Yamamoto",37,"F","branca",NA,"complicação de bichectomia",NA,NA,NA,"não","edema em espaço bucal",NA,NA,NA,"2020-12-15",NA,NA
+2021,"Raissa Angelica Fernandes Mauricio",25,"F","branca",NA,"desacordado em via pública",NA,"Direita",NA,"órbita direita",NA,"x",NA,NA,"2020-08-29",NA,NA
+2021,"Raissa Santan Lucas",17,"F","branca",NA,"Agressão física",NA,"direita",NA,"não","edema e equimose peri-orbitária a esquerda, escoriações em malar direita","x",NA,NA,"2020-06-17",NA,NA
+2021,"Ramona Martinez dos Santos",77,"F","branca",NA,"qpa",NA,NA,NA,"opn",NA,"x",NA,NA,"2020-12-16",NA,NA
+2021,"REBEKAH RAAB BRAZOLOTO PANASSI",5,"F","parda",NA,"colisão de patinete contra objeto (churrasqueira)",NA,NA,NA,NA,"contusão facial","X",NA,NA,"2021-02-19",NA,NA
+2021,"Regina Celia Massaroto Aoki",53,"F","branca",NA,"aumento de volume",NA,"Direita",NA,"48",NA,NA,1,NA,"2020-09-01",NA,NA
+2021,"Regina de Jesus Bernardes",32,"F","negra","etilista, drogadita","Agressão física",NA,NA,NA,"não","edema a direita",NA,NA,NA,"2020-08-09",NA,NA
+2021,"Rhaissa Victoria Silva Santos",10,"F","branca","nega","trauma x anteparo",NA,NA,NA,"opn",NA,"x",NA,NA,"2020-11-29",NA,NA
+2021,"Rosa Dias Naia",81,"F","branca",NA,"qpa",NA,"Esquerdo",NA,"blow-out e",NA,"X",NA,NA,"2020-09-02",NA,NA
+2021,"ROSAINA AIRES DA SILVA",34,"F","branca","nega","acidente motociclístico",NA,NA,"X","corpo mandibular bilat.; arco e; fronto zgm dir;",NA,NA,1,NA,"2021-03-20","2021-03-21",NA
+2021,"Roseli galego Damico",39,"F","branca",NA,"acidente ciclistico",NA,NA,NA,"opn",NA,NA,NA,NA,"2020-06-15",NA,NA
+2021,"Rute Regis Rodrigues Silva",40,"F","parda",NA,"atropelamento",NA,NA,NA,NA,"contusão facial","X",NA,NA,"2021-03-04",NA,NA
+2021,"Sabrina Sechim Barzaghi",36,"F","parda",NA,"acidente motociclistico",NA,"Esq",NA,"czo esq",NA,NA,NA,NA,"2020-12-16",NA,NA
+2021,"SANDRA ANDERSON DA SILVA PIRES",59,"F","parda",NA,"acidente motociclístico",NA,NA,NA,NA,"contusão facial","X",NA,NA,"2020-05-27",NA,NA
+2021,"Sandra Cristina da Silva Pjote",56,"F","branca","nega","herpes",NA,NA,NA,"não",NA,NA,NA,NA,"2020-10-24",NA,NA
+2021,"Sandra Espinhara da Silva",52,"F","branca",NA,"acidente motociclistico",NA,"direita",NA,"frontal e assoalho de órbita direita",NA,"x",NA,NA,"2020-12-21",NA,NA
+2021,"Sara Oliveira Santos",12,"F","branca",NA,"acidente automobilistico",NA,NA,NA,"opn",NA,"X",NA,NA,NA,NA,NA
+2021,"Sara Regina Radigheri de Carvalho",36,"F","branca",NA,"qpa",NA,NA,NA,"opn e trauma dentoalveolar","equimose peri-orb. bilat.; edema em dorso nasal, fda em fronte, frat do 11","x",NA,NA,"2020-12-22",NA,NA
+2021,"Sarah de Oliveira Pereira Seraphini",19,"F","branca",NA,"acidente automobilístico",NA,"esquerda",NA,"mandibular (parassinfise esquerda)",NA,NA,1,NA,"2020-07-02","2020-07-03",NA
+2021,"Selma Maria dos Santos",44,"F","branca",NA,"Agressão física",NA,NA,NA,"não","escoriações em dorso nasal","x",NA,NA,"2020-06-04",NA,NA
+2021,"Simone Cristina da Silva Celestino",41,"F","branca",NA,"Agressão física",NA,NA,NA,"nasal com mínimo deslocamento","enfisema em região frontal. edema e equimose periorbital bilateral. enfisema em terço médio da face","X",NA,NA,"2020-04-25",NA,NA
+2021,"Simone de Cassia Rodrigues Valdanha",39,"F","branca",NA,"acidente ciclístico",NA,"Direita",NA,"arco d",NA,"X",NA,NA,"2020-09-01",NA,NA
+2021,"Sofia Vitoria Toguia da Silva",1,"F","branca",NA,"qpa",NA,NA,NA,NA,"contusão facial","X",NA,NA,"2020-11-11",NA,NA
+2021,"Solange Cristina Pereira dos Santos",45,"F","branca",NA,"qpa",NA,"direito",NA,"arco zigomático d",NA,"X",NA,NA,"2021-01-08",NA,NA
+2021,"Solange Mileni Paulino Soares",62,"F","negra",NA,"acidente ciclistico",NA,"Esquerda",NA,"coronoide esq, órbita esq","edema em orbita esq. e fcc em fronte esq.","x",NA,NA,NA,NA,NA
+2021,"Suelen Cristina de Souza Santos Nunes",31,"F","parda","gestante","Agressão física",NA,NA,NA,"trauma dento-alveolar","luxação do 11","x",NA,NA,"2020-08-01",NA,NA
+2021,"Suzete Donizete Neves Galvão",44,"F","negra",NA,"cárie",NA,NA,NA,"não","abcesso",NA,1,NA,"2020-04-12",NA,NA
+2021,"Talita Christie Pereira Soares",12,"F","branca",NA,"acidente ciclistico",NA,NA,NA,"não",NA,NA,NA,NA,"2020-12-17",NA,NA
+2021,"Thais Kethleen da Silva",20,"F","branca",NA,"acidente motociclístico",NA,NA,NA,"??",NA,"?",NA,NA,"2020-09-06",NA,NA
+2021,"Theodora Pessin Lima",4,"F","branca",NA,"queda de nivel",NA,NA,NA,"não",NA,NA,NA,NA,"2020-06-01",NA,NA
+2021,"Tokuyo Higuti",73,"F","branca","dm e hipertensão","qpa",NA,NA,"X","opn, assoalho de orbita bilat.",NA,"X",NA,NA,"2021-01-15",NA,NA
+2021,"Toyoko Doho Martins",78,"F","branca",NA,"qpa",NA,"Esq",NA,"sm esq",NA,"X",NA,NA,"2020-09-29",NA,NA
+2021,"Valcir Salomão Paes",35,"F","negra","iot","Agressão física",NA,"Direita",NA,"opn e côndilo direito",NA,"x",NA,"iot","2020-07-29",NA,NA
+2021,"Valentina de Sousa Gouveia",4,"F","branca",NA,"Agressão física",NA,NA,NA,"não",NA,NA,NA,NA,"2020-09-30",NA,NA
+2021,"Valeria Votorino da Silva",32,"F","branca","gestante","cárie",NA,"Esq",NA,"infecção","15","x",NA,NA,"2020-06-04",NA,NA
+2021,"Vania Cristina Batista de Oliveira",35,"F","branca",NA,"acidente motociclistico",NA,NA,NA,"não",NA,NA,NA,NA,"2020-11-08",NA,NA
+2021,"Vera Lucia Sattin Borges",49,"F","branca",NA,"qpa",NA,NA,NA,"opn sem deslocamento","edema, equimose, e fda em região de frontal, glabela e dorso nasal","X",NA,NA,"2020-04-25",NA,NA
+2021,"Victoria Sequin Lourenço",9,"F","branca",NA,"acidente desportivo",NA,NA,NA,"trauma dentoalveolar",NA,NA,NA,NA,"2020-05-22",NA,NA
+2021,"Vilena de Souza",33,"F","branca",NA,"acidente motociclístico",NA,"Direita",NA,"sínfise, ângulo e arco direito",NA,NA,1,NA,NA,NA,NA
+2021,"Vilma",85,"F","branca",NA,"qpa",NA,"esq",NA,"le fort i esq. opn, czo esq.",NA,"x",NA,NA,"2020-08-02",NA,NA
+2021,"Vilma da Silva Ramos",20,"F","branca",NA,"fpaf",NA,"Esquerda",NA,"frontal, czo e mandibula esquerda",NA,NA,NA,"óbito","2020-11-22",NA,NA
+2021,"Vilma da Silva Ramos",20,"F","parda",NA,"faf em região craniana, face e membro inferior direito",NA,"direito",NA,"craniana, frontal, base de crânio, czmo e mandíbula (corpo e ângulo) à direita",NA,"X",NA,"óbito","2020-11-22",NA,NA
+2021,"Vitoria Falconi Miguel Gonçalves",7,"F","parda",NA,"cárie",NA,"esquerda",NA,NA,"38",NA,NA,NA,"2020-05-03","2020-05-04",NA
+2021,"VITÓRIA FALCONI MIGUEL GONÇALVES",7,"F","parda",NA,"drenagem de abscesso na região",NA,NA,NA,NA,"abscesso",NA,1,NA,"2020-05-28","2020-05-30",NA
+2021,"Vitória Falconi Miguel Gonçalves",5,"F","parda",NA,"infecção odontogênica",NA,NA,NA,NA,"aumento de volume submandibular esquerdo em regressão e sem dor a palpação","X",NA,NA,"2020-06-10",NA,NA
+2021,"Waldeth da Silva Ovando",76,"F","branca",NA,"qpa",NA,NA,NA,"opn",NA,"X",NA,NA,"2020-07-21",NA,NA
+2021,"Wilma Nicoleti Manzatto",67,"F","branca","nega","qpa",NA,NA,NA,"opn",NA,"x",NA,NA,"2020-11-24",NA,NA
+2021,"Yolanda Rodrigues",76,"F","branca",NA,"qpa",NA,"direito",NA,"parede lateral de órbita (d)",NA,"X",NA,NA,"2021-03-06",NA,NA
+2021,"Ysabelly Gabryelly Araujo da Silva",3,"F","branca",NA,"mordedura canina (pitbull)",NA,"Direita",NA,"não",NA,NA,NA,NA,"2020-08-23",NA,NA
+2021,"Zulmira de Oliveira Rigo",78,"F","branca",NA,"qpa",NA,NA,NA,"não",NA,NA,NA,NA,NA,NA,NA
+2021,"Adão Cesar Moreira dos Santos",37,"M","parda",NA,"acidente ciclístico",NA,NA,NA,"trauma dentoalveolar",NA,"X",NA,NA,"2020-11-08",NA,NA
+2021,"Adolfo Ponte Casagrande Patricio",41,"M","parda",NA,"Agressão física",NA,NA,NA,"opn",NA,"X",NA,NA,NA,NA,NA
+2021,"Adriano de Assis Vasques",43,"M","branca","anoxia cerebral, has, dm, tqt,sne","miíase",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,"Adriano de Sousa Gasperini",25,"M","branca","nega","acidente motociclístico",NA,NA,NA,"opn, maxila bilat.","arco direito e lábio direito",NA,1,"osteossintese","2021-02-08","2021-02-09","2021-02-10"
+2021,"Adriano de Souza Gasparini",25,"M","parda",NA,"acidente automobilístico",NA,"esquerdo",NA,"parede anterior e posterior do seio maxilar e fratura longitudinal em maxilla próximo ao processo alveolar em lado esquerdo",NA,"X",NA,NA,"2021-02-07",NA,NA
+2021,"ADRIANO LUIZ DOS SANTOS",48,"M",NA,"alergia a amox e dipirona","material de sintese",NA,"DIREITO",NA,NA,NA,NA,1,"rms","2021-02-10",NA,NA
+2021,"Adriano Ramos",44,"M","negra",NA,"acidente motociclístico",NA,NA,NA,NA,NA,NA,NA,NA,"2020-05-17",NA,NA
+2021,"Adriano Rodrigo Olher De Junior",20,"M","branca",NA,"acidente motociclistico",NA,NA,NA,"arco esq. e sm e.",NA,"x",NA,NA,"2020-08-22",NA,NA
+2021,"Adriano Xavier da Silva",37,"M","parda","etilista e tabagista","Agressão física",NA,NA,"X","parassínfise direita e côndilo esquerdo. fratura nasal sem deslocamento",NA,NA,1,NA,"2020-11-09","2020-11-10",NA
+2021,"Adryan Halisson Toneli Pinto",14,"M","branca",NA,"acidente ciclistico",NA,NA,NA,"não",NA,NA,NA,NA,NA,NA,NA
+2021,"Aduan Hassan K de Oliiveira Freitas",20,"M","branca","nega","queda de nível (4m)","Não",NA,"X","côndilo bilateral e parassínfise e.",NA,NA,NA,NA,NA,NA,NA
+2021,"Agenor Rossigali",86,"M","branca",NA,"qpa",NA,NA,NA,"opn",NA,"x",NA,NA,"2021-01-21",NA,NA
+2021,"Agnaldo Victor Marciano",20,"M","branca",NA,"Agressão física",NA,NA,NA,"opn",NA,"X",NA,NA,"2020-09-06",NA,NA
+2021,"Alcides Pirani",86,"M","branca",NA,"qpa",NA,NA,NA,"opn",NA,"x",NA,NA,"2020-05-04",NA,NA
+2021,"Aldair Jose Fortunato da Silva",24,"M","branca",NA,"queda de bicicleta",NA,NA,NA,"opn sem deslocamento + contusão facial",NA,"X",NA,NA,"2020-04-13",NA,NA
+2021,"Alex Santos da Silva",34,"M","parda",NA,"acidente motociclístico",NA,NA,NA,"nasal com mínimo deslocamento","edema e hematoma periorbitário (e). edema em região de dorso nasal e ferimentos dermo-abrasivos em terço médio","X",NA,NA,"2020-04-22",NA,NA
+2021,"Alfredo Monge Silva",24,"M","branca",NA,"acidente motociclístico",NA,"Direita",NA,"parassinfise direita",NA,"x",NA,"tto fechado","2020-07-27",NA,NA
+2021,"Alvaro Flaviano Pireni",55,"M","parda",NA,"qpa",NA,NA,NA,"opn",NA,"x",NA,NA,"2020-12-22",NA,NA
+2021,"Amir Soares de Melo Pires",79,"M","branca",NA,"qpa",NA,"Esq.",NA,"côndilo esquerdo",NA,"X",NA,NA,"2020-09-29",NA,NA
+2021,"Anderson Cristiano Yudi Homa",NA,"M",NA,NA,"apnéia obstrutiva do sono",NA,NA,NA,NA,NA,NA,1,"cirurgia ortognática",NA,"2020-07-02",NA
+2021,"Anderson Zoccal Ferreira",20,"M","parda",NA,"acidente motociclistico",NA,NA,NA,"trauma dentoalveolar",NA,NA,NA,NA,NA,NA,NA
+2021,"Andre Luiz Andreolo",49,"M","branca",NA,"acidente automobilístico",NA,NA,NA,"não",NA,NA,NA,NA,"2021-03-13",NA,NA
+2021,"Andre Manuel da Cruz",40,"M",NA,NA,"acidente ciclístico",NA,NA,NA,"opn","abrasão em face","X",NA,NA,"2020-04-12",NA,NA
+2021,"Antonio Agnaldo da Silva",38,"M","branca",NA,"acidente desportivo",NA,"Esquerda",NA,"czm esq.",NA,NA,NA,NA,NA,NA,NA
+2021,"Antonio João de Oliveira Filho",41,"M","parda",NA,"Agressão física",NA,NA,NA,"não",NA,"X",NA,NA,"2020-11-02",NA,NA
+2021,"Antonio Marcos Borges",49,"M","negra",NA,"acidente automobilísitico",NA,NA,NA,"sínfise e corpo direito",NA,"x",NA,NA,"2020-09-23",NA,NA
+2021,"Antônio Marcos Borges",49,"M","negra","etilista e usuário de cocaína","acidente automobilístico",NA,NA,NA,"sínfise e corpo mandibular",NA,NA,1,NA,"2020-09-23","2020-10-08",NA
+2021,"Antonio Marcos dos Santos Camara",24,"M","branca",NA,"acidente ciclístico",NA,NA,NA,NA,"contusão facial","X",NA,NA,"2020-06-13",NA,NA
+2021,"Antonio Marini",86,"M","branca",NA,"qpa",NA,NA,"X","nasal com mínimo deslocamento e fratura de parede anterior de seio maxilar bilateral",NA,"X",NA,NA,"2020-10-05",NA,NA
+2021,"Antonio Permagnani",83,"M","branca","ave, has, déficit auditivo e visual","qpa",NA,NA,NA,"sm direito",NA,"x",NA,NA,"2021-03-11",NA,NA
+2021,"Antonio Vio",85,"M","branca",NA,"atropelamento",NA,NA,NA,"não",NA,NA,NA,NA,"2021-02-22",NA,NA
+2021,"Antony Silva Oliveira",2,"M",NA,NA,"trauma x anteparo",NA,NA,NA,"trauma dentoalveolar",NA,NA,NA,NA,"2020-05-18",NA,NA
+2021,"Aparecido de Freitas dos Reis",59,"M","branca",NA,"queda de cavalo",NA,NA,NA,"nasal sem deslocamento",NA,"X",NA,NA,"2020-12-03",NA,NA
+2021,"Aparecido de Oliveira",75,"M","parda","cardiopata","qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2020-06-22",NA,NA
+2021,"Arauna Martins de Oliveira",52,"M","branca",NA,"trauma x anteparo",NA,NA,NA,"sm direito, opn",NA,"X",NA,NA,"2020-10-05",NA,NA
+2021,"Arlindo Gonçalves",64,"M","negra","nega","acidente automobilistico",NA,"Direita",NA,"mandíbula direita",NA,NA,1,NA,"2021-03-08",NA,NA
+2021,"Arthur Fernando Fernandes de Lima",4,"M","parda",NA,"coice de cavalo",NA,NA,NA,NA,"contusão facial","X",NA,NA,"2020-12-05",NA,NA
+2021,"Arthur Pereira Mahmoud Youssef",5,"M","branca",NA,"acidente ciclistico",NA,NA,NA,"não",NA,"x",NA,NA,NA,NA,NA
+2021,"Benedito Jeso da Silva",65,"M","parda",NA,"síncope seguido de acidente automobilístico",NA,NA,NA,"espinha nasal anterior","avulsão dos dentes 32 e 33. mobilidade dos dentes 21 e 22","X",NA,NA,"2020-04-25",NA,NA
+2021,"Benjamin Ribeiro Marinho",68,"M","parda","has. medicamentos em uso: atenolol, lorotodilona, alodipino","infecção de origem odontogênica após exodontia",NA,NA,NA,NA,"abscesso odontogênico",NA,1,NA,"2020-11-09","2020-11-10",NA
+2021,"Brayan Enrique Pereira da Silva",2,"M","branca",NA,"queda de nível",NA,"Esquerda",NA,"arco esq,",NA,"X",NA,NA,NA,NA,NA
+2021,"Bruno Fernando Vanzela",34,"M","branca",NA,"qpa",NA,NA,"X","parassínfise d e ângulo d",NA,NA,1,NA,NA,"2021-09-04",NA
+2021,"Bruno Garbelini Chiquito",28,"M","branca",NA,"queda de anteparo + acidente com animal (vaca)",NA,"direito",NA,"mandibular cominutiva em corpo mandibular (d)",NA,NA,1,NA,"2020-04-24","2020-04-25",NA
+2021,"Bruno Gonçalves de Lima",18,"M","parda",NA,"acidente motociclístico",NA,NA,NA,"nasal",NA,"X",NA,NA,"2020-11-08",NA,NA
+2021,"Bruno Henrique Montefusco dos Santos",29,"M","branca",NA,"queda de nivel",NA,"Esq",NA,"órbita esquerda e temporal esq.",NA,"x",NA,NA,"2020-10-14",NA,NA
+2021,"Bruno Santana da Silva",28,"M","branca",NA,"cárie",NA,NA,NA,"não",NA,NA,NA,NA,"2020-07-19","2020-07-24",NA
+2021,"Carlos Alberto Fatin",52,"M","parda","etilista","qpa",NA,NA,NA,"opn",NA,"X",NA,NA,"2020-06-28",NA,NA
+2021,"Carlos Eduardo Niza",36,"M","negra",NA,"Agressão física",NA,NA,NA,"czmo; opn;parassínfise direita e ângulo direito",NA,NA,NA,"aguarda melhora","2020-04-19",NA,NA
+2021,"Carlos Eduardo Niza",NA,"M","parda",NA,"Agressão física",NA,NA,"X","czmo com deslocamento medial, opn sem deslocamento, parassínfise mandibular (e), ângulo mandibular (d)",NA,"X",NA,NA,"2020-04-19",NA,NA
+2021,"Carlos Gasparini",79,"M","branca",NA,"qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2020-09-04",NA,NA
+2021,"Carlos Gomes da Silva",67,"M","parda",NA,"acidente ciclistico",NA,NA,NA,"não",NA,NA,NA,NA,"2021-01-21",NA,NA
+2021,"Carlos Gomes da Silva",66,"M","branca",NA,"qpa",NA,NA,NA,NA,"contusão facial","X",NA,NA,"2021-03-01",NA,NA
+2021,"Carlos Kazuo Minaki",64,"M","branca",NA,"Agressão física",NA,NA,"x","sm direito e esq.",NA,NA,NA,NA,"2020-08-19",NA,NA
+2021,"Carlos Roberto dos Santos",60,"M","branca","sic prontuário da neuro: relata episódios anteriores de convulsão, porém não faz uso de medicação.","qpa após convulsão",NA,NA,NA,"opn sem deslocamento + contusão facial",NA,"X",NA,NA,"2020-07-11",NA,NA
+2021,"Carlos Sergio Martinez Tozzi",70,"M","branca",NA,"queda de nivel",NA,"Direita",NA,"temporal direita, czm direito",NA,"X",NA,NA,"2020-06-01",NA,NA
+2021,"Carlos Vieira Roberto",34,"M","negra",NA,"acidente motociclístico",NA,NA,NA,"panfacial",NA,NA,1,NA,"2021-01-09","2021-01-11",NA
+2021,"Carlos Wagner Ramos",54,"M","branca","cardiopatia, has e diabetes. não se recorda os nomes da medicações.","Agressão física",NA,"esquerdo",NA,"opn sem deslocamento + fratura em região anterior de seio maxilar (e)",NA,"X",NA,NA,"2020-07-12",NA,NA
+2021,"Cesar Alves das Neves",37,"M","branca",NA,"acidente motociclístico",NA,"esquerda",NA,"czo esq e arco esq",NA,"x",NA,NA,"2020-09-05",NA,NA
+2021,"Cicero Angelo da Silva",66,"M","parda","hipertenso","acidente ciclístico",NA,"esquerda",NA,"opn; czm esq.",NA,"X",NA,NA,NA,NA,NA
+2021,"Claudemir Barbosa de Carvalho",58,"M","branca","hipertensão e dm","acidente de trabalho",NA,NA,NA,"frontal, opn, czm bilat. e arco d",NA,NA,1,NA,"2021-04-01",NA,NA
+2021,"Claudinei Ferreira da Silva",43,"M","negra","nega","queda de nível",NA,NA,NA,"opn",NA,"X",NA,NA,"2021-01-13",NA,NA
+2021,"Claudio Dias de Ataide",37,"M","parda","etilista, tabagista, usuário de cocaína","Agressão física",NA,"esquerdo",NA,"ramo mandibular (e)",NA,"X",NA,NA,"2020-10-09",NA,NA
+2021,"Cleber Maia Correa",NA,"M","parda",NA,"acidente motociclístico",NA,NA,NA,"czo",NA,"X",NA,NA,"2021-03-02",NA,NA
+2021,"Cleiton de Jesus do Nascimento",24,"M","negra","nega","queda de nível",NA,NA,NA,"não",NA,NA,NA,NA,"2020-06-26",NA,NA
+2021,"Damião de Lima",69,"M","branca","has, dm","trauma x anteparo",NA,NA,NA,"opn e sm esquerda",NA,"x",NA,NA,"2021-02-26",NA,NA
+2021,"Daniel Domingos Avilar",28,"M","branca",NA,"Agressão física",NA,NA,NA,"sínfise",NA,"x",1,NA,"2020-08-26","2020-09-09","2020-09-10"
+2021,"Daniel Haberman do Nascimento",6,"M","branca","nega","trauma x anteparo",NA,NA,NA,"não",NA,NA,NA,NA,"2020-11-25",NA,NA
+2021,"Daniel Ramos de Albuquerque",4,"M","parda",NA,"qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2020-10-14",NA,NA
+2021,"danilo simão de souza",25,"M","parda",NA,"acidente desportivo",NA,NA,NA,"não",NA,NA,NA,NA,"2020-12-12",NA,NA
+2021,"Davi Dourado Moreno",1,"M","branca",NA,"qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2020-06-15",NA,NA
+2021,"Davi Lucca de Brito Soares",4,"M",NA,"nega","acidente ciclístico","não",NA,NA,"não","laceração em lábio inferior",NA,NA,"sutura","2020-08-09",NA,NA
+2021,"Davi Luis dos Santos Caumo",5,"M","parda",NA,"qpa",NA,NA,NA,NA,"avulsão do 61 e luxação extrusiva do 51","X",NA,NA,"2020-10-06",NA,NA
+2021,"Davi Rodrigues da Silva",1,"M","parda","nega","qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2021-01-15",NA,NA
+2021,"DENILSON FELICISSIMO DE SOUZA",21,"M","parda",NA,"acidente motociclístico",NA,"direito",NA,"ângulo de mandíbula do lado direito",NA,NA,NA,NA,"2020-07-12",NA,NA
+2021,"Deosete Fazani",62,"M","parda","transplante de figado, bifosfonato","qpa",NA,NA,NA,"opn",NA,"x",NA,NA,"2020-08-26",NA,NA
+2021,"Desconhecido trazido pelo resgate (Pablo?)",NA,"M","parda",NA,"atropelamento",NA,NA,NA,"sem sinais de fratura",NA,"X",NA,NA,"2020-11-14",NA,NA
+2021,"Diones Evandro Bispo dos Santos",26,"M","parda",NA,"Agressão física",NA,NA,"X","corpo d e ângulo e",NA,NA,1,NA,"2020-12-30","2021-01-04",NA
+2021,"Diones Evandro Bispo dos Santos",26,"M","parda",NA,"Agressão física",NA,NA,NA,"mandíbula",NA,NA,1,NA,"2020-12-30","2021-01-04",NA
+2021,"Divino Aparecido de Freitas",62,"M","branca",NA,"acidente motociclístico",NA,"Direito",NA,"czm direito",NA,"X",NA,NA,"2020-09-30",NA,NA
+2021,"Domingos Germiniano",68,"M","branca","transplante de figado, bifosfonato","acidente motociclístico",NA,"Esq",NA,"maxila e zgm e",NA,"x",NA,NA,"2020-08-26",NA,NA
+2021,"Donisete Aparecido Chinchia",57,"M","parda",NA,NA,NA,NA,NA,"não",NA,NA,NA,NA,"2020-10-13",NA,NA
+2021,"Donizeti Jose da Cruz",65,"M","branca",NA,"qpa",NA,NA,NA,"post.de sm direito",NA,"X",NA,NA,NA,NA,NA
+2021,"Douglas Almeida Rodrigues",NA,"M","negra",NA,"acidente motociclístico em fuga policial",NA,NA,NA,"região fronto-zigomática e nasal sem deslocamento","edema e equimose periorbitário bilateral","X",NA,NA,"2020-04-26",NA,NA
+2021,"Douglas Dias da Silva",50,"M","branca",NA,"acidente de trabalho",NA,NA,"X","parassínfise bilat.",NA,NA,1,NA,"2020-09-05",NA,NA
+2021,"Ed Carlos Martins Munhão Junior",22,"M","branca","etilista e tabagista social","material de sintese",NA,NA,NA,"mandibula",NA,NA,NA,"rms, debridamento e nova síntese","2020-11-24",NA,NA
+2021,"Ed Carlos Martins Munhao Junior",22,"M","parda","etilista e usuário de cocaína","Agressão física",NA,"esquerdo",NA,"mandíbula (parassinfise esquerda)",NA,NA,1,NA,"2020-10-06","2020-10-07",NA
+2021,"Eder Paulo de Souza",47,"M","parda",NA,"acidente de trabalho",NA,NA,NA,"opn",NA,"x",NA,NA,"2020-08-20",NA,NA
+2021,"Edison Costa Silva",35,"M","parda","nega","Agressão física",NA,NA,NA,"não","edema e equimose esq.",NA,NA,NA,"2020-08-09",NA,NA
+2021,"Edival Bento de Moraes",65,"M","branca","quimioterapia","ulceras",NA,NA,NA,"não",NA,NA,NA,NA,"2020-06-05",NA,NA
+2021,"Edivaldo de Almeida Gandra",26,"M","parda","pne","qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2020-10-22",NA,NA
+2021,"Edmar Bregalanti Júnior",19,"M","branca",NA,"acidente motociclístico",NA,NA,NA,"não",NA,NA,NA,NA,"2020-07-24",NA,NA
+2021,"Edney Bracale Junior",64,"M","parda","nega","qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2020-10-23",NA,NA
+2021,"Edson Cardoso",53,"M","parda",NA,"queda de nível",NA,NA,NA,"não",NA,NA,NA,NA,"2020-09-10",NA,NA
+2021,"Edson Carlos Ruiz Gonçalves",43,"M","branca",NA,"Agressão física",NA,NA,NA,"não",NA,NA,NA,NA,"2021-02-23",NA,NA
+2021,"Edson Salvador Vulcano",84,"M","branca",NA,"periodontite",NA,NA,NA,"não",NA,"x",NA,NA,"2020-09-02",NA,NA
+2021,"Eduardo de Medeiros Prado",22,"M","branca","nega","acidente motociclístico",NA,"Esquerdo",NA,"czm esq.",NA,NA,NA,NA,"2020-08-08",NA,NA
+2021,"Eduardo Francisco Lima",38,"M","negra",NA,"acidente de trabalho",NA,NA,NA,"não",NA,NA,NA,NA,NA,NA,NA
+2021,"Eduardo Jesus da Silva",33,"M","parda",NA,"aumento de volume",NA,"Direita",NA,"não",NA,NA,1,NA,NA,NA,NA
+2021,"Eduardo Jesus da Silva",33,"M","parda",NA,"dor no 48",NA,NA,NA,NA,"abcesso odontogênico",NA,1,NA,"2021-12-30","2021-12-31",NA
+2021,"Eduardo Lima da Silva",41,"M","branca",NA,"queda de escada",NA,NA,NA,"opn sem deslocamento + fcc em lábio e mucosa labial superior à direita",NA,"X",NA,NA,"2020-05-26",NA,NA
+2021,"Eduardo Lima de Souza",5,"M","branca",NA,"qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2020-10-13",NA,NA
+2021,"Edvan Crepaldi de Castro Meira",31,"M","branca","bronquite","acidente motociclístico",NA,NA,NA,"parassínfise esquerda; condilo direito",NA,NA,NA,"alta a pedido","2020-06-21",NA,NA
+2021,"Edvandro Crepaldi de Castro Meira",31,"M","branca","bronquite","acidente motociclístico",NA,NA,"x","parassínfise esquerda; condilo direito",NA,"x",NA,NA,"2020-06-21",NA,NA
+2021,"Elcio Braz Pereira de Souza",70,"M","parda",NA,"crises convulsivas",NA,NA,NA,NA,"ulceração pequena em ventre de língua sem sangramento ativo","X",NA,NA,"2020-11-03",NA,NA
+2021,"Elcio Braz Pereira de Souza",70,"M","branca","cardiopata. epilepsia, sequela de avc  (7 anos)","sangramento bucal recorrente após crise convulsiva",NA,NA,NA,"não","sangramento bucal recorrente","X",NA,NA,"2020-11-01",NA,NA
+2021,"Elidio Franzzio",73,"M","branca",NA,"Agressão física",NA,"Direita",NA,"assoalho orbita direita",NA,"x",NA,NA,"2020-12-23",NA,NA
+2021,"Eliel Bertoldo da Silva",34,"M","parda","nega","acidente motociclístico",NA,"Esquerdo",NA,"ângulo esquerdo",NA,NA,1,NA,"2020-08-04","2020-08-04","2020-08-05"
+2021,"Elizeu Miranda Borges",2,"M","branca","anemia","qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2020-11-24",NA,NA
+2021,"Emerson Luiz Ferrari",50,"M","branca","epilepsia","qpa",NA,"x",NA,"opn e blow-out a direita",NA,NA,NA,NA,"2020-08-23",NA,NA
+2021,"Eneias Alves de Freitas",38,"M","parda",NA,"acidente motociclistico",NA,"Esq",NA,"corpo esq. e arco esq.",NA,NA,NA,NA,"2020-10-13",NA,NA
+2021,"Ernesto da Silva",84,"M","branca",NA,"qpa",NA,NA,NA,"opn sem descolamento",NA,"X",NA,NA,"2020-05-30",NA,NA
+2021,"Evandro Maganin",45,"M","branca",NA,"acidente ciclístico",NA,"esquerdo",NA,"opn e fratura intracapsular de côndilo mandibular (e)",NA,"X",NA,NA,"2020-06-12",NA,NA
+2021,"Evandro Marques da Silva",33,"M","branca","hipertensão","acidente automobilistico",NA,NA,"X","czo bilat.",NA,NA,NA,NA,"2020-11-28",NA,NA
+2021,"Fabiano Jose da Silveira",31,"M","branca",NA,"acidente motociclístico",NA,NA,NA,NA,"trauma dentoalveolar (fratura coronária dos elementos 11 e 21. luxação lateral no 22)","X",NA,NA,"2020-10-10",NA,NA
+2021,"Fabiano Trindade de Oliveira",38,"M","parda",NA,"Agressão física",NA,NA,NA,"cz com deslocamento e opn sem deslocamento",NA,NA,1,NA,NA,"2020-04-16",NA
+2021,"Fabio da Costa Júnior",23,"M","parda","nega","Agressão física",NA,NA,"x","ramo direito e corpo esq.",NA,NA,1,NA,"2020-08-09","2020-08-13","2020-08-14"
+2021,"Fabio Henrique Brito Chaves",19,"M","parda",NA,"acidente motociclístico",NA,NA,NA,NA,"contusão facial e tda","X",NA,NA,"2020-06-12",NA,NA
+2021,"Fausto Bispo de Souza",47,"M","branca",NA,"mordedura canina",NA,NA,NA,"não","fcc em mento","x",NA,NA,"2020-05-05",NA,NA
+2021,"Felipe de Paiva Silva",20,"M","branca","nega","acidente motociclístico",NA,"Direita",NA,"czo direito",NA,"x",NA,NA,"2020-10-19",NA,NA
+2021,"Felipe dos Santos Nascimento",22,"M","branca",NA,"acidente ciclístico",NA,NA,NA,"contusão facial + fratura coronária nos elementos 11, 12 e 21",NA,"X",NA,NA,"2020-07-07",NA,NA
+2021,"Felipe Kaua de oliveira soares",1,"M","branca",NA,"qpa",NA,NA,NA,"não","toda",NA,NA,NA,"2020-10-12",NA,NA
+2021,"Felipe Sallese Vantini",7,"M","branca",NA,"acidente ciclistico",NA,NA,NA,"trauma dentoalveolar",NA,NA,NA,NA,"2020-05-21",NA,NA
+2021,"Felype Matheus Reis da Silva",19,"M","parda",NA,"acidente ciclístico",NA,NA,NA,"trauma dentoalveolar",NA,"X",NA,NA,"2020-11-02",NA,NA
+2021,"Fermino Jose da Silva Neto",60,"M","branca","hipertensão","acidente motociclístico",NA,"Esquerda",NA,"czo esquerdo",NA,"x",NA,NA,"2020-11-23",NA,NA
+2021,"Fernando Barbosa Pereira",25,"M","branca","nega","acidente motociclístico",NA,"Direito",NA,"czm; assoalho de órbita e sm direito","não",NA,1,NA,"2020-08-06","2020-08-09","2020-08-10"
+2021,"Fernando dos Santos Paranhas",43,"M","parda",NA,"acidente ciclístico",NA,NA,NA,"opn sem deslocamento","contusão facial","X",NA,NA,"2020-10-11",NA,NA
+2021,"Fernando Martins de Lima",39,"M","branca",NA,"acidente de trabalho",NA,"Direito",NA,"sm direito",NA,"x",NA,NA,"2020-10-16",NA,NA
+2021,"Fernando Roberto Mendes",45,"M","branca",NA,"acidente motociclístico",NA,NA,NA,"le fort iii incompleta",NA,NA,NA,NA,"2020-04-20",NA,NA
+2021,"Fernando Vieira da Silva",38,"M","negra","etilista e maconha","Agressão física",NA,NA,NA,"frontal",NA,"x",NA,NA,"2020-06-19",NA,NA
+2021,"Flavio Melinsck",56,"M","branca",NA,"acidente de trabalho",NA,NA,NA,"opn",NA,NA,NA,NA,"2020-10-02",NA,NA
+2021,"Francisco do Nascimwento Pereira",57,"M","branca",NA,"acidente com maquita",NA,NA,NA,"nasal","contusão facial","X",NA,NA,"2020-12-02",NA,NA
+2021,"Gabriel Castigliani Bonini",25,"M","branca",NA,"acidente automobilistico",NA,NA,"x","parassínfise bilateral",NA,NA,NA,NA,NA,NA,NA
+2021,"Gabriel da Silva Barsagui",15,"M","branca",NA,"acidente ciclístico",NA,NA,NA,"nasal",NA,NA,1,NA,"2020-11-06","2020-11-07",NA
+2021,"Gabriel de Lima Carvalho",21,"M","branca",NA,"trauma desportivo",NA,NA,NA,"opn com deslocamento",NA,"X",NA,NA,"2020-05-31",NA,NA
+2021,"Gabriel Matheus Vieira",22,"M","parda",NA,"fpaf",NA,NA,NA,NA,"traumatismo dentoalveolar","X",NA,NA,"2021-01-06",NA,NA
+2021,"Gabriel Silva de Souza",3,"M","branca",NA,"acidente desportivo",NA,NA,NA,"não",NA,"x",NA,NA,"2020-08-19",NA,NA
+2021,"Gabriel Vinicius de Oliveira",20,"M","branca",NA,"acidente motociclístico",NA,NA,NA,"opn",NA,NA,NA,NA,"2020-05-09",NA,NA
+2021,"Gael de Almeida de La Major",1,"M","branca",NA,"qpa",NA,NA,NA,NA,"incisivos superiores decíduos com grande acúmulo de placa bacteriana e inflamação gengival","X",NA,NA,"2020-11-11",NA,NA
+2021,"George Rodrigues Hashiguti",1,"M","branca","nega","queda de nível",NA,NA,NA,"não","equimose labial","X",NA,NA,"2021-01-25",NA,NA
+2021,"Gerson da Silva",78,"M","branca",NA,"qpa",NA,"esquerdo",NA,"czmo esquerdo com deslocamento",NA,"X",NA,NA,"2020-04-16",NA,NA
+2021,"Gerson da Silva",78,"M","branca",NA,"qpa",NA,"esquerdo",NA,"czmo (e) com deslocamento",NA,NA,1,NA,"2020-04-16","2020-04-20",NA
+2021,"Gilson Cordeiro Rocha",30,"M","branca",NA,"acidente ciclístico",NA,NA,NA,"tda",NA,"X",NA,NA,"2021-02-15",NA,NA
+2021,"Glauber Rocha dos Santos",35,"M","parda",NA,"acidente motociclístico",NA,NA,NA,"não",NA,NA,NA,NA,"2020-09-13",NA,NA
+2021,"Guilherme dos Santos de Lima",3,"M","parda",NA,"queda de lixeira",NA,NA,NA,NA,"contusão facial e trauma dentoalveolar (51, 52, 61 e 62)","X",NA,NA,"2020-12-01",NA,NA
+2021,"Guilherme Gabriel Cardoso",9,"M","negra",NA,"acidente ciclistico",NA,NA,NA,"opn",NA,NA,NA,NA,"2020-07-20",NA,NA
+2021,"Guilherme Junio de Souza",25,"M","parda",NA,"acidente motociclístico",NA,NA,"X","sínfise, maxila, frontal, opn, czm esq.",NA,"x",NA,"uti","2021-03-28",NA,NA
+2021,"GUILHERME KAUE LIMA DOS SANTOS",2,"M","branca",NA,"queda de altura",NA,NA,NA,"tda 61 e 51",NA,"X",NA,NA,"2021-02-19",NA,NA
+2021,"Gustavo Felipe da Silva",21,"M","branca",NA,"acidente automobilistico",NA,"Direita",NA,"czmo direita",NA,NA,1,NA,NA,NA,NA
+2021,"Gustavo Henrique do Nascimento Figueiredo",4,"M","branca",NA,"trauma x anteparo",NA,NA,NA,"não",NA,NA,NA,NA,"2021-01-21",NA,NA
+2021,"Haduan Hassan Kassen Oliveira de Freitas",20,"M","branca",NA,"queda de nível",NA,NA,"X","parassínfise direita e côndilo bilateral",NA,NA,1,NA,"2020-08-08","2020-09-01",NA
+2021,"Heitor da Hora Oliveira",6,"M","branca",NA,"qpa",NA,NA,NA,"opn",NA,"x",NA,NA,"2020-12-18",NA,NA
+2021,"Heitor dos Santos",2,"M","branca",NA,"trauma x anteparo",NA,NA,NA,"trauma dentoalveolar",NA,NA,NA,NA,"2021-04-02",NA,NA
+2021,"Heitor Miguel Rodrigues",1,"M","branca","pcr 5x","pneumonia- intubado",NA,NA,NA,NA,"ulceras",NA,NA,NA,"2020-11-25",NA,NA
+2021,"Heitor Pereira Alves de Lima",1,"M","branca",NA,"qpa",NA,NA,NA,NA,"contusão facial","X",NA,NA,"2020-12-06",NA,NA
+2021,"HENRIQUE VON FRUHAUF GOMES",5,"M","branca",NA,"qpa",NA,NA,NA,"opn com discreto descolamento",NA,"X",NA,NA,"2020-05-31",NA,NA
+2021,"Hideko Doy",91,"M","branca",NA,"qpa",NA,"Esquerda",NA,"arco esq",NA,"x",NA,NA,NA,NA,NA
+2021,"Hudson Gustavo Mendes da Silva",19,"M","negra",NA,"acidente ciclistico",NA,"Esquerda",NA,"côndilo esquerdo",NA,"x",NA,NA,"2021-01-20",NA,NA
+2021,"Iago Fernando Candido Carlos",20,"M","negra",NA,"atropelamento",NA,NA,NA,NA,"contusão facial","X",NA,NA,"2020-06-11",NA,NA
+2021,"Igor Matheus Dias Correa",8,"M","parda",NA,"acidente automobilístico",NA,"Esquerda",NA,"côndilo esquerdo",NA,"x",NA,NA,"2020-09-06",NA,NA
+2021,"Igor Pedro Espadar",20,"M","branca","nega","acidente motociclístico",NA,NA,NA,"sm direito",NA,"X",NA,NA,"2021-01-14",NA,NA
+2021,"Ivan Klein de Oliveira",18,"M","branca",NA,"acidente de trabalho",NA,NA,NA,"opn",NA,NA,NA,NA,"2020-05-01",NA,NA
+2021,"Ivanildo da Silva",36,"M","negra",NA,"acidente ciclístico","não",NA,NA,"trauma dentoalveolar","malar esquerda",NA,NA,NA,"2020-05-11",NA,NA
+2021,"Jaime Cavalcanti Silva",85,"M","branca","has, dm, cardiopata","qpa",NA,"Esquerda",NA,"maxila esq., czm esq. e opn",NA,"X",NA,NA,"2021-02-26",NA,NA
+2021,"Jair Arruda",53,"M",NA,"nega","Agressão física",NA,NA,NA,"opn",NA,"X",NA,NA,NA,NA,NA
+2021,"Jairo dos Santos",76,"M","branca","dm e hipertensão","qpa",NA,NA,NA,"opn",NA,"X",NA,NA,"2021-03-12",NA,NA
+2021,"Janderson Rafael Teixeira Barboza",23,"M","parda",NA,"qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2020-05-06",NA,NA
+2021,"Jean Carlos Da Silva",24,"M","branca",NA,"Agressão física",NA,NA,NA,"não",NA,NA,NA,NA,"2020-12-14",NA,NA
+2021,"Jean Cesar Palhota",40,"M","branca",NA,"trauma x anteparo",NA,NA,NA,"opn",NA,"X",NA,NA,"2020-11-04",NA,NA
+2021,"Jeferson da Silva",NA,"M","parda",NA,"Agressão física",NA,NA,"X","corpo esq. e ângulo d",NA,NA,1,NA,NA,NA,NA
+2021,"Jeferson da Silva Mancao",35,"M","parda",NA,"Agressão física",NA,NA,NA,"mandíbula",NA,NA,1,NA,"2020-12-30","2021-01-06",NA
+2021,"Jeferson Ricardo da Silva",39,"M","branca",NA,"aumento de volume",NA,NA,NA,"não",NA,NA,1,NA,"2020-10-26",NA,NA
+2021,"Jeferson Silva Mancao",25,"M","branca","crack","infecção pós-operatória em fratura de mandíbula",NA,NA,NA,NA,NA,NA,1,NA,"2021-01-14",NA,NA
+2021,"Jeferson Sousa Chaves",32,"M","branca","nega","acidente de trabalho",NA,"Direita",NA,"arco zgm",NA,NA,NA,NA,"2020-10-20",NA,NA
+2021,"Jefferson de Souza Carrascossa",29,"M","branca",NA,"fpaf",NA,NA,"x","maxila bilat. e orbita direita",NA,"x",NA,NA,"2020-07-09",NA,NA
+2021,"Jenival Elisbao",54,"M","parda",NA,"Agressão física",NA,"direito",NA,"terço médio da face do tipo le fort i, le fort ii, czo direito e fratura longitudinal em maxila à direita",NA,"X",NA,NA,"2020-11-15",NA,NA
+2021,"Jenival Elisbão",54,"M","parda",NA,"Agressão física",NA,NA,"X","le fort ii; czo d e maxila d;",NA,NA,1,NA,"2020-11-15",NA,NA
+2021,"Jeremias Francisco Bernardes da Silva",46,"M","parda",NA,"qpa",NA,NA,NA,"nasal e espinha nasal anterior sem deslocamento","fratura coronária do 11","X",NA,NA,"2020-04-23",NA,NA
+2021,"Jeronimo da Silva Costa",27,"M","parda",NA,"queda de nível",NA,NA,NA,"não",NA,NA,NA,NA,"2020-05-14",NA,NA
+2021,"Jhonatan Gabriel Cardoso de Sá",16,"M","parda","maconha","cárie",NA,"direita",NA,NA,NA,NA,1,NA,"2021-01-12",NA,NA
+2021,"João Batista Carvalho",55,"M","negra","nega","queda de nivel",NA,"direito",NA,"assoalho orbitário direito",NA,"X",NA,NA,"2021-01-16",NA,NA
+2021,"João Bosco Ribeiro da Silva",33,"M","negra",NA,"queda de nivel",NA,NA,NA,"não",NA,NA,NA,NA,"2020-08-15",NA,NA
+2021,"João Carlos Longui",46,"M","branca",NA,"acidente ciclístico",NA,"direito",NA,"arco zigomático (d)",NA,"X",NA,NA,"2021-02-21",NA,NA
+2021,"João dos Santos",80,"M","parda",NA,"qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2021-01-24",NA,NA
+2021,"João Gustavo Mendes de souza",18,"M","parda",NA,"acidente de trabalho",NA,"Esquerda",NA,"órbita esquerda",NA,"x",NA,NA,NA,NA,NA
+2021,"João Henrique Teixeira",30,"M","parda",NA,"acidente motociclistico",NA,NA,NA,"não",NA,NA,NA,NA,"2020-06-01",NA,NA
+2021,"João Pedro de Lima",73,"M","branca",NA,"queda da cama",NA,NA,NA,NA,"contusão facial","X",NA,NA,"2021-02-20",NA,NA
+2021,"João Pedro Ferreira Cavalcanti",27,"M","negra",NA,"acidente motociclístico",NA,"Direita",NA,"czm; maxila direita;",NA,"X",NA,NA,NA,NA,NA
+2021,"João Pires da Silva Filho",58,"M","branca","hiv","desacordado em via pública",NA,NA,NA,"opn e côndilo, arco esq. prévios",NA,NA,NA,NA,"2020-08-30",NA,NA
+2021,"Joaquim dos santos dias",38,"M","parda","nega","acidente motociclístico",NA,"Esquerdo",NA,"opn; órbita e;",NA,NA,1,"redução de opn","2020-08-09",NA,NA
+2021,"Joel Fernando Coelho",23,"M","branca",NA,"acidente automobilistico",NA,NA,"X","czo bilat.",NA,NA,1,NA,"2020-12-28","2020-12-29",NA
+2021,"Joemir dos Santos Marafon",24,"M","branca",NA,"acidente motociclístico",NA,NA,NA,"assoalho de órbita esquerda; opn",NA,NA,NA,NA,"2020-05-04","2020-05-15",NA
+2021,"Jorge Luis Teodozio Dias",41,"M","branca",NA,"acidente ciclístico",NA,"Esquerda",NA,"sínfise  e côndilo esquerdo",NA,"x",NA,NA,"2020-10-03",NA,NA
+2021,"Jorge Luis Teodozio Dias",41,"M","branca",NA,"acidente ciclístico",NA,"esquerdo",NA,"sínfise mandibular e de côndilo alta à esquerda",NA,NA,1,NA,"2020-10-03","2020-10-05",NA
+2021,"Jose Adriano dos Santos",32,"M","parda","nega","cárie",NA,"Esquerda",NA,"não","aumento de volume",NA,NA,"abcesso odontogênico","2020-07-25",NA,NA
+2021,"Jose Alberto Bello",48,"M","branca","nega","acidente motociclístico","Sim",NA,NA,"frontal, maxila d","não","X",NA,NA,"2021-02-10",NA,NA
+2021,"Jose Antonio Caldeira Neto",37,"M","branca",NA,"acidente automobilistico",NA,NA,NA,"opn",NA,NA,NA,NA,"2021-01-19",NA,NA
+2021,"Jose Barbosa da Silva",69,"M","branca",NA,"acidente de trabalho",NA,"direito",NA,"parassínfise direita",NA,NA,1,NA,"2021-02-27","2021-03-01",NA
+2021,"Jose Carlos Batista",NA,"M","parda","nega","Agressão física",NA,NA,NA,"não",NA,NA,NA,NA,"2020-11-25",NA,NA
+2021,"Jose Carlos Braquini",63,"M","branca",NA,"acidente ciclístico",NA,NA,NA,NA,"contusão facial","X",NA,NA,"2020-12-03",NA,NA
+2021,"Jose Carlos da Silva",60,"M","parda",NA,"qpa",NA,NA,NA,NA,"contusão facial","X",NA,NA,"2020-07-05",NA,NA
+2021,"Jose Carlos Pereira",54,"M",NA,NA,"qpa",NA,NA,NA,"opn",NA,NA,NA,NA,"2020-05-19",NA,NA
+2021,"José da Silva Leal",58,"M","branca","nega","acidente motociclístico",NA,NA,NA,"não",NA,NA,NA,NA,"2021-01-11",NA,NA
+2021,"Jose Domingos da Silva",68,"M","branca","nega","qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2020-11-24",NA,NA
+2021,"Jose Donizeti Avelino",NA,"M","branca","nega","acidente motociclístico",NA,NA,NA,"opn",NA,NA,NA,NA,"2020-10-22",NA,NA
+2021,"Jose Donizeti Gil",57,"M","branca","dm e hipertensão","acidente de trabalho",NA,NA,"x","ãngulo esquerdo e corpo direito",NA,NA,NA,NA,"2020-06-20",NA,NA
+2021,"José Donizeti Gil",57,"M","branca","dm e hipertensão","acidente de trabalho",NA,NA,"X","mandíbula",NA,NA,1,NA,"2020-06-20","2020-06-22","2021-06-29"
+2021,"Jose dos Reis Castilho",78,"M","branca",NA,"qpa",NA,NA,NA,"opn",NA,"X",NA,NA,"2020-04-12",NA,NA
+2021,"José Edison de Freitas Esgalha",72,"M","parda",NA,"qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2020-05-05",NA,NA
+2021,"José Eduardo Martins de Lima",9,"M","branca",NA,"trauma x anteparo",NA,NA,NA,"não",NA,"X",NA,NA,"2020-11-07",NA,NA
+2021,"José Erisvanio Alves dos Santos",25,"M","parda",NA,"acidente cicli",NA,NA,NA,"não","fcc em lábio e mento",NA,NA,NA,"2021-03-08",NA,NA
+2021,"Jose Fabiano Ferreira dos Passos",21,"M","branca",NA,"queda de cavalo",NA,NA,NA,"opn com deslocamento",NA,NA,1,NA,NA,"2020-04-19",NA
+2021,"Jose Felix de Sousa",68,"M","branca",NA,"po de drenagem",NA,NA,NA,NA,"alguns elementos dentais com espessamento do ligamento periodontal e lesão de furca","X",NA,NA,"2020-04-13",NA,NA
+2021,"Jose Guilherme Santa Terra",69,"M",NA,NA,"avaliação da cavidade bucal foi solicitada devido a discite sem foco primário",NA,NA,NA,NA,"portador de doença periodontal sem débito purulento e sem mobilidade dentária","X",NA,NA,"2020-06-30",NA,NA
+2021,"Jose Leonir dos Santos",44,"M","negra","nega","acidente motociclístico",NA,"Direita",NA,"czo direita",NA,"x",NA,NA,"2020-10-24",NA,NA
+2021,"Jose Luiz da Rosa",36,"M","branca",NA,"acidente motociclístico",NA,NA,NA,NA,"trauma dentoalveolar envolvendo 21 e 22","X",NA,NA,"2020-11-09",NA,NA
+2021,"Jose Luiz dos Santos",70,"M","branca",NA,"atropelamento",NA,NA,"X","parassínfise bilateral; órbita e; maxila direita; czo esq.",NA,NA,1,NA,"2020-11-01","2020-11-02",NA
+2021,"José Marques Viana",69,"M","branca",NA,"acidente motociclístico",NA,"direito",NA,"frontal, czmo, arco zigomático e mandíbula na região coronoide (d)",NA,NA,1,NA,"2020-04-23","2020-04-24",NA
+2021,"JOSE NASCIMENTO DA SILVA",43,"M","negra","hipertensão","acidente motociclístico",NA,NA,"X","frontal, arco d, zgm bilat. corpo mandibular d; corpo e;",NA,NA,1,NA,"2021-03-18",NA,NA
+2021,"Jose Pedro Vignoli Martins",NA,"M","branca",NA,"queda de nivel",NA,NA,NA,"não",NA,NA,NA,NA,"2020-05-02",NA,NA
+2021,"Jose Reche Granado",84,"M","branca",NA,"qpa",NA,NA,NA,"opn",NA,"X",NA,NA,"2021-03-03",NA,NA
+2021,"Jose Severiano dos Santos",75,"M","branca",NA,"qpa",NA,NA,NA,"opn sem deslocamento",NA,"X",NA,NA,"2020-06-12",NA,NA
+2021,"Jose Taveira de Souza Sobrinho",59,"M","branca",NA,"qpa",NA,NA,NA,"opn","supercilio esq.","X",NA,NA,NA,NA,NA
+2021,"Jose Wilson da Costa",48,"M","branca","nega","qpa",NA,NA,NA,"não",NA,NA,NA,NA,NA,NA,NA
+2021,"Josimar Nunes de Oliveira",48,"M","parda",NA,"qpa",NA,NA,NA,"noe exposta",NA,NA,NA,NA,"2020-04-24",NA,NA
+2021,"Julio Cesar Romano",65,"M","branca","avc. medicamentos em uso: cloperidona, pantoprazol, oxacarbamazepina, baclofeno, lacosamida, alodipino, clobazan, fenobarbital, sinvastatina, macrodantina, clorpromazepina, 
+","pneumonias recorrentes e possível foco infeccioso em cavidade bucal",NA,NA,NA,NA,"cáries extensas e periodontite generalizada",NA,1,NA,NA,"2020-11-13",NA
+2021,"Julio Cesar Romano",65,"M",NA,"hipertensão, dm, tetraplegia","sangramento gengival",NA,NA,NA,"não",NA,NA,NA,NA,"2020-06-26",NA,NA
+2021,"Julio Ramalho",32,"M","negra",NA,"acidente ciclístico",NA,"Direita",NA,"frat de ângulo mandibular direita",NA,NA,1,NA,NA,NA,NA
+2021,"Juraci dos Reis",46,"M","branca",NA,"acidente de trabalho","não",NA,NA,"opn",NA,"x",NA,NA,"2020-05-05",NA,NA
+2021,"Juvenal Cortez",62,"M","branca","hipertenso","acidente de trabalho",NA,NA,NA,"não","laceração em lábio",NA,NA,NA,"2020-08-08",NA,NA
+2021,"Kaique Lima Neves",12,"M","parda",NA,"queda de nível",NA,NA,"x","czo bilat.",NA,"x",NA,NA,"2020-05-08",NA,NA
+2021,"Kenedy Crismael Augusto Firmino",3,"M","parda","nega","coice de cavalo",NA,"Esquerdo",NA,"czm esq.","laceração nasal","X",NA,"sutura","2020-08-06",NA,NA
+2021,"Kevin Alves do Carmo Silva",12,"M","parda",NA,"aumento de volume",NA,NA,NA,"não","biopsiado",NA,NA,NA,"2020-09-03",NA,NA
+2021,"Kooru Fugiwara",68,"M","branca","artrite","acidente motociclístico",NA,"Esquerda",NA,"côndilo esquerdo",NA,NA,1,NA,"2020-06-16",NA,NA
+2021,"Lauder Vinicius dos Santos",5,"M","branca",NA,"Acidente doméstico",NA,NA,NA,NA,"contusão facial","X",NA,NA,"2020-12-03",NA,NA
+2021,"Leandro Barros Gomes",38,"M","branca","etilismo","Agressão física",NA,"Direito",NA,"opn, côndilo direito, arco d, e sm direito.",NA,"X",NA,NA,"2021-04-04",NA,NA
+2021,"LENON MOREIRA MURAMATSO",28,"M","branca",NA,"acidente motociclístico",NA,NA,NA,"biselada em região de sínfise mandibular",NA,NA,NA,NA,"2020-07-12",NA,NA
+2021,"Leonardo soares Machado",25,"M","negra",NA,"acidente motociclistico",NA,"Direita",NA,"arco direito",NA,"x",NA,NA,NA,NA,NA
+2021,"Lucas de Medeiros Correita",25,"M","branca","nega","acidente ciclístico",NA,NA,NA,"não",NA,NA,NA,NA,"2021-01-26",NA,NA
+2021,"Lucas Dias de Franca",34,"M","branca",NA,"acidente ciclístico",NA,"Direito",NA,"czmo direito e arco d",NA,NA,1,NA,"2020-08-29","2020-09-01",NA
+2021,"Lucas Eloy Souza Teixeira",1,"M","branca",NA,"qpa",NA,NA,NA,NA,"contusão facial","X",NA,NA,"2021-02-04",NA,NA
+2021,"Lucas Gabriel de Bessa de Deus",19,"M","branca",NA,"acidente motociclistico",NA,NA,"x","sinfise, ângulo esquerdo e condilo direito",NA,NA,NA,NA,"2020-08-18",NA,NA
+2021,"Lucas Pelegrineli",26,"M","parda",NA,"acidente motociclístico",NA,"esquerdo",NA,"arco esq.; sm esq.",NA,"X",NA,NA,NA,NA,NA
+2021,"Luciano Gallo",43,"M","branca",NA,"acidente motociclistico",NA,"Esquerda",NA,"czo esq., orbita esq. e sm esq",NA,"x",NA,NA,NA,NA,NA
+2021,"Luciano Justino Pereira",NA,"M",NA,NA,"acidente motociclístico",NA,NA,NA,"opn, sm esq.",NA,"X",NA,NA,"2020-07-21",NA,NA
+2021,"Luis Gustavo Silva",18,"M","branca",NA,"acidente motociclístico",NA,NA,NA,"opn e czm esq.",NA,NA,NA,NA,"2020-05-22",NA,NA
+2021,"Luiz Antonio Nogueira da Silva",10,"M","branca",NA,"qpa",NA,NA,NA,NA,"traumatismo dentoalveolar","X",NA,NA,"2021-01-08",NA,NA
+2021,"Luiz Antonio Rodrigues da Silva",7,"M","branca",NA,"queda de nivel",NA,NA,NA,"não",NA,NA,NA,NA,"2020-12-15",NA,NA
+2021,"Luiz Carlos da Silva",21,"M","negra",NA,"Agressão física",NA,NA,"x","côndilo a direita e corpo esq",NA,NA,NA,NA,"2020-12-19","2020-12-20","2020-12-22"
+2021,"Luiz Felipe Diniz",27,"M","parda",NA,"Agressão física",NA,NA,NA,"opn",NA,NA,NA,NA,"2020-08-24",NA,NA
+2021,"Luiz Fernando Batista Leal",20,"M","parda","nega","qpa",NA,"x",NA,"frat incompleta de mandibula",NA,"x",NA,NA,"2021-01-15",NA,NA
+2021,"Luiz Henrique Rodrigues",28,"M",NA,NA,"acidente desportivo",NA,NA,NA,"opn",NA,"x",NA,NA,"2020-07-16",NA,NA
+2021,"Luiz Marciano Alves",54,"M","branca","nega","Agressão física",NA,"Direito",NA,"côndilo direito","laceração frontal esquerda e malar esq.","X",NA,NA,"2020-08-07",NA,NA
+2021,"Lusimar Roberto da Silva",31,"M","parda",NA,"remoção de aparelho fixo em arcada superior e inferior solicitado pela dra danyelle para possibilitar exame de ressonância magnética",NA,NA,NA,NA,NA,"X",NA,NA,"2020-12-03",NA,NA
+2021,"Maciel Moura Brasil",38,"M","parda",NA,"Agressão física",NA,NA,"x","corpo d e ângulo e",NA,NA,1,NA,"2021-01-01",NA,NA
+2021,"Maciel Moura Brasil",38,"M","parda",NA,"Agressão física",NA,NA,NA,"mandíbula",NA,NA,1,NA,"2021-01-01","2021-01-05",NA
+2021,"Marcelino Brito De Oliveira Neto",26,"M","parda",NA,"acidente de trabalho",NA,NA,"x",NA,"corpo mandibular e parassínfise e",NA,NA,NA,"2020-10-15",NA,NA
+2021,"Marcelo Alves do Amaral",45,"M",NA,NA,"acidente desportivo",NA,NA,NA,"opn",NA,"X",NA,NA,"2021-01-31",NA,NA
+2021,"Marcelo Alves do Amaral",45,"M","branca",NA,"qpa",NA,"Direita",NA,"corpo direito",NA,NA,NA,NA,"2020-08-24",NA,NA
+2021,"Marcelo Aparecido Silva",34,"M","branca","usuário de cocaína","acidente motociclístico",NA,"esquerdo",NA,"nasal, fratura de parede posterior de seio maxilar esquerdo e fratura da parede lateral de órbita esquerda",NA,"X",NA,NA,"2020-12-05",NA,NA
+2021,"Marcelo Correa Zanca",47,"M","negra","dm","trauma x anteparo",NA,NA,NA,"não",NA,NA,NA,NA,"2020-06-23",NA,NA
+2021,"Marcelo Machado Pires",43,"M","parda","nega","Agressão física",NA,NA,"X","parassínfise e ângulo esq. côndilo direito","mento",NA,1,NA,"2020-08-02","2020-08-05","2020-08-06"
+2021,"Marcelo Pavão",48,"M","branca","hipertensão. faz uso de losartana","queda de nível (2,5m)",NA,NA,NA,"septo nasal + opn sem deslocamento + fratura radicular dos elementos 11 e 21",NA,"X",NA,NA,"2020-07-10",NA,NA
+2021,"Marcio de Sousa Vilsen",15,"M","parda","nega","acidente motociclístico",NA,NA,"X","frontal e opn",NA,"X",NA,NA,"2020-11-29",NA,NA
+2021,"Marcio Pereira Gomes",41,"M","branca",NA,"Agressão física",NA,NA,NA,"mandíbula",NA,NA,1,NA,NA,"2021-01-07",NA
+2021,"Marco Antonio Dias Carvalho",38,"M","branca",NA,"Agressão física",NA,NA,NA,"fccs em face + fratura opn",NA,"X",NA,NA,"2021-01-10",NA,NA
+2021,"Marcos Antonio Sodre dos Santos",21,"M","negra",NA,"acidente automobilistico",NA,NA,NA,"noe",NA,NA,NA,"aguarda melhora","2020-08-06",NA,NA
+2021,"Marcos Barbosa",50,"M","parda",NA,"acidente automobilístico",NA,NA,NA,NA,"fda em terço superior e médio da face com perda de substância em nariz, região frontal, e região de pálpebra (e)","X",NA,NA,"2020-04-21",NA,NA
+2021,"Marcos Cesar Marioto",58,"M","branca",NA,"acidente ciclistico",NA,"Direito",NA,"czo direito",NA,"x",NA,NA,"2020-09-12",NA,NA
+2021,"Marcos de Sousa Mendes Bonifacio",24,"M","negra",NA,"acidente de trabalho",NA,"Esq",NA,"maxila esq., czm esq.",NA,"x",NA,NA,"2021-03-28",NA,NA
+2021,"Marcos Paulo de Assis Andrade",21,"M",NA,"nega","acidente motociclístico",NA,NA,NA,"corpo mandibular esquerdo; côndilo direito",NA,NA,1,NA,"2020-06-29",NA,NA
+2021,"Marcos Paulo de Assis Andrade",21,"M","parda",NA,"acidente motociclístico",NA,NA,"X","complexa de mandíbula (sinfise esquerda e condilo direito)",NA,NA,1,NA,"2020-06-28","2020-06-30",NA
+2021,"Marcos Rodrigo Rissato",40,"M","branca",NA,"queda de portão",NA,NA,NA,NA,"contusão facial","X",NA,NA,"2021-02-04",NA,NA
+2021,"Marcos Silva Cavalcante",49,"M","parda","usuário de cocaína","Agressão física",NA,NA,NA,"czo sem deslocamento",NA,"X",NA,NA,"2020-11-15",NA,NA
+2021,"Marcos Vinicius Ferreira Rossi",25,"M","parda",NA,"Agressão física",NA,"Esquerda",NA,"czo esq.",NA,"X",NA,NA,"2020-11-22",NA,NA
+2021,"Mario Eduardo de Sena Pereira",45,"M","branca",NA,"acidente ciclístico",NA,"esquerdo",NA,"czm (e)",NA,NA,1,NA,"2020-10-06","2020-10-07",NA
+2021,"Mark Corte Fazolin",41,"M","branca",NA,"queda de nível",NA,NA,NA,"opn",NA,"x",NA,NA,"2020-11-22",NA,NA
+2021,"Mateus Felipe Reolon Godoy",NA,"M","negra",NA,"cárie",NA,NA,NA,"não",NA,NA,NA,NA,"2020-05-04",NA,NA
+2021,"Matheus Felipe Reolon Godoy",5,"M","negra",NA,"cárie",NA,NA,NA,"não",NA,NA,NA,NA,"2020-05-02",NA,NA
+2021,"Matheus Henrique Leite de Souza",20,"M",NA,NA,"acidente ciclistico",NA,NA,NA,"não",NA,NA,NA,NA,"2020-05-22",NA,NA
+2021,"Matheus Nogueira Ferreira",22,"M","branca",NA,"Agressão física",NA,NA,NA,"opn, maxila e arco d",NA,"X",NA,NA,"2021-01-12",NA,NA
+2021,"Mauro Rosa de Andrade",68,"M",NA,"avc","qpa",NA,"ESQ",NA,"czm esq e opn",NA,"X",NA,NA,"2020-05-19",NA,NA
+2021,"Maxsuel Azevedo dos Santos",26,"M","parda",NA,"queda de escada",NA,NA,NA,"nasal sem deslocamento",NA,"X",NA,NA,"2021-02-07",NA,NA
+2021,"Miguel Felipe Carvalho",7,"M","branca","amigdalite","ulceras",NA,NA,NA,NA,NA,NA,NA,NA,"2020-05-22",NA,NA
+2021,"Miguel Pereira Domingues",8,"M","branca",NA,"mordedura canina",NA,"Direita",NA,"não","mento direito",NA,NA,NA,"2020-09-02",NA,NA
+2021,"Milton Cesar Teixeira",48,"M","negra","etilista e tabagista","Agressão física",NA,NA,"X","parede posterior do seio maxilar do lado direito e fratura em região frontozigomática do lado esquerdo",NA,"X",NA,NA,"2020-12-02",NA,NA
+2021,"Moises Camilo",14,"M","branca",NA,"acidente motociclístico",NA,NA,NA,"opn, temporal e parietal",NA,NA,NA,"óbito",NA,NA,NA
+2021,"MURILO BONFIM SAMPAIO NUNES",18,"M","branca",NA,"Agressão física",NA,"Esquerda",NA,"ângulo esq.",NA,NA,NA,NA,"2021-02-13",NA,NA
+2021,"Naasson Pereira de Alcantara",92,"M","branca",NA,"qpa",NA,"esquerdo",NA,"arco zigomático e (prévia)",NA,"X",NA,NA,"2021-01-07",NA,NA
+2021,"Natalino Elvadecir Pazeto",75,"M","branca","nega","atropelamento",NA,NA,NA,"opn",NA,"x",NA,NA,"2021-01-16",NA,NA
+2021,"Neurles Pereira de Souza",46,"M","parda",NA,"qpa",NA,"direito",NA,"nasal e parede anterior do seio maxilar do lado direito",NA,"X",NA,NA,"2020-12-05",NA,NA
+2021,"Nicolas Dos Santos Rocha",11,"M","negra",NA,"acidente ciclistico",NA,NA,NA,"não",NA,NA,NA,NA,"2021-02-25",NA,NA
+2021,"Nildo Aparecido de Souza Junior",NA,"M","parda",NA,"acidente motociclístico",NA,NA,NA,"ângulo e corpo mandibular",NA,NA,NA,NA,"2020-07-23",NA,NA
+2021,"Nilton Aparecido de Souza Junior",NA,"M","branca",NA,"acidente motociclístico",NA,NA,"x","corpo direito e ângulo esquerdo",NA,NA,NA,NA,"2020-07-27",NA,NA
+2021,"Nilton Cesar da Silva",50,"M","parda","etilismo crônico","Agressão física",NA,NA,NA,"opn com pouco deslocamento",NA,"X",NA,NA,"2020-11-15",NA,NA
+2021,"Olair Roberto de Barros",58,"M","branca","nega","acidente motociclístico",NA,NA,NA,"czmo e; e sm d;","hemiface esquerda",NA,1,NA,"2021-01-24","2021-01-30",NA
+2021,"Olivio Batista da Silva",53,"M","parda","etilista","Agressão física",NA,NA,"X","arco zigomático a esquerda sem deslocamento, fratura nasal e fratura de côndilo direito deslocado",NA,"X",NA,NA,"2020-12-06",NA,NA
+2021,"Osmir Lucas De Almeida Mendes",23,"M","parda",NA,"aumento de volume",NA,"Esquerda",NA,"não",NA,NA,1,"drenagem sob anestesia local","2020-10-29","2020-10-30",NA
+2021,"Osvaldo Henrique de Carvalho",61,"M","branca",NA,"acidente motociclístico",NA,"direito",NA,"parede anterior e posterior de seio maxilar (d). fratura de condilo mandibular (d)",NA,"X",NA,NA,"2020-10-05",NA,NA
+2021,"Otavio Travessos dos Santos Júnior",31,"M","branca","nega","Agressão física",NA,NA,NA,"não",NA,NA,NA,NA,"2020-08-03",NA,NA
+2021,"PACIENTE DESCONHECIDO TRAZIDO PELO SAMU",NA,"M","parda",NA,"Agressão física",NA,NA,"X","czmo com deslocamento medial + opn sem deslocamento + parassínfise mandibular esq. + ângulo mandibular dir.",NA,"X",NA,NA,"2020-04-19",NA,NA
+2021,"Patrick Aquino Martins",8,"M","branca",NA,"acidente desportivo",NA,NA,NA,"não",NA,NA,NA,NA,"2020-09-12",NA,NA
+2021,"Paulo Henrique Gomes Cavalheiro",31,"M",NA,NA,"Agressão física",NA,NA,NA,"opn",NA,"x",NA,NA,"2020-05-10",NA,NA
+2021,"Paulo José Pereira Paes",38,"M","parda",NA,"acidente motociclístico",NA,NA,NA,"opn sem deslocamento","lesão (cisto ?) em pré maxila","X",NA,NA,"2020-11-13",NA,NA
+2021,"Paulo Sérgio Simão",51,"M","negra","has","acidente motociclístico",NA,NA,"x","le fort ii",NA,NA,NA,NA,"2020-08-21",NA,NA
+2021,"Pedro Carlos Franco",40,"M","parda",NA,"Agressão física",NA,NA,"x","corpo esquerdo e ramo direito",NA,NA,NA,NA,NA,NA,NA
+2021,"Pedro Gois Fonseca",7,"M","branca",NA,"acidente desportivo",NA,NA,NA,"opn",NA,"X",NA,NA,"2021-01-12",NA,NA
+2021,"Pedro Henrique Barros Domingues",NA,"M","branca",NA,"queda de nivel",NA,NA,NA,"não",NA,NA,NA,NA,"2021-03-27",NA,NA
+2021,"Pedro Henrique de Castro",6,"M","branca",NA,"qpa",NA,NA,NA,"trauma dentoalveolar",NA,"X",NA,NA,NA,NA,NA
+2021,"Pedro Mata Fernandez",NA,"M","negra",NA,"acidente de trabalho",NA,NA,NA,"ângulo direito","infecção 48",NA,NA,NA,"2020-08-16",NA,NA
+2021,"Pedro Miguel Alves Escorcia",41,"M","branca",NA,"acidente de trabalho",NA,NA,NA,"trauma dentoalveolar",NA,NA,NA,NA,"2020-05-04",NA,NA
+2021,"Pedro Quessada Melhado",66,"M","branca",NA,"queda de nivel",NA,NA,NA,"opn",NA,NA,NA,NA,"2020-08-23",NA,NA
+2021,"PEDRO STEFANO SILVA FERREIRA",23,"M","parda",NA,"Agressão física",NA,"direito",NA,"côndilo (d), arco zigomático (d), parede lateral e anterior de seio maxilar (d)",NA,NA,NA,NA,"2021-02-21",NA,NA
+2021,"Rafael Alves de Andrade",25,"M",NA,NA,"acidente desportivo",NA,NA,NA,"não",NA,NA,NA,NA,"2020-07-16",NA,NA
+2021,"Rafael Alves de Andrade",25,"M","parda",NA,"cárie",NA,"Esq.",NA,"não","drenagem e exodontia",NA,NA,NA,"2020-04-27",NA,NA
+2021,"Rafael Vinicius Martins Cintra",29,"M","branca",NA,"acidente motociclístico",NA,NA,NA,"opn",NA,"X",NA,NA,"2020-09-01",NA,NA
+2021,"Raimundo Simplicio Ferreira",46,"M","branca",NA,"queda de nivel",NA,NA,NA,"não",NA,NA,NA,NA,"2020-08-15",NA,NA
+2021,"Ray Silva Rosa",16,"M","parda",NA,"queda de nivel",NA,NA,NA,"opn",NA,"x",NA,NA,"2021-02-13",NA,NA
+2021,"Reginaldo da Silva Barbosa",NA,"M","parda","preso","Agressão física",NA,"Direita",NA,"blow-out d",NA,"x",NA,NA,"2020-07-16",NA,NA
+2021,"REGINALDO DONISETE CUNHA",50,"M","branca",NA,"infecção pós-operatória em fratura de mandíbula",NA,NA,NA,NA,"infecção pós-operatória associada à dispositivo de fixação interna",NA,1,NA,NA,"2021-02-16",NA
+2021,"REGINALDO DONISETE CUNHA",50,"M","branca","nega","acidente motociclístico",NA,NA,NA,"sínfise, parassínfise direita, czmo esq.",NA,NA,NA,NA,"2020-09-28",NA,NA
+2021,"Renan William Pereira dos Santos",24,"M","negra",NA,"Agressão física",NA,NA,NA,"opn",NA,"x",NA,NA,"2020-08-20",NA,NA
+2021,"Ricardo Borges Teixeira",47,"M","branca",NA,"acidente automobilistico",NA,NA,NA,"opn",NA,"x",NA,NA,"2020-12-26",NA,NA
+2021,"Ricardo Nunes da Silva",53,"M","negra",NA,"queda de nível",NA,"Esquerda",NA,"arco esq. e assoalho de órbita e",NA,"x",NA,NA,NA,NA,NA
+2021,"Ricardo Vales Domingues",74,"M","branca","quimioterapia","qpa",NA,NA,NA,"opn",NA,NA,NA,NA,"2020-06-18",NA,NA
+2021,"Rivair Evangelista",47,"M","branca",NA,"qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2020-12-22",NA,NA
+2021,"Rivanildo dos Santos",39,"M","negra",NA,"acidente motociclístico",NA,NA,NA,"opn","terço sup. direito","X",NA,NA,NA,NA,NA
+2021,"Roberto Antonio Capistre",37,"M","branca",NA,"acidente motociclístico",NA,NA,NA,"nasal",NA,NA,1,NA,"2020-11-07","2020-11-08",NA
+2021,"Roberto Nogueira",34,"M","branca",NA,"mordedura própria",NA,NA,NA,"não","iot",NA,NA,NA,"2020-12-20",NA,NA
+2021,"Roberto Santos",40,"M","negra",NA,"queda de nivel",NA,"Esq",NA,"czo esq. e assoalho orb. e",NA,"x",NA,NA,"2020-12-16",NA,NA
+2021,"Robson Luiz dos Santos",18,"M","parda",NA,"acidente motociclistico",NA,NA,NA,"órbita dir e czo direito",NA,"x",NA,NA,"2020-05-04",NA,NA
+2021,"Rodrigo Aparecido Da Silva",35,"M","branca",NA,"Agressão física",NA,NA,"X","corpo direito e ângulo esquerdo",NA,NA,1,NA,"2021-03-28","2021-03-29",NA
+2021,"Rodrigo Aparecido da Silva",35,"M","negra",NA,"Agressão física",NA,NA,"x","corpo direito e ângulo esquerdo",NA,NA,NA,NA,NA,NA,NA
+2021,"Rodrigo Augusto de Souza",33,"M","negra",NA,"qpa",NA,NA,NA,"nasal",NA,"X",NA,NA,"2020-11-05",NA,NA
+2021,"Rodrigo Bueno de Godoy",32,"M","branca",NA,"acidente automobilistico",NA,"Direita",NA,"assoalho de órbita",NA,"X",NA,NA,NA,NA,NA
+2021,"Romualdo de Souza Vasconcelos",57,"M","parda",NA,"queda de nível",NA,NA,NA,"não","hemiface esquerda",NA,NA,NA,"2020-05-14",NA,NA
+2021,"RONALD CONCEIÇÃO SILVA",30,"M","parda",NA,"Agressão física",NA,NA,NA,"trauma dentoalveolar","lábio inferior d; fronte d e e;","X",NA,"sutura","2021-03-21",NA,NA
+2021,"RONALDO BALLES CAPUTO",45,"M","branca",NA,"acidente automobilístico e atropelamento",NA,NA,NA,"le fort i e ii, opn, osso frontal sem desvios",NA,NA,NA,NA,"2021-02-10",NA,NA
+2021,"Ronaldo BallesCaputo",45,"M",NA,"nega","acidente motociclístico",NA,NA,NA,"le fort i, ii opn e frontal","hemiface esquerda","X",NA,NA,"2021-02-10",NA,NA
+2021,"Ronei Nogueira Pina",14,"M","parda","nega","acidente de trabalho",NA,"Direita",NA,"parassínfise e ângulo direito",NA,NA,1,NA,"2020-10-18",NA,NA
+2021,"ROSALVO DOS SANTOS SOARES",73,"M","branca",NA,"aumento de volume",NA,"DIREITO",NA,NA,NA,NA,NA,"cabeça e pescoço","2021-03-19",NA,NA
+2021,"Ruan Barbosa da Silva",12,"M","parda",NA,"queda de bicicleta",NA,NA,NA,"trauma facial com fcc",NA,"X",NA,NA,"2020-04-19",NA,NA
+2021,"Rubens Caetano Fidalgo",72,"M","branca",NA,"queda de nível",NA,NA,NA,"não",NA,NA,NA,NA,"2020-12-26",NA,NA
+2021,"Rubens Segobe Bazzigueto",73,"M","branca",NA,"qpa",NA,"Direito",NA,"assoalho orb. direito",NA,"x",NA,NA,"2020-06-04",NA,NA
+2021,"Sandro Marco da Silva",36,"M","branca",NA,"qpa",NA,NA,NA,"opn sem descolamento",NA,"X",NA,NA,"2020-05-30",NA,NA
+2021,"Sebastian Miguel Zanelli Locateli",2,"M","branca",NA,"qpa",NA,NA,NA,"não","laceração em língua",NA,1,NA,"2020-11-08","2020-11-08",NA
+2021,"Sebastião Lopes de Oliveira",68,"M","parda",NA,"queda de nível (1m)",NA,NA,NA,NA,"contusão facial","X",NA,NA,"2021-01-10",NA,NA
+2021,"Sergio Alves do Nascimento",48,"M",NA,NA,"acidente automobilistico",NA,NA,"X","czm bilat.;",NA,"X",NA,NA,"2020-04-21",NA,NA
+2021,"Sergio Alves do Nascimento",48,"M","parda",NA,"acidente automobilístico",NA,"esquerdo",NA,"czmo bilateral, assoalho de seio frontal, região de espinha nasal anterior e fratura palatina (e)",NA,"X",NA,NA,"2020-04-21",NA,NA
+2021,"Severino Henrique Neto",79,"M","branca",NA,"biopsia de gld salivar menor",NA,NA,NA,"não",NA,NA,NA,NA,"2020-09-11",NA,NA
+2021,"Silvano Pontes",42,"M","branca",NA,"queda de nível",NA,NA,"x","corpo direito e ângulo esquerdo, czo esq.",NA,NA,NA,NA,"2020-07-27",NA,NA
+2021,"Silvio Bisse",88,"M","parda","insuf.renal e hipertensão","atropelamento",NA,NA,NA,"opn",NA,NA,NA,NA,"2020-06-20",NA,NA
+2021,"TEIZO SUMIKAWA",74,"M","branca","has, relata cateterismo há 10 anos. faz uso de somalgin, sinvastatina, nebivolol.","qpa",NA,"direito",NA,"frontozigomática (d), assoalho de órbita (d) e parede anterior de maxila",NA,NA,1,NA,"2020-07-05","2020-07-07",NA
+2021,"Teizo Sumikawa",74,"M","branca","has, relata cateterismo há 10 anos. faz uso de somalgin, sinvastatina, nebivolol","qpa",NA,"direito",NA,"frontozigomática (d). assoalho de órbita (d) e parede anterior de maxila",NA,"X",NA,NA,"2020-07-05",NA,NA
+2021,"Thaylon Henrique Xavier Ribeiro",4,"M","negra",NA,"acidente ciclistico",NA,NA,NA,"não",NA,NA,NA,NA,"2020-08-18",NA,NA
+2021,"Thiago Rezende da Silva",33,"M","branca",NA,"acidente motociclístico",NA,NA,NA,"mento, opn, e arco d",NA,NA,1,NA,"2020-09-06","2020-09-08","2020-09-09"
+2021,"Thiago Vilas Boas do Nascimento",24,"M","branca",NA,"acidente ciclístico",NA,NA,NA,"opn",NA,"X",NA,NA,"2020-09-04",NA,NA
+2021,"Tiago Lima Scarpino",34,"M","branca",NA,"acidente desportivo",NA,"Esquerdo",NA,"czm esq.",NA,"X",NA,NA,"2020-11-20",NA,NA
+2021,"Tiego Vilas Boas do Nascimento",22,"M","parda",NA,"acidente motociclístico",NA,"esquerdo",NA,"ângulo mandibular (e)",NA,NA,1,NA,"2020-10-05","2020-10-06",NA
+2021,"Ulisses Tobias",32,"M","negra",NA,"Agressão física",NA,NA,NA,"não",NA,NA,NA,NA,"2020-05-09",NA,NA
+2021,"Valdemar Ferreira Teles",61,"M","branca",NA,"acidente motociclístico",NA,"Esq",NA,"côndilo esquerdo e czm esq.",NA,"X",NA,NA,"2020-09-12",NA,NA
+2021,"Valdir Pereira dos Santos",39,"M","negra","etilista","acidente ciclistico",NA,"Esquerdo",NA,"czo esq.",NA,"x",NA,NA,"2020-10-25",NA,NA
+2021,"Valdir Soares de Souza",48,"M","branca",NA,"acidente automobilistico",NA,NA,NA,"opn",NA,"x",NA,NA,"2020-12-24",NA,NA
+2021,"Valdomiro Luiz Pereira",54,"M","parda",NA,"acidente ciclistico",NA,NA,"X","corpo bilateral",NA,NA,NA,NA,"2020-08-10","2020-08-12","2020-08-13"
+2021,"Valter Porfirio",60,"M","parda",NA,"acidente ciclistico",NA,NA,NA,"opn",NA,"x",NA,NA,"2020-05-09",NA,NA
+2021,"Vander da Silva Fadil Lubus",33,"M","parda",NA,"acidente ciclistico",NA,NA,NA,"trauma dentoalveolar",NA,"x",NA,NA,"2020-12-24",NA,NA
+2021,"Vanderlei de Souza",51,"M","branca",NA,"Agressão física",NA,NA,"X","czm bilat. côndilo d, coronoide e opn",NA,NA,1,NA,"2020-09-06",NA,NA
+2021,"Vanderson de Souza Ramos Martins",30,"M","negra",NA,"Agressão física",NA,"Esquerda",NA,"opn e czm esq.",NA,"x",NA,NA,"2021-01-23",NA,NA
+2021,"Vanderson Sant Ana",36,"M","parda",NA,"infecção odontogênica",NA,NA,NA,NA,"aumento de volume infra-orbitário do lado esquerdo em regressão com queixas de visão turva",NA,NA,NA,"2020-06-10",NA,NA
+2021,"Vanderson Santana",36,"M","parda",NA,"tto dentário (dente 26)",NA,NA,NA,NA,"celulite periorbitária, infecção de origem odontogênica","X",NA,NA,"2020-05-31",NA,NA
+2021,"Venilson do Nascimento Freire",25,"M",NA,NA,"acidente desportivo",NA,"Esquerdo",NA,"arco zgm esq. sm bilat.",NA,"X",NA,NA,"2020-05-17",NA,NA
+2021,"Vicente Matarazzo Junior",41,"M","parda",NA,"cárie",NA,"Esquerda",NA,"44 e 47",NA,NA,NA,NA,"2021-01-22",NA,NA
+2021,"Victor Gabriel Holanda Padilha",11,"M","branca",NA,"atropelamento",NA,"Direito",NA,"côndilo direito",NA,"x",NA,NA,"2020-08-17",NA,NA
+2021,"Vinicius Baldenedro Batista",20,"M","branca",NA,"qpa durante fuga da polícia",NA,NA,NA,"nasal sem deslocamento",NA,"X",NA,NA,"2020-11-15",NA,NA
+2021,"Vinicius Hebert Almeida dos Santos",23,"M","parda",NA,"acidente motociclístico",NA,"Direito",NA,"sínfise e ângulo direito",NA,NA,NA,"neurologia","2021-02-10",NA,NA
+2021,"VINICIUS HEBERT ALMEIDA DOS SANTOS",23,"M","parda",NA,"acidente motociclístico",NA,NA,"X","mandibular de parassínfise esquerda e ângulo direito",NA,NA,1,NA,"2021-02-10","2021-02-19",NA
+2021,"Vitor Santos Queiroz",5,"M","parda",NA,"trauma x anteparo",NA,NA,NA,"não",NA,"x",NA,NA,"2020-06-05",NA,NA
+2021,"Vitor Vinicius Sabino da Silva",18,"M","negra","nega","Agressão física",NA,NA,NA,"não",NA,NA,NA,NA,"2020-11-24",NA,NA
+2021,"Wagner Luis Rocha",44,"M","parda",NA,NA,NA,NA,NA,"não",NA,NA,NA,NA,"2020-06-05",NA,NA
+2021,"Wagner Vitor de Souza",45,"M","parda",NA,"acidente motociclístico",NA,"direito",NA,"arco zigomático direito",NA,"X",NA,NA,"2021-02-02",NA,NA
+2021,"Waldeir Lopes",42,"M","parda",NA,"atropelamento",NA,NA,NA,"opn, frontal, noe,",NA,NA,NA,NA,"2020-09-12","2020-09-13",NA
+2021,"Waldemir Astolphi",55,"M","parda",NA,"acidente ciclistico",NA,NA,NA,"czo esq.",NA,"x",NA,NA,"2020-06-01",NA,NA
+2021,"Walter Alex da Ressurreição",23,"M","branca",NA,"acidente desportivo",NA,NA,NA,"opn",NA,NA,NA,NA,"2020-05-03",NA,NA
+2021,"Wellington dos Santos Amorim",39,"M",NA,"etilista e drogadito","Agressão física",NA,"Esquerdo",NA,"côndilo esquerdo e maxila",NA,NA,1,NA,"2020-05-08","2020-05-13","2020-05-14"
+2021,"Wendell Felipe Garcia",20,"M","branca",NA,"acidente motociclistico",NA,NA,NA,"opn",NA,"x",NA,NA,"2020-06-06",NA,NA
+2021,"Wesley Araújo da Silva",29,"M","negra",NA,"acidente motociclístico",NA,"Esquerdo",NA,"parassínfise e côndilo esquerdo",NA,NA,1,NA,"2020-09-13",NA,NA
+2021,"Wesley Israel Santos Finotti",9,"M","negra",NA,"qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2020-12-14",NA,NA
+2021,"Wesley Júnior Santos Melo",39,"M","parda",NA,"acidente ciclistico",NA,NA,NA,"base de mandibula",NA,NA,NA,NA,"2020-08-14",NA,NA
+2021,"Wesley Ribeiro da Silva",25,"M","parda",NA,"abscesso odontogênico",NA,NA,NA,NA,"abscesso odontogênico","X",NA,NA,"2021-02-05",NA,NA
+2021,"William Chagas de Lima",24,"M","parda",NA,"acidente automobilistico",NA,NA,NA,"corpo mandibular direito",NA,"X",NA,"aguarda melhora","2020-05-14",NA,NA
+2021,"William Costa Lima",14,"M","branca",NA,"acidente ciclistico",NA,NA,NA,"trauma dentoalveolar",NA,NA,NA,NA,"2020-06-16",NA,NA
+2021,"William Jose Alves Barbosa",32,"M","branca",NA,"acidente motociclístico","não",NA,NA,"opn",NA,"x",NA,NA,"2020-07-29",NA,NA
+2021,"William Nascimento Ramos",19,"M","branca",NA,"acidente motociclístico",NA,NA,NA,"opn",NA,NA,NA,NA,"2020-08-10",NA,NA
+2021,"WILLIAN CHAGAS DE LIMA",24,"M","parda",NA,"acidente automobilístico",NA,NA,NA,"alveolar superior anterior e de corpo de mandíbula",NA,NA,1,NA,"2020-05-14","2020-05-25",NA
+2021,"Wilson Roberto Rodrigues Lessa",65,"M","branca",NA,"acidente ciclistico",NA,"Esquerdo",NA,"czo, arco, ângulo esq. maxila esq.",NA,NA,NA,NA,"2020-08-22",NA,NA
+2021,"Wilson Vieira Lima",57,"M","branca","hipertensão","atropelamento",NA,"esquerda",NA,"arco zgm esq.",NA,NA,NA,NA,NA,NA,NA
+2021,"Yoneo Sasaki",87,"M","branca","has, infarto","qpa",NA,"Direita",NA,"czo dir.",NA,"x",NA,NA,"2020-10-25",NA,NA
+2021,"Yoshi Sumitomo",86,"M","branca",NA,"qpa",NA,NA,NA,"não",NA,NA,NA,NA,"2020-07-24",NA,NA
+2021,"Yuri Miska Barbosa da Silva",7,"M","branca",NA,"acidente ciclístico",NA,NA,NA,"trauma dentoalveolar",NA,"x",NA,NA,"2021-04-04",NA,NA
+2021,"Zenaldo dos Santos Vieira",49,"M","parda","etilista crônico","Agressão física",NA,NA,NA,"nasal com mínimo deslocamento",NA,"X",NA,NA,"2020-11-30",NA,NA

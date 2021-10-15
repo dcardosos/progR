@@ -3,6 +3,7 @@ library(magrittr)
 library(ggplot2)
 
 # LENDO OS DADOS -----------------------------------------
+## Rscript formatacao.R
 dados <- readr::read_csv('dados.csv')
 dplyr::glimpse(dados)
 
